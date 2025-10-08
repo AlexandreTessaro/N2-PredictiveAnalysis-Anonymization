@@ -1,4 +1,4 @@
-# Anonimização de Dados - Conformidade com LGPD
+# 🔒 Anonimização de Dados - Conformidade com LGPD
 
 ## 📋 Descrição do Projeto
 
@@ -56,18 +56,6 @@ Este projeto implementa técnicas de anonimização de dados pessoais em conform
 - **Descrição**: Adiciona ruído calibrado para garantir privacidade diferencial
 - **Aplicação**: Dados numéricos sensíveis
 - **Parâmetros**: ε=1.0 (parâmetro de privacidade)
-
-## 📁 Estrutura do Projeto
-
-```
-N2-PredictiveAnalysis/
-├── requirements.txt                 # Dependências do projeto
-├── sample_data_generator.py        # Gerador de dados sensíveis
-├── anonymization_techniques.py     # Implementação das técnicas
-├── demo_anonymization.py          # Demonstração completa
-├── README.md                      # Documentação do projeto
-└── dados_sensiveis_original.csv   # Dataset de exemplo (gerado)
-```
 
 ## 🚀 Como Executar
 
@@ -142,20 +130,6 @@ python anonymization_techniques.py
 - **Portabilidade**: Dados anonimizados podem ser transferidos
 - **Eliminação**: Dados originais podem ser eliminados após anonimização
 
-## 🛠️ Ferramentas Utilizadas
-
-### Bibliotecas Python
-- **pandas**: Manipulação de dados
-- **numpy**: Operações numéricas
-- **anonymization-library**: Técnicas de anonimização
-- **faker**: Geração de dados sintéticos
-- **matplotlib/seaborn**: Visualizações
-
-### Técnicas de Anonimização
-- **ARX**: Framework de anonimização (referência)
-- **IBM Guardian**: Solução empresarial (referência)
-- **Google TensorFlow Privacy**: Privacidade diferencial (referência)
-
 ## 📚 Referências
 
 ### Legislação
@@ -166,11 +140,6 @@ python anonymization_techniques.py
 - Samarati, P., & Sweeney, L. (1998). Protecting privacy when disclosing information: k-anonymity and its enforcement through generalization and suppression.
 - Machanavajjhala, A., et al. (2007). l-diversity: Privacy beyond k-anonymity.
 - Dwork, C. (2006). Differential privacy.
-
-### Ferramentas
-- [ARX Data Anonymization Tool](https://arx.deidentifier.org/)
-- [IBM Guardian](https://www.ibm.com/security/data-privacy)
-- [TensorFlow Privacy](https://github.com/tensorflow/privacy)
 
 ## 👥 Autores
 
@@ -196,9 +165,16 @@ python anonymization_techniques.py
 - Implementar auditoria e monitoramento
 - Revisar periodicamente as técnicas aplicadas
 
-## 📞 Suporte
+---
 
-Para dúvidas ou sugestões sobre o projeto, entre em contato através do Teams da disciplina.
+## 📖 **PARA APRESENTAÇÃO IN LOCO**
+
+**📋 Consulte o arquivo `README_APRESENTACAO.md` para:**
+- Explicações detalhadas das técnicas
+- Resultados comparativos completos
+- Exemplos práticos de transformação
+- Recomendações de implementação
+- Material completo para apresentação
 
 ---
 
