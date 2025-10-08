@@ -9,7 +9,7 @@ import hashlib
 import re
 from datetime import datetime, timedelta
 import random
-from anonymization_library import TextAnonymizer
+# from anonymization_library import TextAnonymizer  # Biblioteca não disponível, implementação própria
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -19,7 +19,8 @@ class DataAnonymizer:
     """
     
     def __init__(self):
-        self.text_anonymizer = TextAnonymizer()
+        # self.text_anonymizer = TextAnonymizer()  # Implementação própria
+        pass
     
     def k_anonymity(self, df, quasi_identifiers, k=3):
         """
@@ -36,8 +37,14 @@ class DataAnonymizer:
         """
         print(f"Implementando K-Anonimidade com k={k}")
         
-        # Criar grupos baseados nos quasi-identificadores
-        groups = df.groupby(quasi_identifiers)
+        # Verificar se as colunas existem
+        available_columns = [col for col in quasi_identifiers if col in df.columns]
+        if not available_columns:
+            print("Nenhuma coluna quasi-identificadora encontrada. Retornando dataset original.")
+            return df.copy()
+        
+        # Criar grupos baseados nos quasi-identificadores disponíveis
+        groups = df.groupby(available_columns)
         
         # Filtrar grupos com menos de k registros
         valid_groups = groups.filter(lambda x: len(x) >= k)
@@ -45,6 +52,20 @@ class DataAnonymizer:
         print(f"Registros originais: {len(df)}")
         print(f"Registros após K-anonimidade: {len(valid_groups)}")
         print(f"Registros removidos: {len(df) - len(valid_groups)}")
+        
+        # Se todos os registros foram removidos, aplicar generalização primeiro
+        if len(valid_groups) == 0:
+            print("Todos os registros foram removidos. Aplicando generalização prévia...")
+            df_generalized = self.generalization(df, {
+                'idade': {'type': 'age_ranges'},
+                'cidade': {'type': 'location_generalization'}
+            })
+            
+            # Tentar novamente com dados generalizados
+            groups = df_generalized.groupby(available_columns)
+            valid_groups = groups.filter(lambda x: len(x) >= k)
+            
+            print(f"Registros após generalização + K-anonimidade: {len(valid_groups)}")
         
         return valid_groups.reset_index(drop=True)
     
@@ -269,7 +290,7 @@ class DataAnonymizer:
         Returns:
             pd.DataFrame: Dataset com privacidade diferencial
         """
-        print(f"Implementando Privacidade Diferencial (ε={epsilon})")
+        print(f"Implementando Privacidade Diferencial (epsilon={epsilon})")
         
         df_private = df.copy()
         

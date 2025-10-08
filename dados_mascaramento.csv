@@ -1,0 +1,1501 @@
+id,nome_completo,cpf,rg,email,telefone,endereco,cidade,estado,cep,data_nascimento,idade,profissao,empresa,salario,altura,peso,imc,renda_familiar,numero_cartao,score_credito,tempo_cliente,data_cadastro
+1,Ravy Pires,481***.***-07,643217502,c***@example.org,***-****-0756,"Morro Joaquim Aparecida, 66
+Laranjeiras
+49054986 Porto / MA",Almeida Alegre,Minas Gerais,15812-955,1966-02-05,59,Líder comunitário,Correia Ltda.,6663,1.77,99.5,31.8,66634,180087015302960,463,19,2021-11-03 14:39:55
+2,Dante Castro,935***.***-89,701658344,v***@example.net,***-****-5950,"Fazenda Costela, 69
+Nova Gameleira
+56626472 Casa Grande dos Dourados / PB",da Conceição de Fonseca,Mato Grosso do Sul,73217-013,1960-04-15,65,Agente funerário,Lopes Pereira - ME,9525,1.9,102.7,28.4,41335,4318286909068540,746,10,2023-01-14 11:05:46
+3,Rafaela Dias,670***.***-10,537826014,e***@example.net,***-****-3854,"Lago de Nascimento, 46
+Maria Virgínia
+22766097 da Mota da Serra / PR",Nascimento do Galho,Paraná,28073-846,1993-12-17,31,Educador integrado à saúde pública,Barros,42717,1.74,103.0,34.0,69051,2230663473545435,447,13,2024-09-10 09:44:38
+4,Davi Sales,724***.***-50,038746219,l***@example.net,***-****-9174,"Vila Aparecida, 8
+Vila Petropolis
+32385-022 Casa Grande / AM",Gomes,Rio Grande do Sul,88744-614,1960-03-26,65,Policial federal,Azevedo,25836,1.55,77.0,32.0,24761,4425751266265645401,705,20,2023-01-01 15:46:42
+5,Bianca Lopes,613***.***-09,342081767,m***@example.net,***-****-6643,"Praia Maria Isis Melo
+Mangueiras
+96531-702 Nogueira de Goiás / MA",Ramos,Tocantins,49339777,1951-12-31,73,Fisiculturista,Mendonça Silva Ltda.,33482,1.85,68.0,19.9,31998,213115933673849,665,7,2023-06-03 06:58:33
+6,Samuel Pereira,283***.***-24,310456289,r***@example.com,***-****-7498,"Distrito de Gonçalves, 703
+Pindorama
+83409625 Sales / MG",Mendes de Sampaio,Paraná,66729293,1972-11-03,52,Avalista,Pacheco - ME,13137,1.93,86.0,23.1,66711,372393978689619,649,19,2021-05-09 17:33:33
+7,Yan Pacheco,759***.***-99,314675826,m***@example.org,***-****-8563,"Distrito Fogaça, 12
+Santa Rosa
+16595-377 Pinto / BA",Costa de Martins,Tocantins,12626352,2002-12-07,22,Enólogo,Vargas Fonseca - EI,43787,1.9,106.2,29.4,81888,3565180658019949,654,6,2023-03-17 07:23:19
+8,Sra. Bárbara da Costa,683***.***-10,348170257,a***@example.com,***-****-6632,"Lago Mendonça, 2
+Vila Nova Gameleira 2ª Seção
+97894161 Rios do Amparo / PE",Ribeiro das Flores,Paraná,84093454,1949-05-01,76,Engenheiro de transportes,Câmara Vasconcelos Ltda.,8393,1.81,93.3,28.5,12268,4776549818477606,470,19,2021-02-13 08:51:43
+9,Maria Laura Dias,789***.***-59,68413052X,p***@example.com,***-****-5719,"Recanto de Andrade, 59
+Vila Ipiranga
+07448-736 Aparecida das Pedras / AL",Abreu,Minas Gerais,78537955,1975-12-06,49,Produtor fonográfico,Abreu,12134,1.53,58.6,25.0,67192,379021341209277,828,17,2021-09-26 18:49:31
+10,Sophia Santos,915***.***-19,364702813,e***@example.com,***-****-1527,"Praia de Campos, 99
+Aparecida
+20219515 Cardoso / MT",Correia Paulista,Mato Grosso do Sul,16331216,1993-09-01,32,Velejador,Mendes,36571,1.88,111.0,31.4,53687,4884346760245,783,16,2025-02-01 09:44:03
+11,Juliana Santos,524***.***-09,702486310,p***@example.com,***-****-8794,"Lago Ribeiro, 36
+Vila Santo Antônio
+42876-676 Machado de Garcia / MA",Moreira,Maranhão,32900-809,1982-12-07,42,Broker/Corretor da bolsa de valores,Freitas Cardoso - ME,12771,1.99,75.4,19.0,74492,5473744139415830,814,13,2021-07-16 22:36:16
+12,Noah Porto,306***.***-00,420671353,l***@example.net,***-****-6189,"Pátio Vitor Gabriel da Cruz, 15
+Buraco Quente
+20773989 da Mata / PA",Caldeira,Pernambuco,97082-771,1950-01-20,75,Luthier,Siqueira Lima S.A.,29680,1.97,92.4,23.8,84841,5513620797799347,765,20,2020-11-30 13:04:46
+13,Felipe Fernandes,195***.***-73,582430719,e***@example.net,***-****-2450,"Passarela Davi Lucas Siqueira, 79
+Novo Glória
+02939-997 Machado / AP",da Mota da Praia,Pará,21668-634,1949-12-28,75,Zelador,Peixoto,28297,1.91,72.6,19.9,28481,4591871138558517452,682,10,2021-02-03 02:08:56
+14,Dr. Diogo Siqueira,830***.***-44,058341766,l***@example.com,***-****-6692,"Rodovia Silveira, 240
+Santa Efigênia
+42784530 Fonseca / MA",Farias de Goiás,Sergipe,50585-026,1950-07-20,75,Técnico em taquigrafia,da Cunha S/A,19989,1.8,92.6,28.6,77593,343309218788413,589,18,2021-07-07 11:37:39
+15,Srta. Bella da Costa,071***.***-53,450127382,r***@example.net,***-****-3502,"Alameda Novais, 39
+Marieta 1ª Seção
+17987-593 Oliveira de Mendonça / PI",Albuquerque,Mato Grosso,80956830,1957-04-29,68,Arranjador musical,Nogueira,20502,1.79,113.5,35.4,60102,4662902030672264362,347,12,2022-04-09 13:20:34
+16,Sophie Moura,160***.***-80,615073487,l***@example.org,***-****-2843,"Viela Brayan Guerra, 41
+Santa Maria
+96648575 Andrade dos Dourados / AP",da Mata,Acre,23098-010,1962-11-22,62,Mecânico,Brito,35721,1.54,69.8,29.4,52211,4975652425232056,467,19,2022-01-29 14:16:21
+17,Luigi Cardoso,314***.***-01,476215389,j***@example.net,***-****-3903,"Estrada Vieira, 18
+Conjunto Califórnia Ii
+27039316 Vasconcelos dos Dourados / SE",Macedo,Bahia,15918-067,1976-09-30,49,Engenheiro de controle e automação,Siqueira Alves S/A,16314,1.75,51.6,16.8,25758,2273931522932567,682,6,2021-12-03 04:07:57
+18,Luiz Gustavo Moura,371***.***-28,280637159,m***@example.com,***-****-1888,"Sítio Emanuelly Aparecida, 182
+Conjunto Capitão Eduardo
+27609702 Dias / GO",Fonseca,Santa Catarina,30900868,1983-10-03,42,Engenheiro aeronáutico,da Conceição Cardoso - ME,40273,1.64,59.9,22.3,55170,2277929039836822,315,11,2022-12-29 13:34:35
+19,Noah Pastor,340***.***-79,832057642,o***@example.net,***-****-9758,"Viaduto de Ribeiro, 746
+Olhos D'água
+46808-436 Pacheco da Serra / RJ",Nascimento da Prata,Roraima,22648-669,2006-08-01,19,Dublê,Cunha - EI,27777,1.65,113.9,41.8,52415,4551299518819,838,1,2023-06-09 15:17:59
+20,Dr. Anthony Gabriel da Paz,749***.***-20,130472864,a***@example.com,***-****-0053,"Via de Pacheco, 4
+Mangabeiras
+86334-517 Sales / MA",Garcia da Praia,Goiás,67976-398,1965-07-14,60,Tecnólogo em silvicultura,da Conceição Moreira S/A,26100,1.57,90.2,36.6,48881,6585724272100335,755,10,2025-07-18 04:01:24
+21,Caio Novaes,539***.***-25,187256408,o***@example.org,***-****-0038,"Viela de Almeida, 213
+Saudade
+82379645 Jesus do Galho / MS",Aragão,Bahia,14173-384,2002-12-28,22,Rebarbador de metal,Rezende,38037,1.64,75.6,28.1,8645,562091596337,492,19,2022-08-29 12:58:24
+22,Srta. Emanuella Cavalcante,529***.***-43,82316570X,a***@example.org,***-****-1158,"Fazenda Dom Freitas, 72
+Conjunto Lagoa
+39786939 da Mata / MA",Santos da Praia,Alagoas,46600975,1983-09-02,42,Tosador,Garcia,23632,1.94,57.3,15.2,33688,3543340673069306,351,13,2024-09-20 03:10:09
+23,Ágatha Moura,694***.***-42,302714583,c***@example.org,***-****-7574,"Setor de Aragão, 75
+Vila Nova Cachoeirinha 1ª Seção
+94917-743 Correia Verde / SC",Rios,Rondônia,01281-789,1976-10-28,48,Webdesigner,Vasconcelos Almeida e Filhos,21521,1.96,79.0,20.6,55707,4211759239820912653,567,20,2021-12-21 09:55:01
+24,Theodoro Vieira,315***.***-16,327164086,a***@example.net,***-****-9541,"Pátio de Porto, 68
+Centro
+55995401 Moreira / AM",Brito do Sul,Paraíba,53128-099,2002-08-13,23,Cardiologista,Machado Almeida S.A.,37153,1.76,92.1,29.7,79045,180019036067793,431,1,2021-12-24 19:11:04
+25,José Albuquerque,605***.***-60,406318578,p***@example.net,***-****-7278,"Avenida Montenegro, 21
+Jardim Dos Comerciarios
+26511408 Lopes dos Dourados / CE",Gonçalves das Flores,Paraíba,33503305,1949-11-12,75,Coreógrafo,Almeida Costela - EI,19122,1.55,75.5,31.4,15378,3544196602596937,666,13,2024-10-16 13:09:14
+26,Julia Cunha,639***.***-52,650341727,c***@example.com,***-****-8183,"Chácara Fogaça, 361
+Andiroba
+50426509 Abreu / AC",Mendes de Fonseca,Minas Gerais,55088097,1957-05-01,68,Policial civil,Macedo Barros Ltda.,18747,1.9,80.4,22.3,53452,345789056249396,415,5,2023-11-22 23:00:47
+27,Hellena Pires,468***.***-93,258407633,p***@example.org,***-****-7439,"Ladeira de da Cunha, 393
+Distrito Industrial Do Jatoba
+87445-808 Sampaio / SC",Pires,Mato Grosso do Sul,25343-361,1996-04-05,29,Naturólogo,da Conceição,41978,1.95,74.8,19.7,73884,3591508322742801,543,12,2024-07-18 16:54:27
+28,Giovanna Vieira,941***.***-32,70623814X,m***@example.org,***-****-0530,"Viela Pacheco
+São Benedito
+92546-868 Moraes do Amparo / RN",Macedo de Minas,Ceará,02378-770,1977-02-22,48,Engenheiro de processos,Rezende S/A,17560,1.89,88.4,24.7,38680,6597173987458701,688,7,2025-05-15 22:16:36
+29,Ana Leão,906***.***-24,126037486,r***@example.org,***-****-4622,"Feira Clarice Campos
+Vila Formosa
+80178-193 Pimenta da Prata / MG",Costa,Piauí,85272-995,2007-06-13,18,Policial militar,Aparecida,29465,1.5,75.1,33.4,56682,4530659794418,777,19,2022-04-06 09:39:13
+30,Raul da Mata,751***.***-16,476823018,i***@example.org,***-****-8514,"Esplanada Mateus Costela, 725
+Virgínia
+37314-908 Brito de Sousa / AL",Pimenta,Rio Grande do Norte,96642234,1971-07-16,54,Engenheiro florestal,Vasconcelos Barbosa Ltda.,49201,1.87,75.0,21.4,50913,3517256440518288,794,18,2020-10-10 02:21:36
+31,Dra. Luísa Fogaça,037***.***-01,713865246,l***@example.com,***-****-1923,"Esplanada Carolina Alves
+Lourdes
+59591-394 Leão / MG",Peixoto,Paraná,39497473,1984-03-16,41,Copeiro,Melo Almeida e Filhos,24450,1.56,109.7,45.1,35600,4822896270695157,451,12,2024-09-15 04:43:26
+32,Hadassa Câmara,405***.***-30,465318708,l***@example.org,***-****-5523,"Vereda Sousa, 362
+Serra
+17284-290 Caldeira / RN",da Cruz,Rio Grande do Sul,37904641,1989-05-28,36,Neurocirurgião,Pacheco Cavalcante e Filhos,24660,1.81,80.5,24.6,88217,370862938338386,629,3,2023-11-18 01:02:07
+33,Davi Gonçalves,193***.***-23,614072359,l***@example.net,***-****-6207,"Lagoa Carvalho, 50
+Penha
+89909-175 Jesus / RS",Rocha,São Paulo,43125715,1995-02-25,30,Líder comunitário,da Conceição Ltda.,14962,1.94,70.9,18.8,79273,4832120995083971,452,18,2021-07-29 08:38:39
+34,Dra. Maria Júlia da Rocha,087***.***-49,203471568,a***@example.net,***-****-6357,"Lagoa Sá, 8
+Vila Independencia 2ª Seção
+53024781 Machado / MG",Lopes,Paraíba,91292-562,1971-08-26,54,Atleta de arremesso de peso,Azevedo Ltda.,49298,1.86,62.7,18.1,29229,6011239494568148,428,3,2024-05-13 03:05:13
+35,Matteo Câmara,371***.***-26,806271358,l***@example.net,***-****-5513,"Setor Moreira, 3
+Maria Virgínia
+00276635 Aparecida dos Dourados / MA",Cassiano da Prata,Rio de Janeiro,32494829,1971-08-24,54,Geólogo,Pacheco,5756,1.83,54.6,16.3,96362,213198258250807,539,6,2020-11-12 01:41:13
+36,Maria Clara Rezende,284***.***-01,873016257,c***@example.com,***-****-6646,"Residencial de Pimenta, 189
+Conjunto Paulo Vi
+42660-140 Cunha / RO",da Cruz,Rio Grande do Sul,64621807,1996-01-27,29,Harpista,Dias,25947,1.79,113.2,35.3,85256,3554712479343174,431,7,2024-06-27 18:41:46
+37,Luna Ramos,968***.***-39,601725347,v***@example.net,***-****-1797,"Trecho Rafael Vasconcelos, 55
+Vila Betânia
+32971-063 Sousa / GO",Novais do Norte,Tocantins,29572-151,1986-05-10,39,Senador,Câmara,8281,1.63,63.5,23.9,42147,4060176188951,628,15,2023-10-15 02:39:18
+38,Gael Henrique Albuquerque,387***.***-12,845132672,q***@example.org,***-****-1282,"Favela de Cassiano
+Vila Aeroporto
+12020-795 Jesus / MA",Costela da Praia,Rio Grande do Norte,75711-215,1946-12-12,78,Cozinheira,Freitas,19511,1.95,53.5,14.1,68822,4201244159000,774,4,2021-04-23 04:28:39
+39,Sra. Gabriela Cunha,750***.***-76,547263107,c***@example.org,***-****-2542,"Praça Ana Laura Almeida, 87
+Beira Linha
+69216006 Pinto de Goiás / PB",Rocha,Acre,10255043,1996-01-24,29,Marechal,Pacheco Ltda.,19271,1.77,66.8,21.3,9082,30321575109834,815,1,2021-11-30 16:54:32
+40,Kevin da Mota,927***.***-58,10364782X,y***@example.com,***-****-3155,"Recanto de da Mata, 1
+Jardim São José
+67458-629 Porto de Fogaça / GO",Montenegro de Goiás,Pernambuco,41927-242,1984-02-19,41,Mensageiro,Rezende,36730,1.75,106.2,34.7,14889,4581383482512372,691,6,2022-03-21 04:58:10
+41,Maria Luísa Siqueira,146***.***-90,643280157,e***@example.com,***-****-9322,"Morro de Teixeira, 35
+Betânia
+93441717 Cassiano de Goiás / PR",Sá Verde,Pará,12726-760,2004-09-18,21,Arqueólogo,da Mota Azevedo S/A,18393,1.75,107.8,35.2,91557,348478703942473,628,12,2022-01-20 01:17:33
+42,Dr. Felipe Fonseca,263***.***-02,208136757,j***@example.com,***-****-6954,"Condomínio Maria Clara Albuquerque, 24
+Corumbiara
+60225-029 Câmara do Norte / SE",Rocha de Sousa,Tocantins,46250-115,1971-04-02,54,Eletricista,Costela e Filhos,39313,1.91,69.1,18.9,80214,3571131765146275,380,12,2021-10-12 08:45:08
+43,Maria Cecília da Cunha,740***.***-48,614203788,c***@example.org,***-****-9598,"Parque Joana Casa Grande, 5
+Boa Esperança
+15004-621 da Paz / PI",Cardoso,Rio Grande do Norte,70054-385,2004-11-28,20,Geólogo,Melo S.A.,4953,1.56,117.5,48.3,91965,3565403255356492,701,16,2023-12-05 12:59:53
+44,Dr. Ravi Marques,342***.***-07,214687351,h***@example.net,***-****-6206,"Estação de Sales
+Minas Brasil
+78235989 Nunes do Amparo / MG",Vasconcelos Grande,Rondônia,79591-809,2003-07-05,22,Amolador de ferramentas,Garcia,20157,1.96,95.9,25.0,41073,3502943282598844,625,11,2022-12-24 00:45:46
+45,Dr. Josué Câmara,163***.***-21,051682473,n***@example.org,***-****-9050,"Área Cavalcanti, 564
+Vila Real 2ª Seção
+03024-376 Vasconcelos / RN",Silveira,Minas Gerais,45344-922,1953-03-13,72,Chapeiro,Santos,18877,1.99,51.2,12.9,48263,4950489547844180,681,7,2022-09-11 22:40:16
+46,Amanda Almeida,964***.***-31,514762032,s***@example.com,***-****-2281,"Avenida de Rodrigues, 82
+Marieta 2ª Seção
+67570130 Cavalcanti / RJ",Jesus de Alves,Piauí,42097-721,1987-01-20,38,Promotor de vendas,Souza S/A,35975,1.78,62.9,19.9,90760,6567935672224945,352,5,2024-08-20 00:19:46
+47,Luara da Paz,405***.***-20,81567420X,l***@example.com,***-****-9422,"Lagoa de Gonçalves, 43
+Vila Madre Gertrudes 4ª Seção
+82287-744 Dias / PR",Oliveira,Rio Grande do Sul,41634-353,1964-11-12,60,Desenhista,Teixeira S/A,3715,1.65,72.3,26.6,87314,587257138509,465,4,2021-05-03 17:48:54
+48,Josué Vieira,267***.***-76,120487639,i***@example.net,***-****-1849,"Feira de Cavalcanti, 10
+Vila Aeroporto
+23879725 Cardoso / PA",Carvalho,Amazonas,48419-147,1983-01-08,42,Profissional de relações públicas,da Conceição Fogaça Ltda.,10749,1.79,65.0,20.3,78408,6011425657482058,431,14,2022-03-30 09:17:00
+49,Pedro Lucas Viana,480***.***-65,436850278,s***@example.org,***-****-5032,"Alameda de Camargo, 37
+Vila Maloca
+84378541 Fogaça / PA",Nogueira,Rio Grande do Sul,40488963,1985-04-09,40,Gastrônomo,Lima Siqueira S.A.,4076,1.92,90.7,24.6,89622,6549899028975928,734,15,2022-06-02 23:46:24
+50,Davi Lucca Nunes,160***.***-17,230617852,g***@example.org,***-****-9633,"Loteamento de Pastor
+Unidas
+12189-677 Siqueira da Prata / AL",Cavalcanti de da Conceição,Rio Grande do Norte,67859150,1960-06-21,65,Tecnólogo em papel e celulose,Cirino,4546,1.64,115.1,42.8,54735,3549423364151734,728,14,2023-12-02 15:54:57
+51,Julia Andrade,342***.***-60,013874627,d***@example.com,***-****-3310,"Distrito Fogaça, 184
+Madre Gertrudes
+45888-247 Jesus de Minas / SE",Montenegro,Rondônia,63985-444,1990-06-15,35,Físico nuclear,Cavalcanti Ltda.,27293,1.64,88.0,32.7,57943,6011861794598788,534,13,2021-06-12 01:56:01
+52,Maria Luiza das Neves,845***.***-67,160247834,c***@example.org,***-****-4101,"Estrada de Jesus, 89
+Nazare
+76120-617 Borges dos Dourados / PB",Abreu de Almeida,Acre,99450818,1950-01-04,75,Alpinista,Oliveira Barros Ltda.,46868,1.77,100.3,32.0,20018,346952770138480,601,0,2022-07-11 16:46:46
+53,Sr. Gustavo Jesus,307***.***-93,017534264,l***@example.net,***-****-9846,"Campo de Oliveira
+Jaqueline
+74342-598 Fernandes de Minas / BA",Leão Grande,Mato Grosso do Sul,50146242,2007-03-31,18,Serralheiro,Nunes - EI,42777,1.93,86.9,23.3,24765,6521930612273735,781,10,2023-04-26 20:30:21
+54,Francisco Nunes,406***.***-07,458327165,a***@example.com,***-****-2223,"Lagoa de Mendes
+Nova Cintra
+41645737 Brito do Oeste / RJ",Fernandes,Rio Grande do Sul,74681-338,1968-03-06,57,Manobrista,Rodrigues e Filhos,12853,1.89,115.9,32.4,62523,180089217789416,382,2,2023-03-07 06:44:19
+55,Luiz Henrique Costa,906***.***-56,835271407,d***@example.org,***-****-8744,"Rua Benicio Melo, 69
+Cidade Nova
+92744-198 Lopes de Brito / RO",Duarte dos Dourados,Rondônia,05323-528,2001-08-26,24,Técnico em tratamento de água,Santos Teixeira - EI,13881,1.59,119.4,47.2,91363,4822602019484,424,2,2021-10-01 19:53:24
+56,Ana Cecília Ferreira,465***.***-06,174380562,e***@example.org,***-****-2078,"Fazenda Natália Azevedo, 7
+Lagoinha
+28945-858 Mendonça / MA",Guerra,Amapá,85651258,1994-05-03,31,Radialista,Fonseca Ltda.,33129,1.59,79.1,31.3,27655,213180613997173,437,20,2025-07-11 06:06:01
+57,Luísa Monteiro,574***.***-62,205376411,d***@example.net,***-****-3592,"Via Carvalho, 68
+Campo Alegre
+36243-335 Machado de Nascimento / AM",Ribeiro do Sul,Goiás,97480649,1967-11-29,57,Odontologista preventivo e social,Leão e Filhos,37133,1.68,117.3,41.6,91898,6579698311057243,322,5,2024-03-25 00:38:30
+58,Calebe Pacheco,483***.***-04,574162033,k***@example.com,***-****-7683,"Morro Azevedo, 76
+Varzea Da Palma
+71698-099 Aragão / GO",Lima do Norte,Piauí,74423402,1970-12-13,54,Designer de interiores,Porto,48791,1.79,69.3,21.6,57034,3534159859885769,389,4,2020-12-09 23:04:19
+59,Anna Liz Dias,196***.***-28,832716509,p***@example.net,***-****-7936,"Chácara de Novaes, 623
+Glória
+45129869 Vasconcelos / PI",Pinto Grande,Piauí,67783647,1999-02-27,26,Engenheiro petroquímico,Lopes,39364,1.52,89.0,38.5,53337,4726637985066,335,10,2024-03-30 15:14:17
+60,Davi Lucca Gomes,738***.***-60,206453784,a***@example.org,***-****-7972,"Campo da Rosa, 71
+Ribeiro De Abreu
+07510-137 Caldeira / SE",Ribeiro de Fernandes,Mato Grosso,64934-627,1999-09-18,26,Tecnólogo em processos químicos,Machado das Neves - EI,22088,1.84,63.8,18.8,32638,4837237598983513408,484,3,2022-08-14 21:36:57
+61,Nicolas das Neves,408***.***-26,01348526X,p***@example.net,***-****-0816,"Lagoa de Viana
+Santo André
+30401156 Machado / PA",Pereira,Paraíba,36286412,1970-02-04,55,Terapeuta Holístico,da Conceição Vasconcelos S/A,38889,1.99,71.6,18.1,43757,343213920581852,357,20,2023-02-24 00:15:13
+62,Milena Cavalcanti,129***.***-03,516483201,o***@example.com,***-****-4817,"Feira Lorena Sousa
+Lagoinha Leblon
+20415438 Brito / MG",Aragão,Minas Gerais,96403-292,2003-07-13,22,Pára-quedista,Albuquerque,46310,1.94,85.4,22.7,90002,4186017944151068296,641,18,2024-08-22 01:39:38
+63,Laís Cirino,748***.***-17,152304861,m***@example.net,***-****-0459,"Feira de Machado, 9
+Alto Barroca
+77287-438 Nunes / PA",Pastor,Bahia,35660-614,1969-03-04,56,Caminhoneiro,Cavalcanti Pacheco S/A,9931,1.67,99.6,35.7,16132,3535557868826907,464,11,2023-03-06 01:48:25
+64,Mariana da Luz,823***.***-50,541706287,b***@example.org,***-****-5408,"Setor Rodrigues, 17
+Ventosa
+93148855 Gonçalves Verde / AM",Pimenta da Prata,Goiás,84017-870,1975-05-19,50,Senador,da Mota S/A,45284,1.61,55.1,21.3,63600,4264893581205,716,20,2022-10-17 05:16:14
+65,Lorenzo Monteiro,582***.***-95,564182734,u***@example.org,***-****-6262,"Vereda de da Mota, 7
+Araguaia
+13274286 das Neves de Goiás / RR",Macedo da Mata,Ceará,90621-055,1948-04-17,77,Administrador público,Mendonça S.A.,41191,1.95,65.0,17.1,18367,3565241550661707,486,20,2022-02-10 08:56:39
+66,Vitória Costa,369***.***-78,182436056,j***@example.org,***-****-1457,"Chácara Carvalho, 21
+São Francisco Das Chagas
+95699121 Costela / RS",Nascimento das Pedras,Roraima,35499266,1971-05-30,54,Engenheiro metalúrgico,Teixeira da Rocha e Filhos,36945,1.96,82.0,21.3,83242,2583313380369890,794,14,2023-07-12 23:15:35
+67,Gustavo Castro,175***.***-20,028657317,p***@example.com,***-****-4220,"Fazenda de Fonseca, 833
+Santo Antônio
+46347357 Ribeiro Paulista / SE",Ramos,Rio Grande do Norte,65665972,2000-03-04,25,Patinador,Porto,19689,1.92,54.7,14.8,94294,6011273603239143,713,7,2023-06-10 17:47:46
+68,Matheus da Mota,514***.***-43,782416354,m***@example.com,***-****-5259,"Viaduto Maria Flor Vargas
+Silveira
+46593-883 Mendes / SP",da Cruz do Amparo,Sergipe,71895568,1968-11-23,56,Engenheiro de transportes,Vieira,19836,1.98,112.9,28.8,13876,4946203168307899,695,0,2022-09-23 12:17:03
+69,Sabrina Casa Grande,802***.***-10,453782061,h***@example.net,***-****-5562,"Estrada Aragão, 40
+Nova Cachoeirinha
+07720475 Pacheco / AL",Gomes das Flores,Paraná,54330-599,1955-08-29,70,Jornaleiro,Câmara,11997,1.94,116.4,30.9,20432,4303381295444459,585,20,2023-06-01 01:11:14
+70,Ísis Moreira,704***.***-50,815346207,m***@example.org,***-****-0095,"Estrada Rafaela Ramos, 27
+Nova Esperança
+23544-873 Melo / SC",Pimenta,Roraima,53268-278,1967-01-10,58,Tecnólogo em tecnologia da madeira,Cirino,10463,1.72,80.7,27.3,77419,4052555193027903,844,5,2024-06-12 18:18:59
+71,Sra. Eloá Cavalcante,903***.***-30,301864275,l***@example.net,***-****-0163,"Praça Ribeiro
+Chácara Leonina
+76087-348 Duarte da Serra / AP",Marques de Goiás,Amazonas,89031-507,1986-08-20,39,Administrador,Dias Ltda.,16662,1.9,90.3,25.0,60076,371913477834779,565,18,2022-10-31 06:38:49
+72,Paulo da Mata,132***.***-02,205817348,y***@example.net,***-****-9189,"Avenida Souza, 70
+Camponesa 2ª Seção
+17681-247 Albuquerque do Norte / SC",Cavalcanti,Pernambuco,76743-781,2000-10-06,25,Sonoplasta,Monteiro Gonçalves - EI,40417,1.97,97.7,25.2,18516,213153967031782,309,0,2023-08-17 15:37:05
+73,Diogo Leão,279***.***-61,047865325,u***@example.net,***-****-9344,"Favela João Felipe Sampaio, 549
+Urca
+61390-478 Pimenta do Sul / SE",Silva de da Mata,Rio Grande do Norte,97777-070,1974-09-30,51,Assistente de direção,Cirino,23612,1.95,111.3,29.3,56242,676281070331,585,1,2023-05-05 00:23:48
+74,Otávio Gomes,147***.***-99,021843752,c***@example.org,***-****-6236,"Viela Freitas, 47
+Camponesa 2ª Seção
+39821-720 Mendonça Grande / GO",Farias,Santa Catarina,70673-901,1959-02-27,66,Tecnólogo em esporte e lazer,Pastor,46759,1.88,116.6,33.0,40395,561736498099,820,9,2024-02-09 05:44:41
+75,Emanuel Cassiano,843***.***-74,376810543,n***@example.net,***-****-5063,"Quadra Silveira, 1
+Acaba Mundo
+88118-654 Costela de Ferreira / MS",Pacheco,Paraíba,35698550,1961-02-14,64,Fiscal,Araújo da Cunha - ME,12806,1.94,96.1,25.5,60164,4368956437137970,608,12,2023-05-21 07:55:11
+76,Bernardo Leão,209***.***-05,287634516,j***@example.org,***-****-0876,"Passarela Santos, 9
+Marçola
+51739759 Cunha da Mata / GO",Ferreira do Norte,Mato Grosso,09642-662,2001-12-14,23,Tenente,Vasconcelos Lima - ME,3144,1.72,67.6,22.9,83604,4913534376345827322,750,8,2022-07-28 05:18:05
+77,Davi Lucca Vieira,342***.***-28,407218361,l***@example.org,***-****-7209,"Praia Josué Farias, 15
+Cruzeiro
+64444549 Silva da Prata / MG",Cirino de Vasconcelos,Roraima,92477-047,1959-02-21,66,Dançarino,Lopes,30769,1.69,110.4,38.7,89684,180046078756959,370,0,2025-02-19 19:11:43
+78,Eloá Gomes,326***.***-92,816037243,a***@example.org,***-****-9216,"Setor Moraes
+Braúnas
+63677272 Silveira de Moreira / SP",Caldeira de Brito,Ceará,05880-382,1998-12-06,26,Mecanógrafo,Ribeiro Jesus Ltda.,12611,1.61,112.0,43.2,48932,6563618031933349,483,1,2023-01-08 23:47:37
+79,João Vitor Leão,760***.***-01,157603428,h***@example.com,***-****-6467,"Chácara João Gabriel Peixoto, 65
+Lourdes
+89851853 Souza do Galho / MS",Costa,Santa Catarina,64870207,1959-05-07,66,Escritor,Farias,41629,1.76,90.4,29.2,17980,501800660521,440,6,2021-09-15 14:37:56
+80,Sra. Zoe Peixoto,054***.***-56,085721360,z***@example.com,***-****-4460,"Rua Aparecida, 2
+Vila Rica
+05622-331 Ferreira de Goiás / AM",da Costa,Rondônia,73857190,1973-05-31,52,Assistente administrativo,Dias - EI,15326,1.8,82.3,25.4,32305,5200301828252030,325,6,2024-03-12 22:25:49
+81,Caleb Cavalcante,023***.***-10,416275308,d***@example.org,***-****-7642,"Estrada Davi Lucas Fonseca, 37
+Vila Aeroporto Jaraguá
+72722-861 Castro do Campo / RO",Siqueira de Minas,Amapá,39126-173,1974-08-10,51,Brigadeiro,Camargo - ME,30317,1.62,108.0,41.2,39513,4825128770603755,629,6,2023-02-20 10:50:00
+82,Davi Lucas Albuquerque,507***.***-77,152047384,t***@example.net,***-****-5624,"Colônia Zoe Mendonça, 1
+São Benedito
+16874995 Machado de Siqueira / GO",da Conceição de Pastor,Ceará,25125-223,1957-06-20,68,Engenheiro de minas,da Cruz Silva Ltda.,49730,1.84,51.8,15.3,16083,6011294296455960,840,7,2021-02-13 02:24:43
+83,Brayan Cassiano,690***.***-60,785346028,d***@example.com,***-****-8979,"Rodovia Pacheco, 30
+Universitário
+13340337 Casa Grande / RN",Pires,Tocantins,05810-868,1959-05-06,66,Repórter,Pastor,17876,1.51,99.8,43.8,16331,213192234191342,729,17,2025-03-20 07:39:13
+84,Isadora Sales,426***.***-13,304861753,l***@example.org,***-****-8190,"Viela Luísa Lima, 978
+Lagoinha Leblon
+55423-535 Ramos de Cardoso / ES",Garcia de Fonseca,Rio Grande do Sul,02199579,1947-02-21,78,Geriatra,Montenegro,39906,1.85,80.6,23.6,6626,4206228028253004,796,7,2022-05-23 01:19:54
+85,Lívia Albuquerque,861***.***-71,380261571,a***@example.com,***-****-8959,"Ladeira de Carvalho, 9
+Horto
+45862-130 Cavalcanti / AM",Carvalho,Roraima,16148-087,1996-12-14,28,Agente de defesa sanitária,Sales S/A,48476,1.97,55.0,14.2,64658,4178655483446256725,313,0,2022-10-15 12:24:58
+86,Calebe Camargo,845***.***-53,851472631,g***@example.org,***-****-1449,"Favela José Fernandes, 265
+Paraíso
+24053209 Mendes da Mata / MS",Machado,Tocantins,43165406,1961-11-29,63,Administrador de redes,Rezende - EI,17927,1.74,108.3,35.8,68808,342494018522849,604,5,2022-06-02 13:50:07
+87,Eduardo Almeida,701***.***-31,435108621,c***@example.org,***-****-5750,"Área Viana, 181
+Granja De Freitas
+31119037 Cunha / AM",Siqueira,Alagoas,60078-273,2000-06-20,25,Ministro,Abreu S/A,42881,1.67,61.8,22.2,13491,4381776242252266,838,12,2025-07-27 18:01:11
+88,Dr. Renan Silveira,859***.***-59,853267406,m***@example.com,***-****-9900,"Colônia de Rocha, 96
+Lagoa
+15181-750 Fonseca / PE",Cavalcanti do Norte,Paraná,56479483,1981-08-11,44,Artesão,Machado,49382,1.61,114.7,44.2,56657,4364863505269822,794,2,2024-11-23 14:54:44
+89,Valentim Borges,917***.***-21,753461080,m***@example.com,***-****-4841,"Aeroporto de Fonseca, 9
+Nossa Senhora Do Rosário
+79153-483 Martins Paulista / SC",da Cruz,Paraíba,76624-812,1985-05-06,40,Ministro,Fonseca,16963,1.7,95.7,33.1,22599,4231390109018828,360,15,2022-12-05 23:27:37
+90,Sra. Clara Oliveira,381***.***-32,182504670,l***@example.org,***-****-0599,"Loteamento de Rios, 4
+Prado
+37531733 Sales / SE",Rocha de Teixeira,São Paulo,99263017,1966-11-14,58,Ginasta artística,Marques,15023,1.75,81.8,26.7,37147,4771944782374498,735,7,2023-02-04 00:56:39
+91,Luana Machado,493***.***-06,062317854,f***@example.net,***-****-6774,"Estrada Azevedo, 3
+Alípio De Melo
+69494-695 da Rocha / PA",Casa Grande de Goiás,Paraíba,54968229,1971-08-29,54,Cientista de alimentos,Rocha Araújo Ltda.,27938,1.83,62.3,18.6,11282,4709073196238663629,728,6,2024-01-01 14:29:00
+92,Otto Silva,652***.***-37,084723154,g***@example.com,***-****-8280,"Viela Maria Luiza Correia
+Vila São Rafael
+59799451 Oliveira Verde / SP",Rezende,Distrito Federal,85296154,1956-07-09,69,Instalador de linha telefônica,da Luz - ME,25312,1.58,51.9,20.8,58128,3542359549029139,725,5,2023-12-08 19:42:15
+93,Maria Carvalho,548***.***-47,438756216,a***@example.net,***-****-0015,"Largo Antony Cavalcante
+Conjunto Taquaril
+27276-195 Sampaio de Aragão / SE",Fogaça do Oeste,Espírito Santo,56642-136,1995-08-24,30,Cardiologista,Leão,34376,1.53,53.3,22.8,91545,6591214908928707,761,20,2023-02-27 15:05:49
+94,Levi Mendes,132***.***-32,624701359,j***@example.net,***-****-3314,"Vereda de Castro
+Vila Sumaré
+17212-327 Sousa / ES",Campos,Pernambuco,30888-135,1998-04-03,27,Tecnólogo em desenvolvimento social,Silveira da Mota e Filhos,26218,1.75,81.6,26.6,20923,30450992437989,693,3,2024-11-21 18:23:17
+95,Julia Pastor,284***.***-87,142687303,n***@example.org,***-****-3114,"Vale Fogaça
+Jaqueline
+59007-718 Nogueira de Lima / SC",Pereira de Ferreira,Rio Grande do Norte,04552208,1950-05-17,75,Patologista oral,Siqueira Pires S/A,36219,1.54,119.6,50.4,23692,3514289196776779,387,7,2021-08-03 02:32:07
+96,Kevin Lima,875***.***-57,418560730,a***@example.com,***-****-5018,"Vale de Albuquerque, 58
+Nova Cachoeirinha
+34422127 Garcia dos Dourados / PI",Dias de Moura,Rio de Janeiro,78866-900,1965-11-25,59,Sonoplasta,Correia,32179,1.56,88.7,36.4,56110,6583639710065670,330,9,2021-03-28 01:45:28
+97,Mateus da Mota,756***.***-12,086437252,j***@example.net,***-****-4120,"Estrada Cecilia Melo, 96
+Camponesa 2ª Seção
+11612-219 Andrade do Sul / MA",Abreu,Ceará,98053-975,2002-10-14,22,Agrimensor,Pacheco Freitas S.A.,34167,1.51,81.0,35.5,34391,36623950088523,328,10,2025-04-02 03:47:41
+98,Helena Almeida,948***.***-94,83145720X,u***@example.net,***-****-9612,"Campo Casa Grande, 81
+Vila Madre Gertrudes 4ª Seção
+45760715 Sousa / DF",Jesus do Amparo,Ceará,49873511,1998-03-16,27,Empacotador,Borges,12550,1.8,115.5,35.6,64868,2668058609591281,828,7,2025-09-06 05:55:19
+99,Agatha Marques,029***.***-99,762308515,j***@example.com,***-****-1140,"Avenida de Rezende, 46
+Vila Bandeirantes
+84402300 Sales / PA",Correia,Pernambuco,96204-864,1987-02-16,38,Hostess,Oliveira,5799,1.61,80.8,31.2,85088,4768319283717,592,11,2022-09-29 12:45:34
+100,Caroline Porto,356***.***-84,852137461,a***@example.com,***-****-8157,"Recanto Benjamim Rezende, 55
+Coqueiros
+38529021 Abreu de Costela / PI",Cirino,Minas Gerais,11033-139,1966-12-19,58,Tecnólogo em negócios imobiliários,Pinto Lima S/A,47667,1.99,101.2,25.6,19049,180095545945984,329,18,2023-04-16 11:21:58
+101,João Lucas Nogueira,026***.***-07,425803168,m***@example.net,***-****-4323,"Ladeira de Leão, 94
+Vila Da Paz
+55773-978 Silva / RR",Rezende,São Paulo,28659285,1987-09-07,38,Lubrificador de máquinas,Cavalcanti Freitas - ME,48047,1.96,69.9,18.2,55291,30017367503305,827,5,2025-08-05 08:04:15
+102,Bianca Pimenta,072***.***-94,810375266,b***@example.com,***-****-5168,"Quadra de Rocha, 275
+Colégio Batista
+12532-808 Azevedo / RN",Oliveira,Rio Grande do Norte,14248-973,2000-01-06,25,Engenheiro agrícola,da Cunha,11780,1.97,104.2,26.8,7719,4213130886996008,463,17,2021-02-08 14:19:26
+103,Allana Rodrigues,890***.***-40,81342706X,d***@example.net,***-****-5271,"Chácara de Camargo, 44
+Canadá
+65789763 Albuquerque / AM",Farias,Piauí,30645301,1994-01-24,31,Sexólogo,da Conceição Garcia e Filhos,49926,1.52,71.2,30.8,40640,3590264006483749,734,19,2020-10-30 00:29:03
+104,Yasmin Aragão,926***.***-50,170458325,j***@example.com,***-****-8807,"Campo de Mendes, 52
+Mangabeiras
+64334452 Ribeiro de Moraes / RJ",Albuquerque,Alagoas,60454294,2005-07-25,20,Biomédico,Ribeiro,47010,1.72,50.3,17.0,19687,676311527466,628,16,2023-03-06 12:00:07
+105,Dra. Hadassa Monteiro,147***.***-31,20573148X,c***@example.org,***-****-3669,"Recanto Silveira, 29
+Padre Eustáquio
+19052-663 Moura da Serra / AP",Sá das Pedras,Roraima,39800-556,2005-10-16,19,Educador integrado à saúde pública,da Cruz,9591,1.85,109.5,32.0,45444,180021522849023,402,14,2022-04-02 19:18:56
+106,Dr. Lucas Camargo,931***.***-19,03241576X,l***@example.net,***-****-2360,"Trecho Léo Silva
+Esplanada
+67709906 Azevedo de Nascimento / RJ",Peixoto,Espírito Santo,15332044,1947-05-26,78,Designer de moda,Aragão,49200,1.69,76.6,26.8,43310,3597076759430237,787,8,2022-02-18 16:36:14
+107,Ágatha Cirino,103***.***-69,371042860,d***@example.net,***-****-4107,"Lagoa Lucca Almeida, 458
+Castanheira
+71098000 Macedo de Rezende / SC",Moreira do Sul,Piauí,28498654,1991-11-12,33,Agrônomo,Andrade Ltda.,3010,1.61,87.1,33.6,52678,4891282096989,682,17,2021-11-03 14:57:18
+108,Ana Liz Leão,289***.***-49,723546083,h***@example.com,***-****-5436,"Avenida Alves, 86
+Vila Canto Do Sabiá
+08791-385 Gomes do Campo / MS",Almeida das Flores,Mato Grosso do Sul,72192467,1951-10-02,74,Assistente de direção,Gomes,22486,1.82,50.7,15.3,86333,36780668378933,697,9,2023-08-10 11:44:47
+109,Sarah Moreira,952***.***-00,418502377,d***@example.net,***-****-2315,"Praça de Aparecida, 93
+São Tomaz
+26165-718 Machado Paulista / AM",Cunha da Praia,Maranhão,67815511,1974-07-22,51,Agrônomo,Monteiro,10984,1.86,81.4,23.5,6634,6011032602293224,416,20,2023-12-12 03:24:29
+110,Antônio Novaes,930***.***-22,586174023,n***@example.org,***-****-4467,"Distrito Costa, 65
+Conjunto Santa Maria
+75737-961 Vasconcelos de Dias / CE",Monteiro de Goiás,Pernambuco,09600-430,1977-11-08,47,Técnico em agropecuária,Costa,27001,1.7,50.5,17.5,16009,4009008045943723,486,0,2025-04-16 00:43:55
+111,Sr. Thiago Rocha,697***.***-66,670418328,i***@example.net,***-****-5635,"Residencial Pereira, 3
+Goiania
+10553-717 Barbosa de da Luz / GO",Mendonça do Oeste,Sergipe,23874109,1957-02-04,68,Médico geneticista,Garcia Ltda.,10715,1.99,78.0,19.7,7673,180068062318315,643,10,2022-01-17 01:10:04
+112,Gustavo Martins,379***.***-10,276130480,a***@example.com,***-****-8798,"Fazenda de Albuquerque, 22
+Pindura Saia
+78723-373 Fernandes / PR",Cassiano de Aragão,Distrito Federal,23038-330,1993-10-30,31,Bedel,da Cunha,35788,1.59,112.0,44.3,46491,180040790764342,365,0,2025-09-05 21:53:25
+113,Rodrigo Araújo,436***.***-84,154786032,p***@example.net,***-****-7430,"Feira Juliana Souza, 26
+Bairro Das Indústrias Ii
+32163-281 Pinto / SP",Cirino de Freitas,Paraná,66010664,1970-10-30,54,Clap loader,Moura Cirino S.A.,8102,1.76,98.0,31.6,78796,2231953674465544,303,17,2025-08-07 22:15:30
+114,Melina Cardoso,351***.***-77,70314652X,g***@example.org,***-****-3747,"Viela de Moraes, 44
+Vila Calafate
+52138-730 Teixeira da Mata / DF",da Mota,Pernambuco,76454-104,1979-04-19,46,Instalador de painéis,Siqueira,23367,1.82,58.3,17.6,87728,4598587594441700400,482,12,2023-06-11 01:54:39
+115,Benicio Macedo,879***.***-11,580312768,m***@example.org,***-****-4529,"Recanto Nunes, 33
+Vila Nova Gameleira 1ª Seção
+42880-786 Abreu Verde / RN",Fonseca,Paraná,51219-738,1987-10-01,38,Karateca,Moraes - EI,36732,1.52,65.0,28.1,60440,340274297814980,470,12,2023-03-06 07:43:19
+116,Luiz Otávio Sousa,509***.***-06,410236573,m***@example.org,***-****-7708,"Travessa Farias
+Conjunto Serra Verde
+42671-686 Costa de Brito / CE",Pinto,Rio Grande do Sul,69135510,1981-04-11,44,Empregado doméstico,Barros,12420,1.66,71.3,25.9,78372,3546440342848093,554,17,2024-03-27 23:12:30
+117,Ana Liz Ramos,821***.***-67,734850165,r***@example.net,***-****-3134,"Praça da Cruz, 44
+Frei Leopoldo
+72584362 Vieira / RR",Sousa de da Mata,Acre,58456101,1955-09-11,70,Nadador,Pires,29700,1.53,61.7,26.4,77764,4564090668909568,627,8,2022-06-28 22:51:56
+118,Kevin Sá,810***.***-15,052834761,l***@example.org,***-****-0191,"Recanto Sá, 40
+Santa Terezinha
+48700901 Monteiro de Goiás / SC",da Luz,Mato Grosso,72469008,1988-04-26,37,Pediatra,da Mota,48320,1.66,101.3,36.8,15410,3596068896823821,744,4,2024-07-22 20:38:36
+119,Ana Sophia Farias,824***.***-87,518067439,p***@example.net,***-****-9741,"Viaduto de Brito, 57
+Mariano De Abreu
+57722-647 Casa Grande de Ribeiro / BA",Melo,Minas Gerais,35190832,1986-10-29,38,Modelista,Borges - EI,42901,1.51,55.1,24.2,60351,30549534496732,468,0,2022-03-28 04:05:29
+120,Brenda Montenegro,607***.***-96,453801729,l***@example.org,***-****-8312,"Feira Otto da Cruz, 224
+Vila Ouro Minas
+87489498 Guerra Alegre / SP",Sousa de Goiás,Distrito Federal,13629446,1993-06-27,32,Tecnólogo em recursos pesqueiros,Cavalcante,20756,1.91,55.5,15.2,31001,4609511143947,524,1,2023-03-10 17:40:21
+121,Oliver Santos,413***.***-26,640231755,b***@example.org,***-****-2329,"Feira Anna Liz Freitas
+Primeiro De Maio
+26823-982 Novais de Marques / MA",Cardoso,Rio Grande do Sul,56339-474,1991-08-29,34,Ginasta artística,Gomes,12021,1.64,54.3,20.2,55672,6011133789405746,501,14,2025-10-03 00:47:39
+122,Isaque Silveira,601***.***-06,847526100,r***@example.com,***-****-3409,"Chácara Nascimento, 299
+Parque São José
+12953-326 Porto de Souza / AL",Nunes,Distrito Federal,93654-825,1967-06-09,58,Engenheiro aeronáutico,Rios Ltda.,6433,1.85,109.0,31.8,10656,4640750321609818,428,4,2025-08-28 03:06:20
+123,Diogo Barbosa,496***.***-01,726508147,r***@example.net,***-****-0467,"Esplanada de Peixoto, 29
+Fazendinha
+41013838 Pimenta de Goiás / RR",Viana,Rio Grande do Sul,25317-352,1983-12-24,41,Imunologista,da Costa - EI,6087,1.7,88.8,30.7,42651,501810801800,479,19,2023-07-09 17:37:57
+124,Alícia Vieira,790***.***-94,385024769,a***@example.com,***-****-3932,"Vila Nunes, 73
+Vila Mangueiras
+21149-228 Câmara de Minas / AL",Pacheco de Sousa,Roraima,02989213,1949-08-23,76,Timoneiro,Aparecida Novais - ME,8592,1.76,87.7,28.3,59977,4683063254519,639,17,2025-05-29 01:03:02
+125,Luiz Otávio Nunes,520***.***-34,82175046X,s***@example.org,***-****-0203,"Esplanada Mariana Aparecida, 24
+Mirtes
+97838-091 da Rocha / DF",Campos de Sampaio,Piauí,59072-962,2001-05-18,24,Compositor,Duarte,22387,1.97,92.7,23.9,79039,501857288002,556,0,2024-12-20 07:06:21
+126,Isabella da Costa,371***.***-91,250637418,j***@example.org,***-****-5498,"Colônia de Duarte, 85
+Tupi B
+00083420 da Rosa de Minas / SP",Moura,Amazonas,65997024,1958-01-28,67,Ortopedista,da Costa Gomes S/A,29640,1.77,69.4,22.2,15128,378680687234438,487,0,2024-08-28 10:57:04
+127,Beatriz Andrade,917***.***-11,328714069,t***@example.net,***-****-9513,"Distrito Melo, 37
+Vila Formosa
+81706-403 Pinto de Minas / SP",Porto Alegre,Minas Gerais,92128-026,1952-09-22,73,Profissional de relacionamento com investidores RI,Fonseca,32213,1.57,99.6,40.4,89113,3536953792041664,462,14,2024-06-26 18:18:30
+128,Arthur Miguel Casa Grande,639***.***-25,720413655,u***@example.com,***-****-5575,"Estação Ayla Vieira, 514
+Santa Branca
+60230-903 Viana do Norte / MA",Moreira,Goiás,04979717,1952-03-17,73,Turismólogo,Farias Ltda.,4324,1.83,110.4,33.0,84091,4918709512112052,599,14,2024-01-02 20:11:34
+129,Bella Vasconcelos,847***.***-53,245876303,p***@example.net,***-****-7805,"Aeroporto Maria Teixeira, 8
+Céu Azul
+77199327 Siqueira do Norte / RN",Câmara,Ceará,20210984,1968-02-20,57,Harpista,Fonseca da Luz S/A,9501,1.93,118.6,31.8,49039,4007783048304784393,429,4,2023-05-08 12:35:45
+130,Gael Henrique Correia,031***.***-78,610253785,l***@example.org,***-****-6524,"Travessa Silveira, 593
+Vila Nova Gameleira 1ª Seção
+67113-114 Mendes de Câmara / MG",Silveira,Pernambuco,80456-672,1948-08-03,77,Angiologista,Silveira Rezende e Filhos,13109,1.96,75.6,19.7,51927,30409543848714,684,3,2024-12-30 11:00:18
+131,Dr. Thomas Siqueira,169***.***-59,652703410,a***@example.com,***-****-5578,"Núcleo Leandro Caldeira
+Jardim São José
+28878-219 da Cunha do Amparo / AL",Nascimento,Rio Grande do Norte,25031852,1975-07-31,50,Profissional de informática,Azevedo,42072,1.75,64.5,21.1,12145,630477426211,301,0,2024-03-17 20:47:28
+132,Thales da Paz,360***.***-10,516082437,m***@example.com,***-****-7595,"Estação Matteo da Mota, 79
+Mineirão
+67218310 Pereira / AC",Moraes de Alves,Piauí,22496-886,1993-12-01,31,Vereador,Moreira Teixeira - ME,14283,1.53,70.6,30.2,31723,375006515315558,805,11,2025-07-16 21:13:40
+133,Clarice Caldeira,580***.***-01,823045614,x***@example.net,***-****-8514,"Distrito de Novais, 69
+Braúnas
+94174-618 Cavalcanti Verde / PA",Nunes,Pernambuco,54629-336,1975-07-09,50,Chaveiro,Ramos Ltda.,29653,1.66,53.2,19.3,15750,3538269296947688,481,0,2024-01-29 16:16:13
+134,Sra. Valentina Castro,931***.***-95,350672489,c***@example.com,***-****-9106,"Conjunto de Novais, 770
+Camponesa 1ª Seção
+65159-708 Novais do Norte / MG",Souza da Mata,Santa Catarina,21171-048,1956-08-09,69,Forneiro,Caldeira Sá S.A.,42524,1.91,115.3,31.6,80249,6551300773769793,766,19,2021-07-05 13:23:25
+135,Rael Leão,835***.***-39,054167280,i***@example.net,***-****-0336,"Jardim João Vitor Sampaio, 14
+Granja De Freitas
+57236-083 Moraes das Pedras / ES",Martins,Rondônia,44211664,2007-08-30,18,Classificador contábil,Peixoto S.A.,6178,1.78,84.3,26.6,51998,4727681828139508109,474,14,2024-05-28 14:28:30
+136,José Rodrigues,127***.***-04,683025144,j***@example.net,***-****-3570,"Esplanada de Gonçalves, 15
+Palmares
+01149-288 Mendes das Flores / AC",Siqueira da Praia,Acre,53966-870,2001-09-12,24,Alergologista,da Costa,39615,1.53,86.9,37.1,66378,3571278785091187,461,10,2021-01-08 21:11:23
+137,Agatha Novais,147***.***-73,460751232,n***@example.com,***-****-1870,"Área Maria Júlia Ferreira, 27
+Vila Santa Monica 2ª Seção
+90431435 Novaes Verde / RJ",Jesus,Roraima,12836-519,1984-04-12,41,Especialista em agronegócios,Mendonça,40518,1.72,114.4,38.7,22446,4521936782533975077,541,18,2021-06-22 17:24:02
+138,Oliver Pastor,852***.***-46,780315467,h***@example.org,***-****-5629,"Fazenda Carvalho, 40
+Rio Branco
+80715907 Souza Grande / MG",Barros do Sul,Pernambuco,90862-413,1953-03-23,72,Enólogo,Pastor S.A.,36389,1.66,96.7,35.1,25569,4339802359428854,533,19,2025-05-12 02:28:16
+139,Luara Aparecida,594***.***-52,480672519,a***@example.com,***-****-1459,"Avenida Almeida, 2
+Milionario
+14697-817 da Mota / MT",Peixoto de Cavalcanti,Rondônia,24794-243,2005-04-18,20,Profissional de cinema,Costa Brito e Filhos,32876,1.55,82.0,34.1,19219,4715008309057082,838,19,2023-05-07 06:05:19
+140,Catarina Vargas,670***.***-95,35071468X,q***@example.org,***-****-3948,"Travessa de da Luz, 65
+Vila Das Oliveiras
+60518830 Ramos de Rodrigues / SE",Cardoso,Sergipe,19341510,2003-11-16,21,Conferente de expedição,Caldeira,23832,1.52,56.2,24.3,80501,4723550926495567,420,4,2020-12-14 02:05:25
+141,Alexandre Machado,649***.***-49,064157830,d***@example.org,***-****-4339,"Distrito Felipe Vieira, 11
+Marmiteiros
+06961505 Jesus / PI",da Cruz,Paraná,49711216,1957-01-22,68,Capoeirista,da Paz - ME,36841,1.87,65.1,18.6,80998,2702313772629758,782,20,2023-06-06 12:53:30
+142,Mirella Novaes,208***.***-30,51362708X,l***@example.org,***-****-8059,"Trevo Lima, 264
+Vila Maloca
+91026-435 Lopes / ES",Siqueira de Goiás,Santa Catarina,80102567,1997-10-15,27,Engraxate,Moraes S.A.,8551,1.74,54.2,17.9,44268,3586985048004491,499,7,2025-01-26 00:09:59
+143,Srta. Ana Vitória Mendonça,173***.***-05,645832108,m***@example.com,***-****-6935,"Feira Pedro Borges
+Ambrosina
+88544-004 da Rosa do Amparo / AP",Dias Verde,Santa Catarina,72209782,1951-01-30,74,Marketeiro,Castro Ltda.,29288,1.66,118.5,43.0,76690,3501002927664064,353,0,2022-01-27 01:52:35
+144,Leandro Teixeira,681***.***-68,318560720,b***@example.com,***-****-8700,"Via Siqueira, 948
+São João Batista
+04468099 Costela / RN",da Mota do Oeste,Rio Grande do Norte,48420219,1964-07-27,61,Engenheiro de controle e automação,Pacheco,22975,1.56,84.4,34.7,66989,213186242374858,369,5,2022-07-18 12:38:36
+145,Mariah da Rosa,015***.***-51,284056133,w***@example.com,***-****-3778,"Aeroporto de Santos, 2
+Vila Ipiranga
+14873-907 Brito das Flores / RO",da Cunha da Mata,Rondônia,93626-841,1975-07-01,50,Sociólogo,Cunha,13470,1.75,108.0,35.3,43979,3557146357490616,304,20,2022-03-14 21:01:31
+146,Eloá Cardoso,462***.***-70,278036144,c***@example.org,***-****-2247,"Vereda Henrique Novais, 92
+São Bento
+24146-875 Pinto / MG",Cassiano,Espírito Santo,14946196,1986-12-23,38,Estofador,Castro,41903,1.94,88.2,23.4,40459,180094370574498,818,7,2025-01-19 23:35:26
+147,Alice Nogueira,985***.***-95,271036485,p***@example.org,***-****-9913,"Recanto Isabella Castro
+Sport Club
+99965-681 Novaes do Galho / RO",Aparecida do Oeste,Rondônia,94445-188,1980-04-08,45,Cirurgião bucal,Novais,6440,1.79,57.0,17.8,89056,4453650091681647904,728,20,2023-11-18 05:49:03
+148,Ana Beatriz Vieira,764***.***-50,603842756,l***@example.com,***-****-5227,"Via Vieira, 1
+São Marcos
+86661-521 Santos / MA",Azevedo da Prata,Rio Grande do Norte,79761-629,1947-01-06,78,Musicoterapeuta,Pimenta S.A.,34078,1.9,52.7,14.6,23298,213134588010264,690,7,2023-11-24 14:30:24
+149,Sra. Milena Borges,831***.***-40,084721650,q***@example.net,***-****-2299,"Lago de Almeida, 554
+Maria Tereza
+15008-915 da Paz da Serra / PE",Porto do Campo,São Paulo,08387426,1955-03-13,70,Cerimonialista,Martins da Cruz - EI,48077,1.7,55.3,19.1,69148,3526056291002617,791,1,2025-04-03 05:38:30
+150,Maysa Brito,637***.***-16,037451820,c***@example.com,***-****-7185,"Vila Rocha, 8
+Nossa Senhora Aparecida
+28618-132 Lopes dos Dourados / AP",Casa Grande de Dias,Distrito Federal,58139-178,2003-05-29,22,Continuista,Campos S/A,5242,1.88,65.5,18.5,80528,4853629242826408,582,3,2021-04-27 14:05:39
+151,Pietro Costela,490***.***-22,354782010,a***@example.net,***-****-2011,"Condomínio Sá, 90
+Oeste
+31627353 Sousa da Praia / TO",Souza,Maranhão,73412035,1999-08-11,26,Cambista,Moreira da Mota Ltda.,11560,1.98,89.6,22.9,49817,30000300653932,596,3,2025-02-17 15:53:59
+152,Sofia da Mota,284***.***-37,051263749,l***@example.com,***-****-2620,"Condomínio João Miguel Lima, 51
+São Geraldo
+75510-559 da Rosa Paulista / CE",da Cruz,Sergipe,79181426,1981-04-22,44,Produtor de eventos,Rios,27871,1.51,115.1,50.5,65462,4834978866926342866,622,2,2025-05-17 09:13:02
+153,Benicio Siqueira,931***.***-16,708216547,r***@example.com,***-****-1748,"Jardim Sabrina Albuquerque
+Manacas
+35847107 Pacheco / RJ",Correia do Galho,Pernambuco,28862-054,1991-07-22,34,Neurologista,Melo,18154,1.74,73.1,24.1,20094,340687879062639,691,7,2024-05-12 16:09:26
+154,Isabella Moraes,917***.***-86,860372418,m***@example.net,***-****-8916,"Viela de Novaes
+São Cristóvão
+32715949 Farias do Campo / AP",Vargas da Serra,Pará,46711497,1953-06-22,72,Oftalmologista,Cavalcante Pires Ltda.,15921,1.65,79.2,29.1,97149,3522418060551782,754,9,2023-11-01 01:58:40
+155,Nina Correia,379***.***-30,471835262,f***@example.net,***-****-1166,"Viela de Sampaio
+Cardoso
+38214698 Araújo / SC",da Mata,Alagoas,55660-367,1988-09-01,37,Perfumista,Correia,48650,1.8,84.4,26.0,62533,566751657354,824,19,2023-09-13 06:37:55
+156,Lunna Albuquerque,206***.***-80,43506812X,l***@example.net,***-****-3277,"Passarela de Rocha, 5
+Lourdes
+63349-439 da Mata do Amparo / PE",Câmara,Rio Grande do Sul,76858745,1969-06-23,56,Gerente de inovações ou novos negócios,Correia,34376,1.93,79.8,21.4,98572,3570640062090037,782,16,2025-06-20 23:08:27
+157,Sara Marques,798***.***-05,348125707,l***@example.net,***-****-4252,"Vereda de Costela, 2
+Flavio De Oliveira
+59093-771 Vargas dos Dourados / PR",Montenegro Grande,Bahia,69368488,1980-07-08,45,Engenheiro físico,Lima,24143,1.86,110.7,32.0,12515,4836501872880660,324,10,2021-01-19 14:39:36
+158,Lunna da Paz,246***.***-37,048531728,d***@example.net,***-****-1945,"Vila de Rios, 805
+Nova Gameleira
+71631446 Ferreira / MT",Moreira,Rio Grande do Norte,98700210,1948-04-21,77,Profissional de reciclagem,Pires - EI,6213,1.9,93.0,25.8,5086,675916340747,564,13,2022-04-10 01:41:49
+159,Ana Sales,927***.***-85,701452833,d***@example.com,***-****-6152,"Vale Andrade, 790
+Vila Havaí
+20396-547 Barbosa de Goiás / MG",Pereira da Praia,Santa Catarina,90061682,1992-03-29,33,Ortoptista,Ferreira - EI,5182,1.55,94.3,39.3,84109,4996793864450166,561,11,2024-11-10 20:28:58
+160,Brenda Costela,173***.***-07,301754627,g***@example.org,***-****-6747,"Lago de Camargo, 53
+Pongelupe
+45887781 Albuquerque do Norte / ES",Camargo,Mato Grosso do Sul,47200-384,1968-08-17,57,Eletricista,Guerra Vasconcelos S/A,34424,1.77,52.5,16.8,19471,372108424552066,761,0,2022-04-15 10:56:50
+161,Srta. Caroline Azevedo,590***.***-70,801542637,d***@example.org,***-****-7424,"Vale Barbosa, 98
+Delta
+29856-580 Sá de Peixoto / RS",Machado das Flores,Rio de Janeiro,77260-982,1966-07-30,59,Gari,da Rocha Vargas S/A,26637,1.59,61.3,24.2,90475,4774000269940553,478,16,2023-03-20 21:27:11
+162,Benicio da Luz,685***.***-44,870356148,i***@example.org,***-****-8601,"Jardim de Alves, 724
+Cardoso
+23990-571 da Mota de Araújo / RR",da Rosa,Rondônia,00887-494,1971-12-03,53,Capitão,da Rosa da Rocha e Filhos,16352,1.53,85.9,36.7,43767,4261289602405,737,15,2021-10-29 17:30:50
+163,Eloá Pacheco,268***.***-08,358761025,m***@example.com,***-****-0480,"Colônia Ester Borges, 739
+Vila Santo Antônio Barroquinha
+03249-327 Porto dos Dourados / AP",Rios,Rio Grande do Norte,92409157,1964-01-04,61,Engenheiro físico,Aparecida,21535,1.74,64.8,21.4,66455,343290923784550,783,3,2024-08-03 08:53:20
+164,Sra. Ana Laura Almeida,549***.***-47,750642130,y***@example.com,***-****-9558,"Fazenda Fernandes, 18
+Vila Ecológica
+16641347 Nogueira Verde / MG",Souza da Serra,Mato Grosso do Sul,44729728,1981-08-12,44,Apicultor,Mendonça,47167,1.8,101.6,31.4,92496,4760670659355814,476,20,2021-11-25 12:31:07
+165,Anna Liz Vasconcelos,912***.***-01,048562130,i***@example.org,***-****-6983,"Pátio Moreira, 66
+Paquetá
+27209411 Montenegro / ES",Sales de Farias,Amazonas,63262810,1998-10-27,26,Orientador educacional,Rodrigues,26938,1.54,105.1,44.3,75699,213195220390646,713,6,2021-11-26 10:16:08
+166,Dr. Levi Albuquerque,195***.***-48,642831075,i***@example.org,***-****-8866,"Fazenda Cardoso, 36
+Delta
+91516-119 Novaes / MS",Nascimento de Abreu,Sergipe,95848-124,1986-02-25,39,Amolador de ferramentas,Martins,7720,1.84,107.8,31.8,51651,3545336138415645,549,10,2024-07-29 06:14:59
+167,Bento da Cruz,912***.***-07,753142685,a***@example.com,***-****-6209,"Sítio de da Cunha
+Vila São Gabriel Jacui
+11970-501 Aparecida / PR",da Mota de Nogueira,Espírito Santo,07574294,2000-09-13,25,Engenheiro de energia,Pires,4366,1.64,115.4,42.9,62875,180014746079501,483,14,2022-07-14 21:48:55
+168,Henry Gabriel Machado,463***.***-74,170825462,v***@example.org,***-****-4479,"Lago Henrique Martins, 14
+Vitoria Da Conquista
+45073892 da Cunha / TO",Farias de Goiás,Ceará,29403-089,1979-11-30,45,Químico,Leão Rezende S/A,37043,1.74,100.4,33.2,46483,4858903522239748,533,18,2025-04-13 22:41:33
+169,André Sousa,190***.***-15,583412671,r***@example.net,***-****-7388,"Distrito de Mendes, 14
+Vitoria Da Conquista
+91212-016 Rocha / PE",Santos de Dias,Tocantins,33982968,1959-05-10,66,Presidente da República,Gomes,35648,1.75,83.7,27.3,43939,6011135356035954,423,3,2021-06-10 23:00:49
+170,Marina da Luz,783***.***-66,240751863,r***@example.com,***-****-7816,"Lagoa Olivia Carvalho, 79
+Paulo Vi
+12219640 Santos de Minas / PE",Gonçalves do Sul,Santa Catarina,52080345,2007-02-23,18,Headhunter,Martins,25807,1.58,78.8,31.6,78629,180041112871948,658,0,2022-10-25 09:23:25
+171,Bruna Caldeira,815***.***-68,36045821X,y***@example.com,***-****-1429,"Setor Pietro Ramos
+Corumbiara
+87885985 Pastor / RO",da Luz do Norte,Distrito Federal,57474-170,1989-05-22,36,Representante comercial,da Mota - EI,35478,1.53,105.1,44.9,61378,4413743220734,620,13,2025-07-24 08:14:19
+172,Mirella Jesus,183***.***-98,064587320,h***@example.net,***-****-0328,"Viaduto Barbosa, 67
+Colégio Batista
+02846-449 Barbosa / AC",Moura,Ceará,19461-390,1967-09-08,58,Biomédico,Teixeira - ME,35337,1.73,77.4,25.9,75516,676393118069,342,7,2022-01-04 18:04:14
+173,Paulo Montenegro,256***.***-03,801526474,n***@example.org,***-****-7557,"Viaduto Pedro Miguel Cassiano, 39
+Jardim Guanabara
+53638-577 Alves / SP",Leão,Ceará,10769793,1991-09-22,34,Eletricista de automóveis,Pastor,36473,1.79,72.9,22.8,22727,676358096680,730,18,2022-08-25 06:51:49
+174,Sra. Fernanda Rezende,021***.***-80,374152809,d***@example.com,***-****-7919,"Setor de da Paz
+Vila Nova Gameleira 3ª Seção
+67179-966 Costa Grande / PR",Barros de Abreu,Tocantins,55098-803,1951-03-08,74,Windsurfer,Câmara,38345,1.93,96.8,26.0,63863,30372930004970,644,16,2021-11-01 17:46:26
+175,Elisa Silva,286***.***-95,761345206,o***@example.com,***-****-2419,"Fazenda Isaque da Cruz, 68
+Vila Nova Dos Milionarios
+13936924 Pimenta / MT",Carvalho,Mato Grosso do Sul,60837399,1989-01-23,36,Cirurgião dentista,Garcia,22737,1.75,73.1,23.9,15867,4604022439797222,726,8,2023-08-27 01:11:49
+176,Rodrigo Novais,408***.***-60,371825404,b***@example.org,***-****-7663,"Praia de Leão, 5
+Vila Nova Gameleira 3ª Seção
+13965502 da Rosa / GO",Ferreira,Rio Grande do Norte,96270-354,1952-07-22,73,Capataz,Cunha,35177,1.92,73.6,20.0,27708,3537758650941767,719,1,2024-09-29 09:18:56
+177,João Felipe Silva,612***.***-01,426508713,u***@example.net,***-****-0351,"Estrada Silva, 168
+Vila Madre Gertrudes 4ª Seção
+44438759 Correia / GO",Peixoto,Mato Grosso,34014-056,1952-01-30,73,Técnico tributarista,Gonçalves Nunes - EI,25313,1.68,97.7,34.6,94683,3550980004378643,433,15,2022-09-02 15:59:39
+178,Luiz Otávio Albuquerque,386***.***-74,528670311,g***@example.com,***-****-9783,"Colônia Maria Isis Freitas, 756
+Jaqueline
+30753920 Andrade da Mata / MA",Nascimento do Norte,Mato Grosso,59504325,1961-07-01,64,Notário,da Luz Alves S/A,36620,1.53,73.0,31.2,31975,2294290258535986,409,20,2022-10-13 00:14:50
+179,Anthony Costela,320***.***-40,372160451,s***@example.com,***-****-3548,"Distrito Lorenzo da Luz, 89
+Vale Do Jatoba
+70641174 Fonseca das Pedras / BA",Caldeira do Norte,Piauí,65580-612,1959-01-26,66,Nutricionista,da Cruz,39118,1.54,62.1,26.2,59570,4274342488348043,482,18,2020-12-19 01:38:58
+180,Dr. Vinicius Câmara,180***.***-24,634281707,k***@example.org,***-****-0008,"Residencial Vitor Gabriel Barbosa, 72
+Primeiro De Maio
+40895-102 Cardoso das Pedras / GO",Cirino de Minas,Pernambuco,28506-290,2004-05-12,21,Revisor,Caldeira,6233,1.95,92.9,24.4,16288,346730673426156,374,7,2021-05-17 14:53:53
+181,Gabriela Costela,450***.***-61,673810549,s***@example.net,***-****-5351,"Favela da Cruz, 775
+Vila Sumaré
+08615-286 Albuquerque do Oeste / MS",Cardoso Grande,Rondônia,01334-860,1975-06-17,50,Lavador,Cirino,9913,1.79,68.4,21.3,36018,4378109309787,748,9,2020-10-12 08:08:57
+182,Ian da Rocha,681***.***-01,863124070,a***@example.org,***-****-5007,"Feira Alexia da Paz, 71
+Tirol
+42135-955 Souza / RJ",Guerra,Bahia,46690-724,1946-12-27,78,Faturista,Porto - EI,31540,1.58,52.7,21.1,45455,180082913877726,616,19,2025-01-23 17:56:34
+183,Vinicius Ferreira,486***.***-00,648725108,c***@example.org,***-****-2446,"Conjunto Leonardo Garcia, 31
+Serrano
+04075-088 Carvalho / CE",Casa Grande da Praia,Sergipe,10542-691,1962-09-05,63,Mecânico de vôo,Silveira Nunes Ltda.,13920,1.78,116.1,36.6,23578,4718361935334,594,9,2022-12-20 03:09:02
+184,Vitor Gabriel Gonçalves,092***.***-21,657428139,d***@example.com,***-****-6996,"Travessa de Aragão, 46
+Comiteco
+82112996 Duarte de da Mata / SC",da Mata,Minas Gerais,93182294,2007-07-06,18,Conferente de carga e descarga,Moraes e Filhos,11179,1.71,63.4,21.7,37322,346011387865710,478,12,2024-08-05 07:50:07
+185,Pedro Henrique Aparecida,731***.***-39,856032177,x***@example.net,***-****-2533,"Ladeira Pedro Sales, 43
+Castelo
+29588577 Freitas das Flores / RJ",Novaes das Flores,Amapá,34962466,1998-03-22,27,Governanta,Silveira Sampaio - ME,7956,1.92,114.3,31.0,66753,3571608718657490,466,18,2023-05-16 06:14:22
+186,Ana Laura da Mata,710***.***-69,641258033,a***@example.net,***-****-0070,"Residencial Carvalho, 7
+Serrano
+87118640 Castro / RN",Vieira do Sul,São Paulo,99199-095,1989-08-22,36,Lactarista hospitalar,Vieira Lopes - ME,6361,1.83,67.2,20.1,12011,4512642482654367,811,16,2025-09-26 18:02:34
+187,Dra. Jade Jesus,816***.***-01,586032149,m***@example.net,***-****-6834,"Setor Mendonça, 43
+Nazare
+44648580 Vasconcelos / SE",Duarte,Tocantins,16600340,1976-07-19,49,Produtor fonográfico,Ferreira,27077,1.53,91.8,39.2,39689,345833110539556,550,7,2023-07-03 11:01:05
+188,Maysa Viana,263***.***-70,153842672,r***@example.net,***-****-2836,"Setor Carlos Eduardo Silveira, 23
+Minas Brasil
+73775-040 Sampaio / PI",Barros,Alagoas,35241-388,1960-11-06,64,Necromaquiador,Almeida,33547,1.69,110.4,38.7,81288,373147735835090,424,16,2021-04-23 12:54:39
+189,Emanuel Cavalcante,875***.***-35,610527848,a***@example.net,***-****-5447,"Aeroporto de Dias, 2
+Ipiranga
+30993750 Andrade de Goiás / SP",Ribeiro,Ceará,58223-117,1986-09-21,39,Cientista social,da Rosa,49667,1.72,100.1,33.8,94479,5155036839883150,356,10,2022-11-19 20:44:23
+190,Clara da Mota,028***.***-51,017283565,a***@example.net,***-****-6808,"Feira Lima
+Castelo
+19905878 Campos / SE",Porto,Paraná,34041-779,1986-02-12,39,Engenheiro de iluminação,Nunes,41350,1.81,50.5,15.4,82933,344020776853429,720,7,2020-10-30 04:07:41
+191,Sra. Stephany Costela,723***.***-40,170358628,m***@example.org,***-****-9044,"Rua Ribeiro, 6
+São Paulo
+19104561 Nogueira / PB",Sampaio de da Mata,Amazonas,75408552,1975-01-31,50,Bioquímico,Costela,23359,1.87,108.6,31.1,66387,4876135923783465,453,2,2020-10-09 23:56:32
+192,Catarina Vieira,418***.***-89,627453107,c***@example.com,***-****-8651,"Largo Kevin Nunes, 62
+Vila São João Batista
+78239812 Carvalho / RJ",Ribeiro,Pernambuco,03195-282,1975-02-13,50,Engenheiro têxtil,Fonseca,24933,1.59,64.5,25.5,55631,503826416904,569,4,2020-10-19 19:41:05
+193,Lunna Sales,480***.***-69,05486172X,b***@example.org,***-****-0779,"Lago de Costela, 77
+Funcionários
+04196410 da Conceição de Pimenta / AP",Novaes de Teixeira,Sergipe,96228-244,1974-04-13,51,Quitandeiro,Cunha,41426,1.77,97.9,31.2,75898,4495997812886,648,13,2022-04-30 05:47:02
+194,Luiz Fernando da Cunha,493***.***-16,473206183,q***@example.net,***-****-9030,"Viaduto de Correia, 48
+Baleia
+58316758 da Conceição das Flores / RS",Barbosa,Paraíba,58242345,2006-08-20,19,Oculista,da Cruz,49872,1.88,83.2,23.5,87743,586657849400,775,18,2025-09-14 07:27:23
+195,Maria Júlia Peixoto,308***.***-22,653712807,a***@example.com,***-****-6665,"Vereda Bruna da Luz, 48
+Dom Bosco
+96459-941 Teixeira / DF",Silva do Amparo,Rio de Janeiro,32664613,1959-03-02,66,Coach,Dias,34176,1.66,85.3,31.0,81687,675954718309,817,15,2021-04-24 01:45:05
+196,Heitor Nunes,049***.***-13,753860144,r***@example.org,***-****-6108,"Viela Manuella Farias, 41
+Cabana Do Pai Tomás
+26426-728 Farias de Goiás / PE",Peixoto de Jesus,Acre,96669319,1972-02-20,53,Representante comercial,Moreira Lopes e Filhos,31075,1.99,107.7,27.2,70952,6011253744704023,799,12,2025-03-28 08:16:43
+197,Sra. Marina Barros,187***.***-22,462573813,a***@example.org,***-****-2949,"Viela Theodoro Vasconcelos, 63
+Confisco
+26702257 Freitas de Pinto / PE",Novaes,Mato Grosso do Sul,74725-340,1950-05-14,75,Musicoterapeuta,Pinto Ltda.,4286,1.7,87.1,30.1,84205,4229322342859,520,1,2022-03-18 09:12:59
+198,Ísis Silveira,387***.***-66,041537269,m***@example.org,***-****-8123,"Trecho José Silveira, 73
+Parque São José
+68542-627 Monteiro do Sul / RN",Montenegro,Mato Grosso do Sul,12193-192,2005-06-04,20,Corretor de seguros,Garcia - ME,41358,1.55,58.0,24.1,65289,4472548439599548,381,9,2024-07-05 18:16:46
+199,João Miguel Sampaio,375***.***-97,347182057,x***@example.com,***-****-9738,"Conjunto Samuel Guerra, 11
+Nossa Senhora Da Conceição
+53238-707 Aragão Paulista / AP",da Conceição de Minas,Minas Gerais,96082385,1993-01-11,32,Administrador de banco de dados DBA,Pinto Silveira S.A.,13920,1.71,54.4,18.6,60717,348366596510897,709,1,2023-07-06 11:48:42
+200,Pedro Oliveira,758***.***-35,53128704X,l***@example.net,***-****-4431,"Ladeira de Duarte, 81
+Parque São Pedro
+43548-345 Fonseca do Norte / RN",Lima da Prata,Paraíba,95910316,2000-06-09,25,General,Fernandes,42770,1.65,99.0,36.4,16113,344672558768959,814,6,2025-06-25 15:00:20
+201,Dra. Stella Silveira,106***.***-84,21048763X,a***@example.com,***-****-7890,"Jardim Yago Cunha, 22
+Esplanada
+47429756 Cassiano Grande / SE",Silveira do Campo,Paraíba,91393053,1952-11-30,72,Carteiro,Cardoso S/A,41416,1.72,55.6,18.8,58188,38294467316498,428,3,2022-04-22 14:56:37
+202,Maria Fernanda Porto,568***.***-55,460382573,c***@example.net,***-****-5715,"Quadra Vieira, 52
+Diamante
+31403-378 Costa de Machado / PB",Teixeira de da Mota,Mato Grosso,73640162,1984-12-31,40,Numerólogo,Macedo S.A.,35320,1.9,77.0,21.3,11366,4228988212007318,674,18,2025-06-23 12:45:43
+203,Fernando Garcia,475***.***-17,520618373,v***@example.net,***-****-4718,"Loteamento Beatriz Lopes
+Vila Nova Dos Milionarios
+31846119 Pastor / PA",da Luz,Distrito Federal,23230-149,1972-12-16,52,Vigilante noturno/diurno,Castro,48457,1.6,64.9,25.4,47627,4704671164126962,345,6,2024-11-30 11:32:16
+204,Maria Isis da Cruz,415***.***-07,24618730X,l***@example.org,***-****-4166,"Feira Isadora Almeida, 18
+Brasil Industrial
+35596-718 Moura / PA",Melo da Praia,Paraná,35459363,1946-05-29,79,Farmacêutico,da Cruz Ltda.,16259,1.62,86.3,32.9,7259,3546861050882828,772,12,2023-11-09 17:10:26
+205,Giovanna da Costa,975***.***-80,712384509,a***@example.org,***-****-9085,"Esplanada Isabela Albuquerque
+Cachoeirinha
+22421-586 Silveira do Norte / ES",da Luz,Goiás,40993-300,1965-05-29,60,Lapidário,da Paz,30725,1.64,108.6,40.4,75369,501820023221,848,0,2023-11-06 09:03:33
+206,Caroline Ribeiro,620***.***-99,603128476,l***@example.org,***-****-6520,"Vale de Cunha, 42
+Santa Tereza
+32320-417 Lopes Grande / SE",da Mata,Roraima,54062857,1968-04-17,57,Lutador de luta livre,Guerra,25221,1.66,117.1,42.5,48843,213148052535077,665,13,2022-02-01 01:11:37
+207,Emanuelly Cavalcante,798***.***-23,438072510,a***@example.net,***-****-5157,"Sítio Luísa Sousa, 69
+Centro
+01002336 da Conceição / MA",Fogaça da Mata,Roraima,70934-864,1956-06-03,69,Militar do Exército,Rodrigues - ME,6389,1.6,52.9,20.7,21105,5403305565320269,516,17,2022-10-08 02:36:57
+208,Murilo Mendes,642***.***-04,024361586,z***@example.org,***-****-9916,"Pátio João Miguel Fogaça, 588
+Acaiaca
+24090-894 Rios dos Dourados / RS",Camargo,Rio Grande do Sul,09913503,2007-08-04,18,Médico cirurgião,Machado,23684,1.57,65.9,26.7,92314,213166593582853,645,19,2025-02-16 07:05:08
+209,Cauê da Rosa,194***.***-64,314056282,s***@example.net,***-****-0793,"Vereda de Santos, 47
+Flamengo
+62161989 Pastor / AL",Martins,Amazonas,91419825,1971-04-04,54,Separador,Martins Cirino S/A,25514,1.72,117.2,39.6,63845,3596254228309610,790,6,2025-04-15 01:30:47
+210,Diego Castro,152***.***-46,062371484,m***@example.com,***-****-8758,"Condomínio Camargo, 9
+São João
+30291757 Vargas de Goiás / SC",Santos,Ceará,20570786,1971-08-13,54,Bartender,Gonçalves S/A,25717,1.82,96.3,29.1,26371,4406637844960686035,342,8,2022-06-17 21:22:21
+211,Caio Andrade,740***.***-60,017345686,a***@example.net,***-****-2890,"Loteamento de Brito, 5
+Frei Leopoldo
+75791-966 Macedo / PB",Moraes,Espírito Santo,25425848,1961-11-22,63,Radialista programador,Rodrigues Costa - ME,10974,1.77,117.0,37.3,5555,3567305974671242,560,20,2025-09-08 07:21:34
+212,Maria Fernanda Costa,089***.***-74,165237843,a***@example.net,***-****-5248,"Vereda Eloá da Costa, 10
+Xodo-Marize
+38622-394 Moreira dos Dourados / MG",Marques da Serra,Tocantins,82599-603,1975-01-26,50,Gerente de riscos em seguros,Rocha,35600,1.93,72.0,19.3,70351,5175393934928109,691,4,2024-11-09 04:07:24
+213,Sr. Samuel Pastor,850***.***-38,418562076,c***@example.com,***-****-8963,"Lago Gael Henrique Farias, 61
+Vila Cloris
+82524161 Machado de Dias / PI",Lopes,Pernambuco,50724-374,2000-11-17,24,Lanterneiro,Moraes Fernandes Ltda.,45672,1.74,74.9,24.7,18396,349102619570587,832,15,2023-06-05 12:29:11
+214,Maria Liz Correia,510***.***-77,701485322,w***@example.net,***-****-1588,"Estação José Machado, 25
+Vila Rica
+11729-070 Fernandes / PB",Guerra de Machado,Sergipe,60145-524,1980-08-01,45,Mergulhador,da Rocha,46362,1.83,56.2,16.8,81368,501850449866,450,16,2024-10-24 17:12:23
+215,Antonella Sales,076***.***-16,205478360,f***@example.com,***-****-9113,"Praia Clara Cunha, 94
+Novo São Lucas
+14388724 Costa Alegre / SE",Cirino,Mato Grosso do Sul,41757-020,1953-11-24,71,Engenheiro de horticultura,Lima,14968,1.59,54.7,21.6,36629,3517626761018607,685,11,2021-10-05 15:11:22
+216,Renan Câmara,071***.***-93,182306549,m***@example.net,***-****-4049,"Favela Esther Vieira, 25
+Vila Suzana Segunda Seção
+43181-366 Correia / RR",Guerra de Costela,Paraíba,02603036,1997-11-01,27,Protético dentário,Nunes,24054,1.77,51.5,16.4,30840,4364296470063761823,735,9,2024-03-01 11:04:36
+217,Maria Isis Farias,263***.***-28,630217841,m***@example.com,***-****-4616,"Viela Ester Souza, 40
+Granja De Freitas
+55273011 Sampaio / SP",Ribeiro das Pedras,São Paulo,28986-268,1961-06-14,64,Afiador de ferramentas,Teixeira Jesus - EI,37813,1.52,54.5,23.6,59779,4553280111961976,826,17,2025-06-18 01:18:16
+218,Sr. Mathias Moraes,193***.***-61,587032613,j***@example.net,***-****-3301,"Aeroporto de Costela, 1
+Aarão Reis
+23545-138 da Mota de Dias / SC",Freitas de Ramos,Distrito Federal,47772-285,1981-03-30,44,Cobrador de ônibus,Silveira Moreira Ltda.,21163,1.67,66.2,23.7,50406,213165050400237,477,18,2022-04-30 05:57:56
+219,Vinicius Pinto,824***.***-20,840375268,e***@example.org,***-****-0716,"Travessa de Castro, 63
+Vila Santa Monica 1ª Seção
+03471-716 Monteiro de Goiás / PR",Rocha da Prata,Amazonas,09515547,1978-06-26,47,Promotor público/de justiça,Costa - EI,12480,1.78,97.0,30.6,95706,6514357182945022,475,11,2021-07-30 13:46:57
+220,Luigi Caldeira,970***.***-12,57268034X,v***@example.com,***-****-3871,"Campo Carolina Freitas, 825
+Pindura Saia
+23725832 Santos de Minas / AL",Sales,Rio Grande do Norte,40351-984,1964-06-10,61,Eletricista,da Costa Cassiano Ltda.,22514,1.75,73.8,24.1,54670,5532163528467386,598,15,2023-07-10 01:26:14
+221,Srta. Maria Cecília Moura,317***.***-46,075126382,l***@example.net,***-****-4186,"Vila Nicole Sales, 32
+Novo Das Industrias
+92128530 Nascimento de Goiás / MA",Pereira Paulista,Rio Grande do Norte,36729-251,1992-08-25,33,Diagramador,Vasconcelos,18068,1.51,66.4,29.1,61087,6519006626782187,607,11,2021-11-27 17:19:02
+222,Dr. Vitor Camargo,285***.***-50,483256109,d***@example.com,***-****-5541,"Viela Lívia Guerra, 91
+Marieta 1ª Seção
+00831-712 Castro de da Costa / AM",Fernandes,Rondônia,96863959,1965-05-10,60,Tecnólogo em navegação fluvial,da Cruz,18699,1.97,79.4,20.5,34519,4446190240671753,310,9,2022-05-25 04:18:21
+223,Henrique Souza,690***.***-31,501786326,x***@example.org,***-****-0734,"Condomínio de Viana, 46
+Beija Flor
+71967-269 da Mota / PB",Lima,Maranhão,72579-073,1982-07-26,43,Professor,Sousa,7477,1.7,88.2,30.5,81882,4739049767952713,510,19,2024-10-22 04:43:22
+224,Benjamin Sampaio,190***.***-50,561380478,n***@example.net,***-****-6677,"Vale de Caldeira, 74
+Califórnia
+64864782 Siqueira / SP",Pimenta,Distrito Federal,69061018,2002-05-21,23,Biólogo,Vieira,21102,1.88,61.0,17.3,34057,213136772170663,337,7,2025-06-16 20:56:27
+225,Srta. Maitê Lima,625***.***-60,360428514,l***@example.org,***-****-4881,"Colônia Clara Silveira, 58
+Marçola
+68845831 Sá de Aragão / SP",Martins Alegre,Pará,51979-692,1994-11-21,30,Coveiro/Sepultador,da Rosa,14860,1.74,93.2,30.8,50289,30377555742895,359,19,2025-07-26 06:39:33
+226,Srta. Lunna Rodrigues,862***.***-00,620758417,n***@example.net,***-****-7250,"Avenida Joaquim Montenegro, 3
+Conjunto Jatoba
+14242763 Nogueira Alegre / SP",Machado,Rondônia,03588-065,1953-02-27,72,Percursionista,Jesus,15717,1.78,107.3,33.9,69156,213116308634937,468,2,2021-01-05 16:33:03
+227,Sr. Samuel Gomes,305***.***-16,351084678,s***@example.org,***-****-9221,"Esplanada de Leão, 76
+Aparecida 7ª Seção
+10530592 Lopes de Nunes / PI",Cavalcanti,Tocantins,19076-753,1953-12-09,71,Enólogo,Peixoto Araújo e Filhos,3949,1.85,105.9,30.9,89363,501866659334,343,18,2024-04-06 09:32:42
+228,Agatha Ferreira,312***.***-51,017238651,e***@example.net,***-****-1705,"Condomínio Davi Lucca Camargo
+Paraíso
+83461873 Barros das Pedras / MG",da Rosa,Sergipe,95234176,2003-09-22,22,Profissional de linguística,Rios - EI,33818,1.97,94.2,24.3,37778,5496515286532517,657,14,2022-11-23 19:46:57
+229,Júlia Pimenta,513***.***-24,130456780,a***@example.org,***-****-1185,"Pátio Fernanda Monteiro, 86
+Andiroba
+95501660 Cardoso / ES",Fernandes de Nunes,Rondônia,00120-991,1960-12-15,64,Naturólogo,Melo,44273,1.67,90.3,32.4,87456,213125348827039,721,8,2023-06-19 23:54:55
+230,Beatriz Sousa,269***.***-61,308427154,d***@example.org,***-****-2935,"Quadra Isaque Teixeira
+Leticia
+75185-420 Santos dos Dourados / RS",Silveira Verde,Maranhão,33233-847,1992-06-25,33,Maquiador,Nunes,46463,1.94,84.6,22.5,8280,3554255428562593,431,11,2023-01-15 04:54:27
+231,Pedro Lucas da Costa,475***.***-88,852610439,y***@example.org,***-****-2592,"Passarela Stephany Caldeira, 324
+São Jorge 3ª Seção
+96521768 Duarte / BA",Andrade das Pedras,São Paulo,48909563,1985-10-21,39,Jóquei,da Rocha,29438,1.94,95.0,25.2,73927,5281624162746636,499,8,2024-08-28 08:53:19
+232,Kamilly Teixeira,904***.***-88,813705629,b***@example.org,***-****-6629,"Lago Duarte, 9
+Vila Petropolis
+51529313 Cavalcanti de Minas / AM",Albuquerque,Maranhão,21152325,1971-07-26,54,Patinador,Casa Grande,48994,1.94,66.3,17.6,27107,060488485396,566,11,2022-08-19 01:08:41
+233,Caleb da Paz,098***.***-75,328175602,m***@example.org,***-****-4700,"Ladeira Ana Lívia da Costa, 27
+Alta Tensão 2ª Seção
+85705839 Silveira Grande / RO",Cavalcanti da Prata,Alagoas,44020-163,1952-01-14,73,Diretor de fotografia,Teixeira,17585,1.66,59.8,21.7,24019,38412571044828,446,5,2022-04-04 00:34:43
+234,Juliana Duarte,294***.***-74,275684015,m***@example.net,***-****-5816,"Morro de Pinto, 9
+Lindéia
+05135-243 Câmara / TO",Albuquerque de Caldeira,Santa Catarina,87297-995,1973-11-02,51,Assessor de imprensa,Aragão - ME,43460,1.93,73.0,19.6,46144,676295801408,486,3,2022-02-27 22:25:06
+235,Carlos Eduardo Andrade,819***.***-20,653140289,a***@example.org,***-****-1666,"Feira Santos
+Barro Preto
+62627229 da Costa Alegre / SE",Pereira de Minas,São Paulo,29413518,1973-12-30,51,Aviador,Freitas,19184,1.53,61.3,26.2,11348,4722825009205914,649,1,2025-04-03 03:59:44
+236,Joaquim Mendonça,569***.***-66,47613285X,e***@example.net,***-****-8445,"Fazenda Montenegro, 49
+Savassi
+16213274 Nogueira Verde / PI",da Costa dos Dourados,Pernambuco,44098214,1990-12-19,34,Astrônomo,Pereira S.A.,23537,1.78,117.0,36.9,13005,377266769607666,665,14,2024-02-25 05:33:03
+237,Natália Aparecida,375***.***-08,031756426,r***@example.org,***-****-8429,"Largo Bianca Montenegro, 5
+Chácara Leonina
+77908-081 Guerra da Praia / PI",Araújo,Amapá,13106159,2005-11-18,19,Clínico geral,Albuquerque,8594,1.87,98.8,28.3,94897,4272190391446223731,816,2,2024-05-04 11:15:31
+238,Arthur da Conceição,749***.***-34,17082634X,s***@example.net,***-****-0902,"Trevo Aragão, 84
+Sion
+93884387 Aragão de Silva / RN",Montenegro Grande,Rondônia,67138-822,2007-04-18,18,Psicomotricista,Azevedo - ME,46161,1.79,111.8,34.9,44820,4859965309342788,559,13,2023-08-22 22:37:55
+239,Hadassa da Rocha,570***.***-65,172508435,i***@example.org,***-****-7329,"Chácara Ísis Borges, 55
+Vitoria
+77572-950 Freitas / PB",Ramos do Amparo,Ceará,77928-981,1976-03-11,49,Faxineiro,Almeida e Filhos,30297,1.51,110.1,48.3,24590,2598199970010553,539,10,2021-05-13 05:16:52
+240,Lunna Cunha,613***.***-03,620134756,m***@example.org,***-****-3235,"Loteamento Costela, 3
+Maria Tereza
+54354-884 Freitas de Barros / RN",Cavalcante,Paraíba,85951228,2000-02-29,25,Médico,Aragão,9698,1.87,80.9,23.1,79664,2244175135365429,412,3,2023-05-29 02:03:02
+241,Dra. Marcela da Cruz,371***.***-57,538721467,e***@example.net,***-****-6532,"Via Lucca Albuquerque, 67
+Tres Marias
+99116-033 Lopes do Amparo / MS",Mendes do Oeste,Pará,61982-404,1977-05-13,48,Salva-vidas,Rocha Novais e Filhos,4424,1.79,109.2,34.1,63030,3585467784626754,814,1,2022-06-14 17:37:28
+242,João Pedro Oliveira,164***.***-53,834570622,d***@example.com,***-****-2721,"Parque Marcos Vinicius da Mata
+Caiçaras
+96014453 Ribeiro / DF",Costela,Roraima,38273421,1976-01-01,49,Administrador de banco de dados DBA,Vieira Moreira S/A,25393,1.6,72.4,28.3,10527,4844513697883092,738,4,2020-12-29 01:07:11
+243,Dr. Thomas Araújo,490***.***-83,340876128,d***@example.net,***-****-8269,"Aeroporto Raul Rodrigues, 796
+Baleia
+70112690 Rezende / MT",Machado,Bahia,49209-687,1958-07-08,67,Maitre,Nogueira - EI,20525,1.82,52.0,15.7,33556,6011360275710251,520,3,2024-10-11 13:45:48
+244,Mariana Oliveira,145***.***-09,064853718,d***@example.org,***-****-4437,"Distrito de da Cruz, 4
+Novo Glória
+25150-602 Freitas de Nunes / AM",Pires,Pará,81313632,1992-12-29,32,Educador integrado à saúde pública,Cavalcante,38091,1.75,70.3,23.0,32661,4957115464601,440,17,2022-09-08 17:50:02
+245,Enzo Rios,098***.***-40,673125488,m***@example.org,***-****-2482,"Vale Manuela Alves, 87
+Bernadete
+64024-455 Correia Paulista / GO",Aragão,Rondônia,48350-197,1978-07-13,47,Profissional de áudio,Gomes,45149,1.83,56.2,16.8,97748,3543618100565354,354,17,2021-11-02 21:29:42
+246,Anna Liz Novais,593***.***-14,560241380,a***@example.com,***-****-2840,"Viaduto de Rodrigues, 633
+Solar Do Barreiro
+71913360 Souza / TO",Marques,Mato Grosso do Sul,91573-713,1979-12-12,45,Auditor,Fernandes Peixoto - ME,46237,1.58,88.3,35.4,19040,180098245082892,303,14,2020-12-03 17:28:24
+247,Luiz Otávio da Mota,327***.***-74,073564825,a***@example.net,***-****-3231,"Chácara da Rocha, 4
+Bela Vitoria
+86689-397 das Neves / PI",Peixoto de Minas,Paraná,98469791,1987-06-23,38,Tatuador,Gomes,34899,1.98,109.5,27.9,27358,2703098382823706,758,3,2023-02-28 14:18:48
+248,Ana Julia Peixoto,926***.***-80,582367141,r***@example.net,***-****-3220,"Favela Giovanna Teixeira
+São Sebastião
+95038-529 Caldeira / PA",Ferreira,Amazonas,40893-430,1952-06-01,73,Engenheiro de iluminação,Santos - ME,27812,1.9,108.2,30.0,70192,584351866861,467,14,2025-09-05 17:20:05
+249,Dr. Ravy Vargas,385***.***-20,324075613,m***@example.com,***-****-3418,"Área Peixoto, 3
+Vila Da Luz
+62212-661 Lima / PE",Fonseca,Mato Grosso,98319-441,1984-04-19,41,Engenheiro de produto ou produção,Dias Ltda.,13362,1.99,104.8,26.5,38373,4698411205133653,472,2,2021-04-11 00:43:33
+250,Raquel Vieira,489***.***-20,375602410,s***@example.com,***-****-6031,"Distrito de Melo
+Alta Tensão 2ª Seção
+29103711 Vasconcelos / SP",Martins do Amparo,Roraima,53028-039,1981-04-05,44,Urologista,Pereira S.A.,44507,1.82,60.1,18.1,72582,568921674616,345,5,2023-08-28 22:30:21
+251,Dr. Yuri Alves,739***.***-03,254381674,v***@example.com,***-****-1878,"Núcleo Cardoso, 97
+Bela Vitoria
+30250-897 Cavalcanti / AP",Vieira das Flores,Amapá,62172-347,2007-09-26,18,Estilista,Silveira,36227,1.93,77.3,20.8,70240,30503704726741,486,1,2024-07-17 07:36:38
+252,Evelyn Vasconcelos,632***.***-92,817630521,l***@example.net,***-****-9543,"Residencial Moreira, 3
+Vale Do Jatoba
+94716-556 Silveira de da Rosa / RR",da Paz de Câmara,Amazonas,63058249,1959-08-24,66,Cenógrafo,Jesus,17509,1.91,103.1,28.3,15814,213190134759168,749,5,2023-07-07 14:26:31
+253,Enrico Camargo,278***.***-40,02583714X,c***@example.net,***-****-1533,"Distrito Heloisa Azevedo, 1
+Dom Joaquim
+36104-014 Machado do Campo / MS",Nogueira de Monteiro,Pará,43909-950,1970-09-05,55,Cenógrafo,Martins,13722,1.62,104.2,39.7,97128,4797855333986368,844,17,2023-07-01 17:24:51
+254,Levi da Rosa,164***.***-53,568140278,m***@example.org,***-****-4786,"Via Maya Pastor, 67
+Jardinópolis
+95005280 Caldeira / DF",Ferreira,Amapá,68725-780,1969-06-21,56,Assistente de produção,Melo - EI,24405,1.56,73.9,30.4,13226,4878199526387510,601,20,2023-10-10 18:37:36
+255,Brayan Macedo,380***.***-04,148370627,v***@example.com,***-****-6555,"Travessa Murilo Teixeira, 77
+Lagoinha
+70439-757 Brito das Flores / TO",Moreira,Tocantins,40662-224,1973-10-07,52,Pedagogo,Albuquerque Machado - EI,20660,1.85,66.7,19.5,16870,4969345389607,563,19,2021-12-21 02:28:26
+256,Dra. Heloisa Ramos,289***.***-95,072346516,i***@example.net,***-****-5507,"Alameda Freitas, 6
+Suzana
+61593563 Rios / RO",Santos,Espírito Santo,20208539,1988-01-20,37,Fotógrafo,Freitas,47862,1.82,107.1,32.3,78860,4759038757363135,591,6,2024-03-22 16:24:29
+257,Davi Ribeiro,264***.***-69,751682408,j***@example.org,***-****-3887,"Pátio de da Rosa, 51
+Conjunto Serra Verde
+56246458 Mendonça de Caldeira / TO",Casa Grande,Mato Grosso do Sul,90727195,1980-09-08,45,Maestro,Sousa S/A,17126,1.66,85.9,31.2,11337,6527901163177140,329,0,2022-05-29 10:32:18
+258,Anthony Gabriel Cavalcanti,821***.***-95,517064388,l***@example.com,***-****-8077,"Rua Rael da Mota, 29
+Granja Werneck
+50607723 Cirino / MT",Sousa de Goiás,Amapá,79130338,1994-01-04,31,Odontologista estético,Novaes Cunha - ME,33146,1.5,94.0,41.8,48285,30367958683960,368,8,2025-02-07 23:04:52
+259,Lucca Vasconcelos,328***.***-41,108324576,g***@example.net,***-****-2977,"Condomínio Miguel Cunha, 2
+Chácara Leonina
+96624-911 da Paz / SC",Cavalcante Paulista,Minas Gerais,20523-406,2004-01-14,21,Geólogo,Cavalcanti,40281,1.7,79.0,27.3,32595,6011120093715407,794,3,2024-09-27 09:11:42
+260,José Pedro Pereira,153***.***-42,01532476X,a***@example.org,***-****-9504,"Núcleo de Ferreira, 53
+Renascença
+22191799 da Paz Verde / PA",Aparecida,Alagoas,92790151,1975-09-26,50,Veterinário,Silva Ribeiro S/A,41247,1.68,104.0,36.8,30379,6011607636331296,385,1,2021-01-11 17:14:09
+261,Davi Luiz Farias,706***.***-08,261740830,g***@example.com,***-****-2420,"Vale Isabela Pimenta, 82
+Cônego Pinheiro 1ª Seção
+74304-596 Cavalcanti de Costela / RO",Cardoso de Duarte,Distrito Federal,14948316,2006-02-14,19,Empacotador,Pimenta,41359,1.96,57.8,15.0,84101,30450237552196,624,13,2023-02-17 01:21:01
+262,Srta. Lara Farias,381***.***-46,256783147,m***@example.net,***-****-9145,"Trecho de da Conceição, 277
+Vila Santa Monica 1ª Seção
+66944874 Cardoso de Monteiro / GO",Câmara,Pará,96822703,1984-04-27,41,Promotor de vendas,Rodrigues - ME,39040,1.57,118.0,47.9,5449,676121524968,576,14,2021-08-14 03:27:41
+263,Ravy Silveira,614***.***-28,781034620,m***@example.net,***-****-0862,"Área Vitor Hugo da Rocha, 717
+Dom Cabral
+38208659 Freitas / MT",Araújo,Rio Grande do Norte,40380822,1969-11-29,55,Controller,Novais,3550,1.63,91.9,34.6,60382,6011578305234345,421,8,2022-01-11 06:55:46
+264,Thiago Duarte,021***.***-40,742056314,p***@example.com,***-****-7401,"Viaduto da Rocha, 119
+Vila Sesc
+64591671 Pacheco / RO",Rios,Santa Catarina,52985-908,1962-05-06,63,Técnico em agropecuária,Moreira S.A.,9477,1.96,50.3,13.1,35994,3501711778999284,836,2,2024-02-18 23:43:34
+265,Srta. Liz Albuquerque,096***.***-30,438650219,p***@example.org,***-****-0553,"Chácara Pereira, 2
+Jardinópolis
+65352872 Fogaça das Pedras / RS",Almeida,Distrito Federal,94629-084,2004-01-14,21,Reumatologista,da Cruz,35490,1.53,75.8,32.4,54030,376707342573579,605,20,2024-03-06 19:49:17
+266,Anthony Gomes,562***.***-07,386457219,r***@example.com,***-****-6839,"Avenida de Costa, 51
+Novo São Lucas
+19011-707 Peixoto de Minas / PI",Pinto Verde,Mato Grosso,75335-134,1953-12-17,71,Engenheiro agrimensor,da Conceição,20444,1.88,89.4,25.3,48971,4197608684997239832,541,11,2020-11-17 22:39:28
+267,Emanuelly Aragão,590***.***-60,265781048,j***@example.com,***-****-0582,"Morro Cavalcante, 31
+São Bento
+88424385 Silveira da Serra / BA",Dias,Mato Grosso do Sul,94986-688,1991-02-21,34,Empresário,Casa Grande,6562,1.57,59.4,24.1,38678,4461711738299763,572,4,2024-01-11 17:06:05
+268,Bento Brito,025***.***-76,074328153,m***@example.org,***-****-3150,"Chácara de Cavalcante
+Colégio Batista
+79207022 Pimenta / DF",Melo,Roraima,31337-319,1981-09-14,44,Promotor público/de justiça,Caldeira Cavalcanti e Filhos,21165,1.75,53.7,17.5,26820,344189214648301,556,10,2021-05-04 18:38:20
+269,Srta. Eloah Marques,851***.***-88,473518065,x***@example.com,***-****-3029,"Núcleo Alves, 47
+Vila Nova
+56699974 Cassiano de Barros / SC",Pinto,Sergipe,67343314,1964-03-08,61,Empresário,Nogueira,42671,1.75,106.2,34.7,52485,3561781828537621,708,14,2021-08-26 18:54:12
+270,Gael Guerra,348***.***-98,52687031X,c***@example.com,***-****-8422,"Núcleo Pastor, 62
+Aparecida 7ª Seção
+76116-177 Teixeira do Amparo / MS",Monteiro de Novais,São Paulo,69987-962,1982-01-27,43,Neurologista,Leão,14466,1.62,66.4,25.3,94224,4501874188520,525,13,2022-09-26 01:19:37
+271,Dra. Hellena das Neves,163***.***-51,28546307X,h***@example.net,***-****-0008,"Ladeira Davi Pereira
+Vila Pinho
+88851570 da Luz / SP",da Costa Verde,Santa Catarina,84955209,1991-10-11,34,Gerente de riscos em seguros,Sá,19997,1.91,57.0,15.6,39211,3543015327887291,655,6,2020-10-27 03:18:49
+272,José Cassiano,706***.***-44,758042139,g***@example.com,***-****-5053,"Vila Abreu, 2
+Aeroporto
+12071-600 Porto de Minas / PB",da Conceição,Bahia,93847-063,1995-11-30,29,Xilógrafo,Novaes,46635,1.84,87.6,25.9,86105,2431398110214734,668,14,2021-07-29 18:19:26
+273,Hellena Novais,025***.***-71,76120345X,c***@example.com,***-****-3549,"Vila de Aparecida
+Santa Tereza
+12524-572 Silveira de Goiás / RO",Sá,Rio Grande do Norte,47388429,1960-05-03,65,Encarregado de manutenção predial,Fernandes,13878,1.8,73.1,22.6,22704,213119915126495,451,9,2024-11-06 22:40:23
+274,Mariah Andrade,360***.***-77,804367516,n***@example.net,***-****-4949,"Avenida de Silva, 8
+Olhos D'água
+56724442 Silveira Paulista / RO",Cavalcante das Pedras,Bahia,80255697,1962-08-12,63,Escultor,Mendonça,47589,1.73,72.5,24.2,76225,4036783645863268756,342,20,2023-04-13 10:57:12
+275,Dr. Mateus Costa,970***.***-20,504781364,d***@example.org,***-****-8670,"Jardim Cassiano, 85
+Vila Betânia
+56763250 Viana do Oeste / PB",Montenegro das Pedras,Acre,87028215,2004-06-29,21,Promotor de vendas,Teixeira S.A.,14487,1.81,88.2,26.9,57810,2652975548478809,791,7,2023-10-22 20:59:54
+276,Srta. Milena Fernandes,514***.***-06,470632586,a***@example.com,***-****-5089,"Estação Castro, 2
+Vila Nova
+07643804 da Rosa / BA",Garcia de Correia,Distrito Federal,36105988,1967-04-19,58,Infectologista,Fonseca,45780,1.76,54.7,17.7,98762,30046065808922,483,4,2025-06-13 00:15:50
+277,Cecilia Moura,381***.***-60,305746121,e***@example.net,***-****-8633,"Estação Marcelo Barros, 64
+Jardim Do Vale
+56565877 Pimenta do Oeste / MA",Pinto,Rio de Janeiro,87618568,1968-12-04,56,Taxista,Santos S.A.,23277,1.62,92.1,35.1,83288,6520959555005672,418,2,2023-11-23 21:58:21
+278,Maria Helena Abreu,958***.***-86,768135205,c***@example.org,***-****-5615,"Rua Freitas, 5
+Belvedere
+29449-959 Vasconcelos / ES",Mendonça de Sá,Pará,55828924,1997-04-04,28,Geriatra,Silva Siqueira e Filhos,30859,1.84,83.6,24.7,9713,563265646825,650,19,2022-07-07 12:05:52
+279,Felipe Brito,192***.***-60,540831621,d***@example.net,***-****-8897,"Viela Nascimento, 11
+Vila Maria
+47623675 Oliveira de Goiás / PR",Jesus,Tocantins,50665062,1993-11-28,31,Físico,Andrade Marques Ltda.,43333,1.65,113.2,41.6,54119,343549650135199,636,6,2024-07-19 18:24:07
+280,Felipe Lopes,375***.***-00,820153679,m***@example.net,***-****-8521,"Residencial Campos, 54
+Vale Do Jatoba
+81987-490 da Rosa das Flores / RO",Rocha Paulista,Tocantins,22502-827,1989-10-31,35,Laboratorista,Jesus,36529,1.5,65.5,29.1,49226,4172767307765742213,758,2,2021-03-23 06:47:46
+281,Elisa Pimenta,136***.***-61,276853040,l***@example.net,***-****-5998,"Via Leandro Pereira, 98
+Virgínia
+49953-761 da Costa Alegre / RR",Pastor de Novaes,Rio de Janeiro,76655-039,2006-01-08,19,Endocrinologista,Porto S.A.,25133,1.72,113.1,38.2,26264,4065867372536140,506,18,2024-02-01 21:53:33
+282,Maria Isis Ramos,921***.***-97,810563241,l***@example.net,***-****-9055,"Vereda Cecília Pastor, 7
+Jardinópolis
+12501-521 Costa da Serra / AP",Lima,Paraná,37830-337,1952-01-16,73,Lamboteiro,Cardoso Caldeira Ltda.,12521,1.92,92.2,25.0,98523,4123346518530986,612,5,2021-06-13 16:37:40
+283,João Vitor Costa,689***.***-51,751806249,c***@example.com,***-****-7689,"Pátio Vicente da Luz, 82
+Vila Jardim Leblon
+85588-785 Ferreira do Oeste / SE",Leão das Flores,Rio Grande do Norte,41255-529,1979-03-19,46,Motofrete,Azevedo Rios Ltda.,4761,1.8,75.2,23.2,86441,3568629025980008,763,13,2023-05-06 04:19:19
+284,Sr. Diogo Araújo,953***.***-41,285041678,y***@example.net,***-****-6475,"Distrito Garcia
+Santa Monica
+44938-151 Rodrigues do Campo / PI",da Paz da Prata,Pernambuco,83531565,1976-10-19,49,Cartunista,Rios,38897,1.92,57.1,15.5,48786,2286168150554034,746,13,2021-10-24 19:26:05
+285,Sarah Novaes,507***.***-17,23605174X,l***@example.org,***-****-5621,"Passarela Vinícius da Cruz, 156
+Vila Santo Antônio Barroquinha
+40729-831 da Luz / TO",Nunes Alegre,Mato Grosso,83203-069,1999-02-23,26,Consultor,Peixoto,14705,1.79,71.9,22.4,72368,213173218258794,375,9,2022-07-22 20:13:51
+286,Bruno Sales,752***.***-06,728416050,e***@example.net,***-****-0095,"Esplanada Ian Sampaio
+Vila Ouro Minas
+10315-130 Fonseca / RR",Câmara,Amapá,83540885,1953-07-07,72,Atleta de tiro com arco,Carvalho,8887,1.94,114.2,30.3,30702,30156115867503,707,20,2025-07-28 12:28:49
+287,Emanuella Mendes,216***.***-13,504768219,m***@example.com,***-****-4156,"Viaduto de Pires
+Guaratã
+50238253 Rocha da Prata / MG",da Mata,São Paulo,05312-539,1962-05-22,63,Geólogo,Peixoto,29781,1.98,58.2,14.8,43839,348047111016103,605,11,2025-05-14 07:19:49
+288,Ana Júlia Peixoto,974***.***-14,015784368,m***@example.org,***-****-8025,"Vila de Gomes
+Jardim Leblon
+60430945 Nunes / MT",Duarte de Monteiro,Minas Gerais,92334-178,2004-04-07,21,Ecólogo,Martins,25329,1.52,109.5,47.4,37803,30220738141033,591,15,2023-05-05 03:51:13
+289,Ayla Fernandes,208***.***-40,156704286,d***@example.org,***-****-2277,"Área de Marques, 48
+Novo Aarão Reis
+44372-707 Machado do Oeste / PR",Vasconcelos,Santa Catarina,79087-290,1995-06-02,30,Prensista,Caldeira Porto - ME,8170,1.81,109.7,33.5,40799,213148671602464,585,0,2023-02-01 17:56:53
+290,Aurora Siqueira,371***.***-99,548723606,a***@example.net,***-****-7387,"Avenida Milena Pimenta, 75
+Lorena
+57840221 Jesus / SE",Duarte,Pará,57319659,1963-12-06,61,Gourmet,Nogueira - ME,36389,1.84,97.2,28.7,47695,30162178796209,418,8,2022-08-08 07:54:40
+291,Dra. Ana Cecília Cardoso,731***.***-20,567148026,r***@example.com,***-****-2687,"Condomínio Henry Gabriel Sousa, 76
+Vila Santa Monica 1ª Seção
+47668-020 Barros / TO",Siqueira das Flores,Alagoas,96516-899,2005-11-09,19,Dublador,Rios,28830,1.97,55.5,14.3,50186,3596793846211179,324,8,2021-07-26 09:27:09
+292,Luiz Henrique Ribeiro,489***.***-49,315870643,m***@example.org,***-****-4425,"Vale Gustavo Henrique Cardoso, 866
+Pirineus
+86427104 Rodrigues do Galho / RO",Moura,Rondônia,45281465,2005-05-23,20,Tenista,Martins Porto Ltda.,11495,1.76,105.6,34.1,88009,30044393465028,444,6,2023-05-26 05:25:45
+293,Murilo Teixeira,985***.***-29,87320654X,h***@example.com,***-****-9143,"Rodovia de Cirino, 531
+São João Batista
+19300-029 da Cunha de Nogueira / PB",Pinto,Paraíba,59127-695,1985-12-09,39,Ortopedista,Correia e Filhos,10470,1.91,65.1,17.8,42405,4660832697178,466,18,2022-10-05 11:05:51
+294,Sophia Macedo,837***.***-50,830127458,l***@example.com,***-****-9065,"Distrito Gomes, 2
+Vila Canto Do Sabiá
+81972-154 Pacheco / RS",Aparecida,São Paulo,44014551,1978-05-29,47,Salgadeira,Ramos Ltda.,33795,1.73,86.0,28.7,13261,6011190675148392,379,2,2021-06-14 15:32:39
+295,Ana Beatriz Barbosa,109***.***-77,814075320,r***@example.com,***-****-3868,"Avenida de Fernandes, 4
+Vila Satélite
+83403760 Machado / MT",Borges da Praia,Pernambuco,78235511,2005-05-15,20,Produtor musical,Pires Freitas Ltda.,35056,1.64,79.3,29.5,92425,4894677171714,424,5,2025-05-11 03:28:35
+296,Ayla Rios,754***.***-83,156704389,s***@example.net,***-****-6313,"Morro da Cunha, 98
+Estrela Do Oriente
+61171680 Nogueira / AL",Melo,Minas Gerais,97688-657,1946-03-06,79,Ginasta artística,Dias Azevedo S.A.,45631,1.7,65.9,22.8,5361,3535263624739662,489,2,2023-05-27 19:45:04
+297,Sr. Ian Rocha,092***.***-04,560731826,a***@example.org,***-****-9302,"Feira Almeida, 39
+Caiçaras
+37604-115 Lopes de Goiás / PI",Mendes,Paraná,39080460,1986-09-26,39,Gestor de tecnologia da informação,Aparecida Santos - EI,32542,1.67,89.3,32.0,20975,6597570962136279,367,2,2021-01-18 17:25:04
+298,Clarice Garcia,678***.***-10,807163521,t***@example.com,***-****-0419,"Setor de Lima, 87
+Solar Do Barreiro
+09963913 da Mota / SE",Rios dos Dourados,Paraná,20460008,1947-01-26,78,Encanador,Andrade Dias S/A,44362,1.66,88.4,32.1,59828,4979501783998,748,4,2023-07-06 19:34:23
+299,Srta. Vitória Nunes,389***.***-66,728546309,g***@example.org,***-****-6172,"Feira Guilherme Andrade, 682
+Madri
+00214351 Pires Grande / RN",Marques de Câmara,Ceará,71108-607,1953-05-19,72,Peixeiro,Sá Oliveira e Filhos,28165,1.52,78.6,34.0,86594,3536333297473896,353,4,2022-08-24 16:33:06
+300,Sr. Luiz Miguel Farias,094***.***-60,172346058,p***@example.org,***-****-9213,"Praia de Fonseca, 673
+Túnel De Ibirité
+72781-411 da Paz do Oeste / MS",Sá Verde,Distrito Federal,42601866,1994-01-05,31,Marketeiro,da Cunha e Filhos,42607,1.88,80.5,22.8,81883,2235404873566829,636,8,2022-06-16 17:06:44
+301,Isaac Sales,940***.***-69,658132404,d***@example.net,***-****-1727,"Favela de Pereira
+Vila Batik
+40625-062 Vargas / PB",Fogaça,Pará,17315368,1955-07-24,70,Violonista,Silva Cavalcante e Filhos,13158,1.83,60.7,18.1,70423,342683502545510,679,5,2020-11-11 14:56:50
+302,Ian Sales,302***.***-08,423081573,f***@example.net,***-****-0828,"Distrito de das Neves
+Estoril
+18032749 Castro / RO",Vasconcelos do Sul,Maranhão,69934940,1952-10-19,73,Naturólogo,Aparecida Martins e Filhos,31986,1.54,114.3,48.2,24008,675902065316,400,13,2023-04-02 14:06:26
+303,Diego Camargo,810***.***-48,276534013,b***@example.com,***-****-1963,"Viela Pastor, 44
+Vila Trinta E Um De Março
+67325-089 Duarte Grande / ES",Gomes da Prata,Alagoas,75479657,2002-02-19,23,Entalhador,Ferreira,14354,1.54,119.6,50.4,20113,2695564734226245,664,3,2022-09-12 00:57:15
+304,Renan Marques,416***.***-00,025734684,t***@example.org,***-****-9868,"Loteamento Siqueira, 233
+Jatobá
+76216-471 Cavalcante / AC",da Rosa Alegre,Alagoas,92031-490,1991-04-16,34,Paginador,Correia Lopes e Filhos,31801,1.79,111.6,34.8,59071,213191217258813,461,4,2022-12-09 15:31:28
+305,Nicolas Ribeiro,258***.***-07,65082734X,b***@example.org,***-****-4756,"Estrada Elisa Leão, 72
+Caiçara - Adelaide
+83810-437 Cavalcanti das Flores / BA",Azevedo,Distrito Federal,89645933,1951-03-07,74,Prefeito,Moraes,8555,1.96,107.2,27.9,94508,2467643876451310,378,12,2023-04-24 07:31:59
+306,Emanuel Gonçalves,094***.***-58,18534267X,r***@example.net,***-****-3033,"Recanto de Vargas
+Saudade
+00273960 Mendes / PI",Cavalcanti do Campo,Amazonas,71936-138,1984-06-07,41,Terapeuta Holístico,Rezende,16806,1.84,82.5,24.4,71087,213192991854272,349,8,2021-07-10 00:28:06
+307,Yasmin Barbosa,904***.***-34,461852032,s***@example.org,***-****-1101,"Estação de Vieira
+Vila Bandeirantes
+24491-228 Jesus de Correia / AC",Novaes da Serra,Distrito Federal,66338574,1982-11-14,42,Pianista,Rezende da Conceição S.A.,25361,1.7,73.1,25.3,34186,630406424683,744,8,2022-02-26 15:13:44
+308,Gael Camargo,038***.***-31,457126036,a***@example.org,***-****-3535,"Feira Fonseca, 9
+Paraíso
+96958756 Cunha de Moreira / RR",Ribeiro,São Paulo,42217407,2002-07-26,23,Metalúrgico,Macedo,49181,1.9,54.5,15.1,53006,213198623157174,572,0,2022-05-17 14:13:57
+309,Manuella Campos,041***.***-10,04258176X,f***@example.org,***-****-4679,"Fazenda Porto, 6
+Dom Cabral
+18703203 Camargo / AP",Santos,Mato Grosso,55571738,1985-08-10,40,Soldador,Costela Abreu - ME,49829,1.84,83.1,24.5,22314,4912509486097586,806,16,2023-06-17 06:16:31
+310,Bárbara Fonseca,216***.***-42,58174620X,q***@example.org,***-****-2080,"Trecho Brito, 47
+Pindura Saia
+87400444 Borges da Prata / GO",Teixeira do Oeste,Pernambuco,42649-110,1990-03-02,35,Revendedor,Cunha,35541,1.96,52.9,13.8,6634,6506609389255401,728,1,2024-10-19 13:33:53
+311,Davi Luiz da Mata,971***.***-97,472536187,f***@example.net,***-****-7749,"Lagoa Guerra, 25
+Vila Das Oliveiras
+19868-782 Marques / AC",Lopes,São Paulo,92327-479,1949-12-20,75,Tintureiro,Abreu - ME,8944,1.63,119.6,45.0,71447,3541499538800941,614,18,2025-05-14 23:57:34
+312,Srta. Sabrina Barros,190***.***-95,270364857,p***@example.net,***-****-3034,"Pátio Cunha, 99
+Ouro Minas
+19923135 Aparecida / RR",Rezende,Ceará,56335172,1956-12-20,68,Comprador,Albuquerque Rezende S/A,7878,1.71,53.4,18.3,7026,3510372454865809,834,4,2021-05-19 07:49:22
+313,Vinicius da Rosa,791***.***-06,856714306,q***@example.com,***-****-0852,"Largo de Cavalcante, 537
+Lindéia
+60840392 Santos / RS",Gomes de da Rocha,Paraná,36472309,1989-03-31,36,Técnico em taquigrafia,Caldeira,38245,1.69,58.9,20.6,43946,376072246500370,771,18,2025-09-22 03:47:49
+314,Ana Beatriz Sampaio,241***.***-50,075624837,q***@example.com,***-****-5603,"Alameda Ian da Rocha, 566
+Vila Das Oliveiras
+45848-383 Abreu / ES",Mendes do Oeste,Piauí,90504636,2007-06-01,18,Engenheiro sanitarista,Novais,15862,1.68,103.2,36.6,73441,3554256397523913,742,6,2021-08-17 00:41:54
+315,Lucas Gabriel Vargas,412***.***-23,546370184,p***@example.org,***-****-3188,"Morro de Siqueira, 3
+Nova Cachoeirinha
+36381105 Carvalho / AL",Sá,Bahia,63616183,1977-07-29,48,Ator,Abreu Sá Ltda.,16800,1.8,61.9,19.1,21852,3583837867211793,666,3,2021-05-13 14:56:12
+316,Vitor Hugo Borges,305***.***-34,421578634,g***@example.com,***-****-0118,"Área Mirella Rios, 15
+Esplanada
+28396438 Cavalcante / PR",Albuquerque,Rio Grande do Sul,52460507,1947-12-20,77,Terapeuta floral,Macedo,10796,1.56,102.7,42.2,64056,4508598381067385013,650,1,2021-09-10 00:20:38
+317,Vitor Hugo da Rocha,631***.***-82,234580768,r***@example.org,***-****-5784,"Largo Abreu
+Esperança
+56799-768 Freitas / SE",Nascimento,Mato Grosso,23121-996,1998-03-26,27,Meredeira,Viana,23520,1.61,74.8,28.9,45674,4246202683195786,556,4,2023-02-21 20:55:32
+318,Bento Porto,917***.***-49,732584164,a***@example.com,***-****-8211,"Praia Ryan Albuquerque, 36
+São José
+63932763 Casa Grande / PE",Moura,São Paulo,98910-719,1991-05-19,34,Veterinário,Novais,13276,1.74,104.4,34.5,33713,4467224961043720,367,0,2024-03-28 06:42:27
+319,Bento Carvalho,476***.***-47,031758265,k***@example.net,***-****-5294,"Ladeira Ana Cecília Teixeira, 6
+Vila Califórnia
+80991503 Pimenta / PI",Sampaio da Prata,Alagoas,69102-294,2003-11-07,21,Atuário,Souza S.A.,4585,1.63,79.0,29.7,39535,370595030291919,472,0,2024-01-15 11:32:51
+320,Nicolas das Neves,964***.***-58,61532048X,a***@example.net,***-****-9868,"Setor de Rezende, 33
+São Salvador
+36489-105 Pereira / SC",da Paz do Norte,Alagoas,45959-808,1959-10-13,66,Marketeiro,Siqueira,6588,1.89,69.1,19.3,75774,4984052532224614719,586,1,2025-05-07 00:26:24
+321,João Miguel Alves,543***.***-70,430687126,d***@example.com,***-****-5479,"Jardim Henrique Brito, 13
+Paquetá
+41448621 Nunes de Goiás / TO",Moraes de Caldeira,Rio Grande do Norte,15743-267,1946-09-16,79,Tecnólogo em silvicultura,Araújo,15695,1.6,93.3,36.4,6456,502078570442,508,19,2024-10-06 05:23:37
+322,Clara Costela,061***.***-30,764150236,a***@example.org,***-****-2646,"Alameda Mariah Leão, 656
+Vila Santa Rosa
+93422-960 Lopes / SE",Castro do Sul,Espírito Santo,28274536,1958-01-17,67,Técnico em documentação,Pires Borges - EI,38147,1.67,114.7,41.1,88186,3596738703746049,494,0,2024-02-01 20:20:56
+323,Samuel Brito,271***.***-28,463271051,o***@example.com,***-****-2758,"Colônia Rodrigues, 6
+Vila Copasa
+22169-716 Rodrigues / PI",Abreu do Galho,Alagoas,76753-979,1946-02-08,79,Publicitário,Moraes,8445,1.53,106.4,45.5,7108,36257245411040,480,3,2021-04-16 01:53:08
+324,Bianca Barbosa,357***.***-48,63852071X,l***@example.org,***-****-4864,"Estrada José Pedro Alves
+Vitoria Da Conquista
+97813-959 Azevedo Grande / PB",Viana,Alagoas,72937-977,2005-10-19,19,Eletricista,Cavalcante,39801,1.66,78.5,28.5,90065,4611483236987161,553,3,2022-11-21 10:55:30
+325,Henry Gabriel Machado,592***.***-65,861450371,a***@example.com,***-****-0817,"Distrito de Caldeira, 5
+Novo Glória
+61864-219 Barbosa / PE",Sousa,Santa Catarina,56057-676,1977-06-03,48,Gestor de qualidade,Moraes,37139,1.53,96.5,41.2,78618,4370343088213467784,818,0,2023-05-05 05:45:58
+326,Rodrigo Sales,461***.***-69,237641586,a***@example.com,***-****-7896,"Núcleo de Silveira, 2
+Jardim Do Vale
+80491483 Sá / PE",da Mota do Amparo,Mato Grosso,85154-870,1980-03-17,45,Tecnólogo em papel e celulose,Cavalcante,49427,1.79,79.9,24.9,69931,3507368856185288,802,1,2022-06-22 19:07:30
+327,Dr. José Miguel Novaes,790***.***-10,37062841X,y***@example.net,***-****-3787,"Distrito de Moura, 99
+Vila Vista Alegre
+06764-377 Viana das Pedras / TO",Machado de Aragão,Rondônia,43238-315,1981-01-04,44,Dublê,Teixeira,17098,1.93,75.9,20.4,20863,30171545292891,802,18,2021-06-21 19:12:06
+328,Vicente Sampaio,173***.***-01,730152844,o***@example.com,***-****-8701,"Trevo Mateus Araújo
+Conjunto Celso Machado
+92876601 Pinto do Sul / RR",Machado,Sergipe,91487-917,1954-10-04,71,Caixa,Cavalcanti,42932,1.52,56.9,24.6,70702,4986431479282,631,5,2025-03-14 05:58:14
+329,Luísa Fernandes,605***.***-08,342108578,b***@example.com,***-****-1772,"Largo de Borges
+Conjunto Paulo Vi
+17730-781 Sousa / MG",Nunes de Fernandes,Pará,74008511,1988-12-29,36,Carteiro,Viana,45797,1.89,106.0,29.7,70177,180094267559511,432,16,2022-03-31 01:49:24
+330,Brayan Vargas,596***.***-37,580427614,v***@example.org,***-****-4091,"Avenida de Gomes, 4
+Vila Nova Cachoeirinha 2ª Seção
+99721537 Moraes do Campo / PB",Castro de Freitas,Pernambuco,24752765,1955-02-24,70,Trilheiro ou músico de cinema,Camargo,44897,1.98,65.9,16.8,6527,4671678068925489,496,1,2024-08-11 07:31:42
+331,Sra. Beatriz Sousa,253***.***-28,286701340,m***@example.net,***-****-0275,"Trecho de Sousa, 31
+Garças
+52168833 Gonçalves / PA",Rios,Maranhão,40191454,1973-03-04,52,Orientador educacional,Ramos Novaes Ltda.,40308,1.61,77.5,29.9,97188,675992812593,831,18,2025-05-22 01:15:17
+332,Sr. Antony Cirino,680***.***-05,251637840,a***@example.com,***-****-6949,"Condomínio de Abreu, 3
+Garças
+96826-115 Rezende / MG",Nunes da Prata,Alagoas,32984833,1989-04-23,36,Contabilista,Fogaça S/A,35664,1.8,88.3,27.3,81283,3593798557219918,519,18,2021-02-22 22:53:57
+333,Gustavo Henrique da Mota,271***.***-41,750268438,g***@example.net,***-****-6558,"Chácara de Garcia, 14
+Cdi Jatoba
+02136068 Cunha / RN",Sá,Rio de Janeiro,72463-140,2004-05-26,21,Profissional de hotelaria,Rios,16050,1.75,84.0,27.4,45935,4144766854467433,538,10,2023-05-04 17:24:42
+334,Dra. Bella Costela,126***.***-06,528746133,d***@example.com,***-****-9792,"Praça Dante Pires, 46
+Novo Aarão Reis
+20456-566 Peixoto / MS",da Mata,Rio de Janeiro,75154-161,1946-02-24,79,Eletricista,Novais Cirino e Filhos,43293,1.56,69.0,28.4,53066,5391408993530444,559,20,2021-05-07 15:48:18
+335,Sra. Ana Julia Vieira,037***.***-90,317802562,m***@example.org,***-****-9308,"Residencial de Farias, 9
+Belvedere
+33572015 Azevedo / AM",Fonseca,Rio Grande do Sul,30098129,1990-06-15,35,Soldador,Ferreira,21755,1.82,72.5,21.9,89567,3595797215272309,624,16,2024-05-20 22:39:32
+336,Nicole Farias,793***.***-86,675108433,h***@example.org,***-****-2698,"Campo de Almeida, 45
+Minas Brasil
+21904-924 Moura do Sul / AC",Macedo,Amapá,84106521,2002-07-31,23,Embalador,Machado,20588,1.82,99.6,30.1,47624,213126453858157,674,5,2023-09-30 08:56:38
+337,Benjamin Pereira,431***.***-51,508326412,p***@example.net,***-****-1682,"Rua Almeida, 38
+Cardoso
+83772633 Caldeira / RS",Moreira do Norte,Bahia,20727749,1948-02-03,77,Técnico em radiologia,Campos,30950,1.57,70.9,28.8,74648,3501689991556026,747,19,2022-02-28 06:53:24
+338,Yago Albuquerque,194***.***-66,23567140X,s***@example.net,***-****-5073,"Parque Moreira, 37
+Jardim Vitoria
+43662799 Lopes do Galho / AL",Nascimento Alegre,Maranhão,22677-302,1975-04-10,50,Barman,Jesus,48244,1.95,67.5,17.8,12900,4193154244714824,357,2,2020-12-15 13:06:41
+339,Srta. Hadassa Pinto,752***.***-41,215483674,b***@example.net,***-****-9371,"Morro Mariah Leão, 1
+Nova Cintra
+22246-867 Moura do Sul / PI",Abreu,Rio Grande do Sul,99699-188,1973-06-24,52,Endocrinologista,Castro Ltda.,12825,1.91,60.9,16.7,79361,4846421602287,614,11,2024-08-06 08:06:51
+340,Dr. Joaquim Lopes,916***.***-22,871463052,d***@example.org,***-****-6026,"Chácara de Costela
+São Geraldo
+77429-050 Almeida Verde / MG",Castro,Pará,05722154,2003-05-01,22,Aeroviário,Ribeiro Cardoso S.A.,27225,1.52,113.9,49.3,95936,180087126788495,643,4,2023-06-12 00:13:49
+341,Benicio Albuquerque,294***.***-80,412607852,a***@example.org,***-****-1040,"Lagoa Otávio Duarte
+Monte Azul
+30926-153 Peixoto / BA",Pinto da Serra,Santa Catarina,23049-111,1959-11-17,65,Artista de circo,Pacheco,12909,1.67,79.0,28.3,71630,378967845449705,702,6,2025-09-11 15:09:45
+342,Theo Costela,057***.***-25,057246130,l***@example.org,***-****-1668,"Alameda de Camargo, 14
+São Pedro
+90462766 Porto da Prata / MG",Ferreira,Pernambuco,51856-768,1965-07-10,60,Nutrologista,Nascimento Silva S.A.,43736,1.74,97.2,32.1,7109,3510679507076840,551,11,2022-11-12 10:28:59
+343,Luana Aparecida,130***.***-57,482351706,e***@example.net,***-****-3073,"Viaduto de Cavalcante, 938
+Corumbiara
+50877313 Nogueira de Gonçalves / BA",Sales de Santos,Espírito Santo,72796-357,1973-03-05,52,Astrólogo,Carvalho S/A,4540,1.88,109.1,30.9,87479,3573727004755475,364,13,2023-02-07 09:00:57
+344,Ian Porto,058***.***-04,165734826,z***@example.com,***-****-9241,"Sítio Liz Martins, 226
+Vila São Rafael
+19650-881 Cunha / PI",Ramos de Goiás,Rio de Janeiro,33235556,1971-02-10,54,Cientista de alimentos,Borges,25364,1.93,54.8,14.7,53437,6580722725644680,572,16,2021-08-25 08:02:26
+345,Lunna Pimenta,409***.***-20,125703685,m***@example.org,***-****-2528,"Trecho de Freitas, 84
+Vila Sesc
+71771-879 Vasconcelos / RR",Nascimento do Norte,Alagoas,16411243,1992-10-06,33,Garimpeiro,Araújo,18238,1.63,84.6,31.8,24114,3504487987826769,429,5,2024-08-13 14:20:47
+346,Maria Luísa Cavalcante,730***.***-66,458721037,s***@example.net,***-****-9752,"Esplanada de Garcia, 24
+Vila Atila De Paiva
+12456-428 Sales da Prata / RS",Costa Alegre,Pará,41149-245,1957-02-01,68,Jogador de basquete,Guerra S.A.,17818,1.93,93.1,25.0,9835,213111300723119,616,12,2021-12-28 23:35:41
+347,Fernanda Souza,647***.***-61,160328470,t***@example.com,***-****-0050,"Avenida Casa Grande, 177
+Nova Cachoeirinha
+85992-462 Guerra do Norte / BA",Teixeira,Goiás,87299061,1958-08-05,67,Assessor parlamentar,Nunes Ltda.,6251,1.97,82.4,21.2,21902,4636618143199,375,5,2023-04-18 14:32:27
+348,Ana Lívia Ribeiro,850***.***-49,641580320,b***@example.net,***-****-1046,"Núcleo Rezende, 57
+Estrela
+25578-988 Araújo de Leão / RS",das Neves de Minas,Sergipe,40637-893,1977-11-29,47,Hostess,Mendonça,6004,1.53,91.6,39.1,47752,3581153228947519,563,4,2021-10-25 17:44:51
+349,Jade Aparecida,176***.***-31,462173057,e***@example.com,***-****-7163,"Rodovia Dias
+Providencia
+66582-459 Santos de Garcia / PA",Pinto da Prata,Rio de Janeiro,21621840,1987-11-17,37,Navegador,Guerra,38906,1.77,112.7,36.0,96044,503886570780,788,19,2022-11-26 01:53:47
+350,Felipe Rios,734***.***-13,648015233,z***@example.com,***-****-7837,"Lago Eloá Ribeiro, 6
+Vila São Paulo
+00897940 Siqueira / AL",Sousa de Duarte,Tocantins,68908-860,1972-04-05,53,Engenheiro elétrico,Mendonça,5519,1.71,96.5,33.0,46993,4057218891116248,465,4,2024-11-01 15:17:16
+351,Murilo Novaes,948***.***-48,608712358,f***@example.org,***-****-6342,"Chácara Rios, 95
+Conjunto Califórnia I
+16444991 Gonçalves dos Dourados / CE",Mendonça,Mato Grosso do Sul,78124519,1971-07-02,54,Auditor,da Paz - EI,15344,1.94,91.9,24.4,11788,6011924596493382,817,6,2025-02-28 10:06:10
+352,Lara Rios,152***.***-82,753082469,b***@example.com,***-****-3747,"Trevo Luan Lima, 36
+Vila Betânia
+51126674 Sampaio / RJ",Caldeira do Galho,Amapá,15740-878,1975-01-24,50,Subprefeito,Vasconcelos,18916,1.74,97.2,32.1,99077,569626405082,552,9,2025-03-24 12:00:14
+353,Benjamin Silveira,694***.***-55,125468301,d***@example.net,***-****-4320,"Morro Pinto, 16
+Flavio De Oliveira
+22631-571 Gonçalves Grande / PA",Machado das Pedras,Santa Catarina,20217925,2000-06-27,25,Arranjador musical,Cavalcanti da Cruz S/A,21029,1.93,73.2,19.7,70367,3511030170981685,815,19,2022-07-22 08:59:51
+354,Isabella Viana,823***.***-79,25807436X,s***@example.org,***-****-5156,"Recanto Alícia das Neves, 2
+Olaria
+66691-825 Mendonça / RR",da Conceição de Minas,Piauí,81727634,2006-12-25,18,Engenheiro físico,da Luz,4661,1.68,51.7,18.3,72246,6519403103354038,354,10,2021-01-19 14:08:15
+355,Juliana Cavalcanti,560***.***-65,514062381,g***@example.com,***-****-4600,"Morro Vicente Rocha, 169
+Sport Club
+34205-475 Fernandes / RO",Borges do Galho,Pernambuco,60007149,1989-11-18,35,Professor,da Mota,30270,1.97,96.1,24.8,72520,4416577300616122,488,4,2024-12-30 20:21:28
+356,Emanuel Novais,074***.***-88,420315871,b***@example.com,***-****-9282,"Lago Sampaio, 78
+Nova Floresta
+96044415 Barbosa / DF",das Neves de Minas,Goiás,22194410,1963-03-23,62,Cartazeiro,Montenegro Moraes - ME,33230,1.7,97.3,33.7,83483,3590895267841834,318,16,2021-05-02 23:13:08
+357,Davi Lucas Cirino,286***.***-58,30581462X,p***@example.org,***-****-3036,"Fazenda de Mendes, 508
+Fazendinha
+12892415 Moura / AP",da Luz da Mata,Bahia,49139076,1979-08-25,46,Karateca,Aragão,16107,1.74,83.9,27.7,62827,4375095030265929,636,9,2023-06-14 20:18:18
+358,Luísa Mendes,214***.***-43,342067515,p***@example.net,***-****-1589,"Trecho Novaes, 44
+São Gonçalo
+40080-585 Caldeira / MA",Aragão Alegre,Distrito Federal,06786209,1980-09-03,45,Protético dentário,das Neves,17825,1.98,68.5,17.5,78815,30151832516970,671,19,2021-08-24 04:35:36
+359,Milena Casa Grande,763***.***-99,632581748,f***@example.org,***-****-4007,"Sítio Abreu, 68
+Penha
+01909-301 Cirino do Sul / AL",Rocha,Bahia,56117-630,1976-04-16,49,Guarda roupeiro,da Rocha,22932,1.52,74.6,32.3,81407,3516725020126796,799,12,2025-02-26 00:07:09
+360,Cauã Moreira,052***.***-02,862317459,m***@example.net,***-****-2940,"Ladeira de da Conceição, 10
+Pompéia
+77461-555 Cardoso / MA",Cunha do Campo,Mato Grosso,16434273,1964-07-09,61,Office-boy,Pastor Sales S.A.,18981,1.54,65.3,27.5,95121,4520588698785089875,409,5,2022-01-18 04:17:23
+361,Benjamim Melo,018***.***-85,605132847,b***@example.com,***-****-1062,"Praça de da Luz, 5
+Conjunto Jardim Filadélfia
+85243439 Sales / RJ",Viana,Roraima,03322-434,1984-09-15,41,Gerente de banco,Santos S/A,30156,1.83,92.5,27.6,93606,6011311232228648,409,15,2022-10-21 18:09:39
+362,Ana Julia Rezende,967***.***-86,320486175,i***@example.org,***-****-0704,"Lagoa Arthur Miguel Dias
+Granja Werneck
+63710-686 Guerra do Oeste / SE",Oliveira,Santa Catarina,73251158,1968-05-11,57,Lapidário,Aragão,33112,1.94,54.5,14.5,31303,676303423328,650,10,2024-08-04 23:53:15
+363,Rebeca Ramos,302***.***-99,857243615,d***@example.net,***-****-7741,"Loteamento Melo, 90
+Vila Da Ária
+76525-929 Gomes / AP",Oliveira,São Paulo,38171-462,1993-04-12,32,Profissional de logística,Rocha,17457,1.85,95.1,27.8,26159,2709984397639100,596,12,2021-03-14 09:13:09
+364,Dr. Carlos Eduardo Carvalho,639***.***-30,136405782,v***@example.com,***-****-3147,"Trecho de Lopes, 94
+Oeste
+34826-031 Farias Alegre / MG",Montenegro,Minas Gerais,47222-894,1958-10-10,67,Tapeceiro,Souza,22429,1.72,68.2,23.1,76234,38669455305704,397,3,2024-10-24 04:36:57
+365,Bento Aparecida,725***.***-76,517234865,e***@example.net,***-****-1170,"Vila Luna Cunha, 36
+Pindura Saia
+87675843 Camargo de Monteiro / RJ",da Mata,Roraima,30106981,1977-02-25,48,Timoneiro,Gomes Jesus e Filhos,25755,1.81,89.7,27.4,57534,3522364042925332,751,8,2021-11-01 11:31:30
+366,Sarah Silveira,758***.***-10,632745812,s***@example.com,***-****-7703,"Aeroporto Heitor Pinto, 421
+Alto Dos Pinheiros
+56615-595 Farias / AC",Costela,Paraná,17169439,1957-11-07,67,Taifeiro,Mendonça,12894,1.86,52.6,15.2,79305,676188512856,382,16,2024-03-28 00:28:23
+367,Miguel Vasconcelos,450***.***-84,047235184,g***@example.net,***-****-3467,"Jardim de Rodrigues, 567
+Casa Branca
+01799755 Caldeira / MT",Ribeiro,Amazonas,14610942,1985-06-28,40,Diretor de fotografia,Andrade,39539,1.62,120.0,45.7,30985,4195915896375693206,576,2,2023-07-26 01:49:49
+368,Mariane Fonseca,620***.***-58,451380277,o***@example.com,***-****-7851,"Rua da Mata, 34
+Cidade Jardim Taquaril
+59986-143 Cardoso de Farias / AM",Brito,Piauí,72731547,1962-10-26,62,Profissional de manutenção industrial,Dias Cassiano - ME,13228,1.85,58.7,17.2,64466,4039958724366295898,763,17,2022-10-18 03:22:46
+369,Matheus da Rosa,204***.***-30,70431258X,e***@example.org,***-****-8671,"Chácara Abreu
+Mangabeiras
+63290312 Sousa da Serra / AM",Teixeira,Amapá,67500-608,1946-08-23,79,Enfermeiro,Vargas S/A,48547,1.95,79.7,21.0,95314,4174108170308,727,4,2024-06-18 06:45:42
+370,Dr. Diogo Farias,136***.***-34,78341206X,f***@example.com,***-****-8780,"Quadra de Cirino, 7
+Bernadete
+67647-143 Nogueira / DF",Barros,Alagoas,98965173,2007-01-21,18,Coveiro/Sepultador,Ferreira,10038,1.9,114.1,31.6,30090,213176700906143,446,20,2022-11-15 07:18:23
+371,Francisco das Neves,130***.***-10,634807158,a***@example.com,***-****-4030,"Lago Kevin Gomes, 3
+Vila Barragem Santa Lúcia
+19436-619 Moraes da Serra / PA",Freitas,Sergipe,16588-156,1944-12-03,80,Apicultor,Brito,46363,1.86,89.1,25.8,85655,2278033196040010,471,10,2024-09-15 19:46:07
+372,Ana Beatriz Peixoto,710***.***-76,810534721,m***@example.net,***-****-6086,"Viaduto de Duarte, 16
+Conjunto Capitão Eduardo
+77424-893 Fonseca de Moraes / MT",Oliveira,Rio Grande do Norte,54218176,1994-09-23,31,Meeiro,da Cunha Novaes e Filhos,43633,1.95,66.9,17.6,45835,3566285273189412,693,2,2025-01-26 22:11:30
+373,Ana Laura Gomes,038***.***-66,268405372,g***@example.org,***-****-3671,"Campo Ribeiro, 799
+São Vicente
+64814163 Fonseca / RR",Freitas do Amparo,Amapá,64245293,2006-04-23,19,Projetista mecânico,Cavalcanti Azevedo Ltda.,23384,1.69,87.5,30.6,32141,36598854303345,377,20,2024-11-21 00:02:07
+374,Caleb da Luz,124***.***-91,425138768,m***@example.org,***-****-8017,"Trevo Calebe Guerra, 48
+Vila Piratininga Venda Nova
+72273114 Câmara de Silva / PI",Viana da Serra,Acre,44376207,1972-05-29,53,Adestrador de animais,Garcia Vieira e Filhos,6407,1.98,62.9,16.0,44297,3575202964083316,348,7,2023-06-21 11:36:33
+375,Raquel Cunha,568***.***-91,534018622,l***@example.org,***-****-1395,"Rodovia Garcia, 67
+Mantiqueira
+94400-674 Silveira da Prata / SP",da Luz,Amapá,61637232,1997-01-08,28,Juiz de direito,Caldeira,25114,1.91,55.8,15.3,6681,4533429680042594,489,6,2023-07-06 17:26:11
+376,Srta. Hadassa Pereira,123***.***-34,763482511,n***@example.com,***-****-7629,"Passarela Yago Cunha, 75
+Diamante
+86616-295 Ferreira do Amparo / MT",Cardoso da Prata,Maranhão,35540808,1972-06-10,53,Terapeuta Holístico,Monteiro Correia S/A,35067,1.87,62.5,17.9,62119,344419485483157,812,12,2021-04-20 04:55:37
+377,Sra. Emanuelly Pereira,913***.***-22,45270831X,m***@example.org,***-****-7966,"Trecho Novais
+Camponesa 2ª Seção
+20132232 da Cruz Verde / DF",Marques das Pedras,Distrito Federal,64905-542,1988-02-27,37,Assistente de produção,Pastor,42493,1.6,88.2,34.5,11944,2272256185831885,778,16,2021-02-11 03:34:36
+378,Juan Casa Grande,750***.***-84,38567014X,b***@example.net,***-****-4330,"Esplanada de Azevedo, 72
+Chácara Leonina
+40067-439 Costa / TO",Fernandes da Serra,Ceará,07767044,1990-11-16,34,Técnico em documentação,Pereira - ME,8028,1.57,68.5,27.8,78340,3527827518883651,616,1,2021-11-01 07:23:03
+379,Isaac Garcia,978***.***-28,01485627X,a***@example.org,***-****-3229,"Praia Sousa
+Varzea Da Palma
+83193486 Fonseca / ES",Vieira das Flores,Rondônia,29273-987,1983-11-14,41,Profissional de comércio exterior,Pereira,28936,1.53,50.6,21.6,10823,3534506684896579,353,5,2020-12-03 10:08:05
+380,Marcela da Cruz,720***.***-94,546807318,g***@example.net,***-****-4536,"Viela Calebe Leão, 505
+Vila Minaslandia
+72812-900 Castro / SE",Sousa de Minas,Piauí,19209119,1990-01-01,35,Trompetista,Almeida,18723,1.67,53.2,19.1,53046,6599010311979648,461,15,2024-07-12 11:12:37
+381,Maria Isis Pimenta,293***.***-55,362580741,p***@example.com,***-****-1049,"Sítio de Rios, 23
+Ventosa
+81959-990 da Mata de Cavalcanti / BA",Sales do Sul,Santa Catarina,50476-710,1955-03-13,70,Meredeira,Araújo,31911,1.69,119.7,41.9,76702,4851791956354,830,18,2020-11-29 15:08:04
+382,Lucas Cavalcante,780***.***-04,513047827,b***@example.org,***-****-8318,"Distrito Luiza Oliveira, 5
+Floramar
+42075159 Rocha / DF",Cardoso das Pedras,Pernambuco,55187-930,2004-10-30,20,Ginecologista,da Conceição Ltda.,44379,1.72,63.6,21.5,60700,4220669044903092,440,8,2025-02-27 06:34:38
+383,João Pedro Guerra,152***.***-73,463051877,x***@example.org,***-****-8613,"Aeroporto de Pinto
+Santa Rita De Cássia
+71960-742 da Luz do Galho / RN",Pinto,Bahia,18862-582,1993-12-17,31,Barman,Sales e Filhos,4932,1.86,107.8,31.2,95493,3593302596161080,561,9,2024-08-18 07:28:23
+384,Sara Duarte,093***.***-95,863547023,i***@example.org,***-****-9402,"Vila Borges, 68
+Álvaro Camargos
+79180060 Abreu de Brito / PR",Farias de Rios,Espírito Santo,23674970,1987-11-18,37,Baterista,Pacheco S/A,24670,1.75,83.4,27.2,7943,676332874178,407,11,2024-10-30 17:44:36
+385,Rebeca Pires,370***.***-25,027481566,j***@example.org,***-****-3939,"Condomínio de Aragão, 45
+Vila Maria
+47560-059 Caldeira de Mendes / RR",Freitas Grande,Paraíba,85403-040,1957-12-14,67,Engenheiro de energia,Cirino Ramos S/A,24329,1.92,111.6,30.3,61498,4097187257144,419,20,2022-03-07 21:07:36
+386,João Guilherme Farias,465***.***-93,137425089,h***@example.org,***-****-2706,"Praia Pires, 12
+Tiradentes
+33402060 Silva / AC",Fogaça do Campo,Ceará,08324-910,1966-01-14,59,Acupunturista,Marques,25068,2.0,108.0,27.0,62379,503887423872,639,4,2025-06-01 02:43:40
+387,Rebeca Barbosa,041***.***-40,051386744,m***@example.net,***-****-9696,"Avenida de Casa Grande, 85
+Vila Madre Gertrudes 4ª Seção
+11292037 da Paz / PI",Gomes de Cardoso,Rio Grande do Sul,12629648,1979-03-23,46,Técnico de gesso,Camargo Siqueira - ME,3517,1.51,63.5,27.8,83511,349361827793528,491,4,2025-03-25 18:42:09
+388,Josué Rocha,204***.***-96,126054873,z***@example.com,***-****-7656,"Rodovia Théo Silveira, 73
+Acaiaca
+61730-204 Fernandes Grande / RO",Rezende,Espírito Santo,93340372,2002-03-26,23,Crítico,Mendonça,7405,1.93,82.7,22.2,21624,343914767103045,538,17,2021-10-30 00:30:19
+389,Luiz Henrique Vasconcelos,852***.***-62,560348174,a***@example.net,***-****-9579,"Aeroporto Brito
+Boa Vista
+11584-769 da Rocha da Prata / SC",da Mata,Rio Grande do Norte,08704-826,1957-07-15,68,Engenheiro ambiental,Costela,9975,1.76,93.0,30.0,65546,4791108946109913330,313,17,2025-03-10 16:30:52
+390,Lunna Casa Grande,697***.***-09,035871623,k***@example.org,***-****-9680,"Distrito Ana Luiza Nogueira, 25
+Granja De Freitas
+20529374 Lopes da Mata / TO",Ferreira Grande,Amazonas,25731-982,1952-11-16,72,Taxista,Vasconcelos,32776,1.95,111.2,29.2,92311,6011388211725901,803,7,2022-06-30 14:46:40
+391,Enzo Fernandes,712***.***-44,053742813,r***@example.net,***-****-9008,"Parque Lavínia Lopes, 735
+Vila Da Ária
+46492957 Cavalcanti / SP",Rios,Roraima,27239-615,1991-11-28,33,Investigador particular,Casa Grande,35701,1.88,88.0,24.9,68300,180011405471920,363,12,2024-08-04 08:27:31
+392,Pedro Lucas Pereira,216***.***-85,807215363,j***@example.org,***-****-1470,"Largo Souza, 25
+Planalto
+04160-864 Ferreira Grande / MS",Almeida de Carvalho,Roraima,52479-298,1966-01-27,59,Faxineiro,Gonçalves,22140,1.85,93.6,27.3,12411,6011644355616789,696,1,2022-10-18 14:12:53
+393,Manuella Moura,538***.***-01,784326502,z***@example.net,***-****-3936,"Distrito Gonçalves, 94
+Santa Sofia
+87175-752 Camargo Verde / MS",Cirino,Alagoas,34100-240,1988-04-24,37,Cerimonialista,Melo das Neves S.A.,7512,1.72,63.6,21.5,87005,2591797120352226,671,11,2021-12-20 14:54:29
+394,Dra. Sarah Rocha,168***.***-42,104872639,t***@example.net,***-****-6716,"Largo Rodrigues
+Santa Rita De Cássia
+37554121 Castro de Cirino / PE",da Cruz da Prata,Ceará,65381-994,1969-04-08,56,Percursionista,Vasconcelos da Conceição - EI,6336,1.94,118.9,31.6,33583,4818257950980144,445,1,2022-05-08 23:36:24
+395,Daniela Costela,013***.***-26,746852101,j***@example.org,***-****-0344,"Fazenda Maria Liz Cassiano, 349
+Vila Antena Montanhês
+45381-633 Caldeira / MT",Machado das Flores,Rio de Janeiro,43181-821,1983-09-23,42,Químico,Araújo,7413,1.62,77.2,29.4,51626,343821475922618,746,1,2024-11-06 16:26:39
+396,Bento Porto,035***.***-39,067832143,l***@example.org,***-****-2617,"Feira Davi Lucca Jesus
+Outro
+31505-394 Mendes / SE",Monteiro,Acre,32610-759,2000-11-29,24,Contábil,Gonçalves,5766,1.88,90.5,25.6,78426,4326630929744335,439,7,2022-07-20 02:18:51
+397,Luan da Cunha,251***.***-15,178405267,m***@example.com,***-****-4086,"Trevo Cauã da Luz, 89
+Vila São Gabriel
+39339747 Fogaça de Camargo / RS",Azevedo,Sergipe,66582588,1987-06-04,38,Agente de defesa sanitária,Leão - EI,3160,1.77,115.6,36.9,30826,4457708044704979,453,2,2021-09-15 03:12:56
+398,Heloísa Rios,894***.***-89,42315087X,a***@example.org,***-****-8954,"Favela de Macedo, 539
+Itapoa
+65791-403 Rocha / TO",Abreu Alegre,Piauí,62594875,1963-01-29,62,Capoeirista,Marques da Rosa e Filhos,4488,1.93,59.8,16.1,38800,4851391046747723817,646,20,2023-04-13 11:49:07
+399,Ana Liz Lopes,275***.***-68,542173682,d***@example.com,***-****-4318,"Vereda Mendonça, 1
+São Sebastião
+19437691 Macedo das Pedras / TO",Silva de Minas,Espírito Santo,87548-093,2000-03-01,25,Embalador,Cunha S.A.,4115,1.82,74.9,22.6,44976,5586027975310784,773,3,2024-06-22 21:18:59
+400,Sr. Bryan Mendonça,461***.***-01,236175841,a***@example.org,***-****-6621,"Loteamento de Barros
+Primeiro De Maio
+78917-924 Rocha / PR",Pinto,Mato Grosso do Sul,06057-379,1987-09-11,38,Radialista,Moreira,37577,1.66,111.6,40.5,34415,3534299730084578,769,18,2024-01-28 01:06:55
+401,Dra. Ana Luiza Camargo,398***.***-86,804357213,n***@example.com,***-****-0868,"Estação Paulo Vargas, 87
+Leonina
+08450-251 Alves / DF",da Mota de Minas,Rio Grande do Sul,00967503,1945-02-12,80,Barman,Pimenta,20832,1.57,101.3,41.1,54578,4547954818188229,718,10,2022-08-05 16:05:18
+402,Ana Julia Moura,483***.***-91,187325467,a***@example.com,***-****-8918,"Lago Giovanna Jesus, 12
+Estrela Do Oriente
+49373-536 Pereira da Prata / MT",Martins,Pará,29218811,1978-02-04,47,Lutador de taekwondo,Sousa Câmara Ltda.,4599,1.96,101.9,26.5,15457,213180597882045,797,8,2021-10-16 09:39:09
+403,Vitória Melo,785***.***-02,378460250,t***@example.org,***-****-0715,"Via Campos, 91
+Universo
+88588-891 Peixoto / MS",Câmara,Distrito Federal,23144716,2003-12-08,21,Produtor de audio visual,Câmara,36932,1.97,51.9,13.4,94039,4247787062050155,568,20,2025-05-25 20:28:14
+404,Alexia Casa Grande,359***.***-89,127436054,r***@example.net,***-****-2441,"Sítio Costa, 12
+Lajedo
+51981115 da Costa / SC",Cassiano do Amparo,Bahia,76035-997,1981-01-10,44,Guarda roupeiro,Cunha,43763,1.85,112.2,32.8,30788,4721042080503537,628,11,2025-09-02 08:04:34
+405,João Pedro Pacheco,943***.***-05,370124868,b***@example.com,***-****-5204,"Conjunto de da Costa, 3
+São Bernardo
+62407217 Peixoto do Galho / MA",Rezende de Camargo,Rondônia,10547685,1967-01-03,58,Ourives,Souza,29548,1.73,80.8,27.0,26790,4832394996560646320,501,0,2025-05-19 02:08:25
+406,Evelyn Lima,729***.***-30,143760828,a***@example.org,***-****-0078,"Núcleo de Lopes, 43
+Atila De Paiva
+37816-435 Cavalcante Grande / AM",Moreira de Andrade,São Paulo,44232-834,1949-11-06,75,Atleta de nado sincronizado,Leão,42331,1.65,53.5,19.7,35292,2293233160129069,782,18,2023-06-05 19:09:30
+407,Sr. Marcos Vinicius Moraes,508***.***-89,218035640,l***@example.net,***-****-9435,"Jardim Moraes, 21
+Conjunto Lagoa
+19916-985 Fonseca / PR",Albuquerque,São Paulo,78576-642,1955-12-04,69,Artesão,Porto,32569,1.57,97.5,39.6,14074,6011531703700292,790,16,2021-09-17 18:09:34
+408,Mariana Correia,067***.***-31,042873150,j***@example.net,***-****-1772,"Passarela de Garcia, 90
+Alto Caiçaras
+48973829 Cassiano / AL",Pastor,Pará,03314-122,1975-04-09,50,Aviador,Pires S/A,45152,1.66,89.6,32.5,67306,30294793401699,811,17,2022-05-02 23:23:35
+409,Maya da Conceição,309***.***-59,178502340,l***@example.org,***-****-5981,"Morro Teixeira
+Mangabeiras
+77738-307 Campos / MT",Lopes,Paraíba,20873770,1962-05-18,63,Faturista,Araújo,46192,1.72,65.2,22.0,20316,4788197085301848,709,8,2023-01-13 21:26:51
+410,Maria Clara Sousa,258***.***-89,571820633,c***@example.org,***-****-9093,"Condomínio Duarte, 96
+Virgínia
+55015996 Brito da Praia / RJ",Cavalcanti,Piauí,25580831,2007-09-02,18,Engenheiro de segurança do trabalho,Pimenta Nogueira Ltda.,5049,1.78,78.8,24.9,74850,3501943062997571,644,12,2020-11-05 00:41:04
+411,Mirella Vargas,892***.***-82,418607357,a***@example.net,***-****-4446,"Esplanada de Novaes, 88
+Vale Do Jatoba
+25892-125 Camargo / AP",Pimenta,Rondônia,24797544,1950-05-13,75,Preparador de máquinas,Moura,38788,1.57,65.3,26.5,33772,4607841778409033,636,6,2022-12-15 02:44:31
+412,Danilo Freitas,178***.***-03,327501686,v***@example.net,***-****-6832,"Viela Rhavi Jesus, 77
+Santana Do Cafezal
+00676-843 Carvalho dos Dourados / PB",Siqueira,Roraima,70725-200,1973-04-27,52,Mágico,Lima Pires e Filhos,9081,1.75,90.0,29.4,68329,4005743716342558788,751,13,2021-06-30 13:30:23
+413,Srta. Brenda Almeida,731***.***-93,610475836,d***@example.org,***-****-3775,"Fazenda de Pires, 32
+Minaslandia
+70426190 Nunes / PR",da Rosa de Minas,Paraíba,42016926,1985-09-08,40,Profissional de relacionamento com investidores RI,Ferreira,31739,1.65,108.3,39.8,61157,3589812219153351,782,18,2024-12-21 07:13:04
+414,Renan Novais,408***.***-89,301547865,w***@example.net,***-****-8977,"Rodovia Arthur Gabriel Siqueira, 49
+Vila Madre Gertrudes 4ª Seção
+74480-582 Vasconcelos da Prata / AP",Sales,Sergipe,95238893,1965-05-16,60,Preparador de máquinas,Gonçalves,31746,1.53,69.3,29.6,92422,4077177878281,600,18,2025-05-19 12:41:16
+415,Enzo Gabriel Barros,032***.***-31,734026584,e***@example.org,***-****-6002,"Sítio de Cardoso, 9
+Santa Terezinha
+54810-465 Leão do Oeste / SC",Farias do Campo,Amapá,57668444,1994-07-24,31,Ginasta artística,Borges Abreu - ME,12532,1.66,70.6,25.6,88095,4940136048215,338,17,2022-10-15 11:28:06
+416,Noah Araújo,058***.***-03,807452130,d***@example.com,***-****-5883,"Rua Rezende, 85
+Olhos D'água
+73967851 Sousa / SC",Mendonça do Amparo,Alagoas,62372-294,1954-11-14,70,Paparazzo,Almeida,14194,1.55,97.2,40.5,61677,6543608712247353,593,12,2022-09-09 14:01:39
+417,Gabriela Sales,962***.***-76,438256712,q***@example.com,***-****-0361,"Condomínio Almeida, 50
+Novo Tupi
+22394161 Camargo / BA",Sales,Piauí,65757702,1989-08-16,36,Polidor de produção,da Cruz,19398,1.63,75.1,28.3,90342,4022413342965,633,16,2023-01-18 07:57:52
+418,Raquel Martins,795***.***-68,163728045,p***@example.com,***-****-6943,"Feira de Novaes, 79
+Palmeiras
+03156-592 Alves / TO",Porto,Paraná,60268-090,1946-10-17,79,Quadrinista,Azevedo,17954,1.53,102.1,43.6,60219,4088293027066461,705,12,2025-04-13 08:36:14
+419,Anthony Fogaça,920***.***-70,520178646,w***@example.org,***-****-9279,"Campo de Sales
+Belvedere
+42356-543 Montenegro / AC",Cavalcante,Rondônia,12965-034,1988-12-17,36,Pedagogo,Pinto,45716,1.51,59.7,26.2,21855,3564811175515289,742,13,2023-03-25 05:27:22
+420,Thales da Costa,061***.***-50,725608341,g***@example.com,***-****-5695,"Campo Catarina Farias, 887
+Lorena
+63336780 Araújo da Prata / CE",Barros,São Paulo,01875-354,1999-05-11,26,Corretor de seguros,Nunes e Filhos,45221,1.72,71.0,24.0,25651,4005217280875359,688,15,2023-07-01 23:38:47
+421,Anthony Gabriel Silva,051***.***-12,743018564,j***@example.com,***-****-5118,"Distrito Moraes, 10
+Bonfim
+15541-980 Rios / PR",Borges de da Luz,Pernambuco,60094808,1984-05-03,41,Tecnólogo em navegação fluvial,Cavalcanti,3847,1.74,61.4,20.3,97112,676102875223,382,17,2020-12-03 22:24:35
+422,Nicolas Mendes,392***.***-77,135208762,r***@example.net,***-****-0883,"Esplanada Vargas, 9
+Vila Puc
+96948-529 Pastor de Minas / MT",Araújo de Borges,Paraná,02327672,1994-03-17,31,Profissional de manutenção industrial,Moreira Teixeira S/A,23481,1.75,50.4,16.5,30317,180058668195936,676,16,2023-04-30 17:20:08
+423,Júlia Moreira,628***.***-03,206158749,l***@example.com,***-****-4267,"Quadra Mirella Mendes, 90
+Vila Cloris
+38866967 Cardoso / AC",Moura de Rios,Rio Grande do Sul,42170-127,1993-08-07,32,Seguidor de compras,Silva - ME,35708,1.55,89.8,37.4,47698,2393970809182830,832,15,2021-02-28 19:46:15
+424,Maria Júlia Monteiro,139***.***-24,460812579,r***@example.com,***-****-9494,"Vale Maria Luísa Araújo, 784
+Vila De Sá
+86393247 Monteiro Alegre / SP",Castro da Prata,Tocantins,76150031,1963-04-29,62,Musicoterapeuta,Marques Barros S/A,46358,1.99,98.8,24.9,22735,3540609250143715,807,18,2024-03-16 12:08:49
+425,Rhavi Silveira,981***.***-86,582071343,n***@example.net,***-****-6516,"Praia Joaquim Cardoso
+Vila Batik
+21317-175 Montenegro do Campo / BA",Duarte do Campo,Maranhão,79482424,2002-06-22,23,Tecnólogo em jogos digitais,Peixoto Moura - EI,7261,1.99,87.5,22.1,33803,4745266307970,492,20,2024-05-18 16:06:59
+426,Vinícius Ferreira,413***.***-34,17584026X,a***@example.com,***-****-8387,"Colônia Monteiro
+Estrela
+54508148 Cavalcanti dos Dourados / AM",Novais,Mato Grosso,44501019,2004-11-07,20,Lapidário,Cassiano,21557,1.61,80.7,31.1,43536,675985703288,463,7,2022-01-20 22:07:38
+427,Guilherme Viana,807***.***-75,645018272,a***@example.org,***-****-7708,"Avenida de Montenegro, 8
+Belmonte
+24594-440 Leão de Oliveira / TO",Moreira,Espírito Santo,61961-391,1996-02-03,29,Assistente de direção,Viana Teixeira e Filhos,14830,1.75,66.3,21.6,36581,6541272200473419,319,15,2024-06-10 06:18:38
+428,Vitor Hugo Azevedo,398***.***-41,47082136X,f***@example.org,***-****-4998,"Fazenda Carvalho, 7
+Caiçaras
+98314-166 Leão / CE",Cavalcante da Praia,Distrito Federal,02154-542,1988-07-31,37,Promotor de eventos,Nogueira Nascimento - ME,46181,1.78,57.0,18.0,49789,3555631691193630,722,11,2020-11-30 17:12:19
+429,Sr. Arthur Gabriel Câmara,850***.***-68,527418067,d***@example.net,***-****-7720,"Travessa de Vieira, 66
+Floramar
+65804-316 Costa de Moreira / RR",Cavalcante,Sergipe,25833-418,2004-11-15,20,Sushiman,Cassiano,25729,1.77,107.8,34.4,64871,6555788998151571,795,18,2022-04-27 16:40:36
+430,Luna Caldeira,462***.***-82,365287015,l***@example.com,***-****-3907,"Viela de Cardoso, 1
+Vila Ecológica
+32320-525 da Conceição Alegre / SC",Moreira,Espírito Santo,11463484,1971-05-21,54,Parteira tradicional,Oliveira da Cunha S/A,28753,1.77,111.3,35.5,43757,4501536267983038,725,7,2023-01-09 02:59:21
+431,Vitor Hugo Ribeiro,034***.***-84,458620373,m***@example.net,***-****-5091,"Trecho Alves, 34
+Laranjeiras
+96245425 Cassiano de Pires / SE",Sousa do Galho,Distrito Federal,15022-782,1982-07-09,43,Pastilheiro,Azevedo,31504,1.87,55.1,15.8,11702,4978115635472679,615,6,2021-05-30 14:45:06
+432,Srta. Beatriz Cavalcante,619***.***-49,40672135X,m***@example.com,***-****-5879,"Viela Freitas, 38
+Vila Nova
+21314-717 Lopes da Prata / GO",Vasconcelos de da Conceição,Rio Grande do Sul,97952850,1975-04-25,50,Comprador,Pacheco Novais - ME,12942,1.89,55.4,15.5,87748,5499747805949529,598,13,2025-04-21 22:45:10
+433,Bruno Vargas,649***.***-51,632758144,l***@example.com,***-****-3581,"Estrada de Novais
+Frei Leopoldo
+85256-450 Cavalcanti da Serra / PA",Andrade da Serra,Pará,90969-979,2004-12-17,20,Técnico em tratamento de água,Moreira,41402,1.69,88.1,30.8,88316,36255826719435,850,8,2024-07-28 09:24:48
+434,Luiza Costa,514***.***-07,30871524X,s***@example.net,***-****-3635,"Setor Peixoto, 84
+Conjunto Paulo Vi
+44622778 da Rocha da Mata / RN",Novais da Prata,Rio Grande do Norte,30900784,1959-01-05,66,Engenheiro metalúrgico,Mendonça da Mota e Filhos,20824,1.86,118.6,34.3,55599,4952935901556115,709,5,2021-02-20 15:06:20
+435,Asafe Santos,927***.***-56,415763083,r***@example.net,***-****-8814,"Trecho Guerra, 491
+Santa Rosa
+77970-830 Martins / ES",Ramos de da Rosa,Sergipe,45135017,1957-05-25,68,Jogador de boliche,da Mata,41140,1.6,107.4,42.0,43301,30586456303603,591,11,2022-11-04 18:23:37
+436,Ana Beatriz Gomes,594***.***-99,487305267,l***@example.com,***-****-1384,"Praça de Pires
+Nova America
+35527627 Sousa / RJ",Montenegro,Paraíba,76546442,2002-02-07,23,Modelista,Cavalcante,31456,1.67,55.3,19.8,98526,376618179365833,762,17,2023-10-25 21:39:05
+437,Theo da Conceição,132***.***-08,401578239,f***@example.net,***-****-3234,"Trecho Murilo Correia, 31
+Estrela
+17645-999 Rios / SP",Dias Grande,Amazonas,46678557,1996-07-07,29,Assistente de produção,Correia Casa Grande S.A.,11045,1.88,103.8,29.4,55049,5509429907949826,519,7,2021-04-20 20:26:10
+438,Benicio Barros,934***.***-06,160324580,o***@example.org,***-****-5751,"Rua Fernando Pinto, 344
+Minas Caixa
+71644890 da Rocha dos Dourados / PI",Mendonça de Goiás,Pará,81117607,1954-02-15,71,Ombudsman,Fogaça,4376,1.94,111.1,29.5,95805,4706938504582925,534,16,2023-11-02 15:44:29
+439,Anthony Leão,386***.***-95,374856011,m***@example.net,***-****-1394,"Morro de Barbosa, 48
+Vila Barragem Santa Lúcia
+30022308 Ribeiro / SP",Albuquerque,Amapá,59693-573,1972-07-01,53,Baixista,Garcia Cassiano e Filhos,14292,1.5,95.5,42.4,17837,675928076446,603,3,2025-06-24 05:52:52
+440,Dra. Milena Câmara,859***.***-33,831762457,m***@example.org,***-****-8875,"Esplanada Azevedo
+Vera Cruz
+05726-029 Garcia do Oeste / MG",Silva,Rondônia,24952441,1988-08-10,37,Grafologista,Leão,27174,1.52,89.2,38.6,35768,639021203737,753,15,2021-11-19 07:04:42
+441,João Felipe Pacheco,214***.***-91,721083468,m***@example.org,***-****-6222,"Trevo Kaique Aragão, 90
+Vila Das Oliveiras
+32815107 Lopes das Pedras / AL",Santos das Flores,Rio de Janeiro,64535906,1987-03-11,38,Ferramenteiro,Machado,22864,1.72,112.1,37.9,48178,3553209732395597,729,18,2023-11-12 11:43:35
+442,Sr. Léo Pires,783***.***-14,285746017,f***@example.com,***-****-4303,"Largo Brito, 370
+Grajaú
+74811-131 Rocha / PA",Leão do Sul,Mato Grosso do Sul,66370-659,1984-02-20,41,Técnico em segurança do trabalho,Abreu,25610,1.5,109.2,48.5,18665,3506820659445906,850,3,2024-09-09 22:36:25
+443,Cauã Barbosa,926***.***-40,036257412,o***@example.org,***-****-8809,"Esplanada Pietro Costa, 826
+Alípio De Melo
+22576201 Pastor do Sul / AC",Freitas,Distrito Federal,66704-745,1973-11-13,51,Florista,Pimenta,31176,1.64,95.8,35.6,12391,3576067336407355,521,5,2021-11-14 08:25:25
+444,Aylla Rezende,514***.***-05,803145676,f***@example.net,***-****-3540,"Vereda Peixoto, 12
+Dom Silverio
+55138969 Pinto / AL",Farias Paulista,Piauí,40017711,1966-11-10,58,Médico nuclear,Teixeira,33125,1.76,84.2,27.2,83283,2671671065299168,443,1,2021-08-27 14:21:07
+445,Nicole Duarte,638***.***-10,248170363,p***@example.net,***-****-2916,"Praia Davi Lucas Farias, 55
+Beija Flor
+78125963 Moraes / ES",Cavalcanti do Galho,Santa Catarina,14828-691,1995-03-13,30,Tecnólogo em Ciências das plantas medicinais,Cardoso,23607,1.58,69.6,27.9,38366,5207806890026685,660,11,2021-07-11 01:09:19
+446,Benjamin Vieira,043***.***-41,801723565,c***@example.com,***-****-2388,"Praça das Neves, 18
+Santo André
+06217734 Moura Alegre / PR",Nascimento,São Paulo,63213670,1945-12-09,79,Lactarista hospitalar,Lima,7879,1.8,58.6,18.1,67881,2720310586988246,563,15,2024-12-16 10:29:48
+447,Maria Luiza Ferreira,931***.***-06,021478363,d***@example.org,***-****-3588,"Condomínio João Lucas Correia, 44
+Vila De Sá
+67253-437 Garcia do Galho / DF",Moraes Grande,Mato Grosso,42525-424,1967-10-25,57,Técnico em edificações,Cirino Ltda.,14471,1.87,58.0,16.6,21611,3526890155663571,768,16,2023-05-24 15:50:48
+448,Camila Caldeira,027***.***-47,803246754,c***@example.com,***-****-4384,"Chácara Casa Grande, 804
+Mirante
+64141-587 Jesus / RJ",Fonseca de Monteiro,Sergipe,79861-441,1985-11-23,39,Perito criminal,Brito S/A,26639,1.59,79.8,31.6,54371,4531230820009564,427,7,2021-11-16 07:46:52
+449,Elisa Melo,407***.***-71,176582307,l***@example.com,***-****-9348,"Praça Ramos
+Luxemburgo
+15096-848 Cunha / AL",Vasconcelos,São Paulo,32874392,1981-12-26,43,Cadeirinha,Rios - ME,7121,1.6,98.6,38.5,22623,4459825255627,471,19,2025-04-13 16:47:23
+450,Ana Julia Guerra,120***.***-13,65471082X,m***@example.com,***-****-6521,"Estação Rezende, 471
+Vila Fumec
+22288-653 Guerra das Flores / MT",Ramos do Galho,Rio de Janeiro,70731-584,1951-10-23,74,Engenheiro de telecomunicações,Pinto,36334,1.58,114.6,45.9,61552,6011226897352972,489,4,2022-09-22 06:41:29
+451,Eloah Montenegro,308***.***-95,567413020,k***@example.org,***-****-2344,"Avenida de Gomes, 64
+Vila Havaí
+33456-098 Barbosa da Praia / MG",Vieira das Flores,Goiás,20333-943,1952-07-16,73,Ilustrador,Souza,24208,1.84,63.9,18.9,44418,4022640822048293,390,0,2020-12-09 12:33:28
+452,Nicole Ferreira,890***.***-50,512834763,f***@example.org,***-****-5885,"Alameda Manuella Rocha
+Colégio Batista
+42981247 Cunha / RJ",Vasconcelos,São Paulo,39526084,2002-10-20,22,Técnico em taquigrafia,Moreira,42872,1.61,68.5,26.4,7873,4468025343182,668,1,2022-05-10 12:40:30
+453,Hellena Marques,053***.***-80,258704639,y***@example.org,***-****-2567,"Praça de Dias, 580
+Bandeirantes
+76713951 Teixeira / SC",Câmara,Piauí,31815-973,1960-04-24,65,Regente,Lima da Cunha e Filhos,36859,1.63,110.7,41.7,40795,376447750157777,498,7,2024-10-24 19:40:02
+454,Dr. Matteo Teixeira,417***.***-04,506472139,i***@example.net,***-****-4423,"Lago Ribeiro, 93
+Planalto
+09328712 Duarte / PI",Mendonça,Pará,65028-729,1995-01-13,30,Jornalista,Garcia,15220,1.84,53.5,15.8,68364,630484752922,421,10,2024-09-10 20:25:41
+455,Vitor Gabriel Garcia,086***.***-10,652710839,e***@example.org,***-****-7029,"Recanto Luiza Pimenta, 93
+Barroca
+57669-165 Cassiano do Amparo / MS",Montenegro de Goiás,Paraná,16599-693,1970-10-14,55,Estatístico,Almeida,25441,1.81,92.1,28.1,55780,3575508582150562,775,15,2025-07-10 18:59:47
+456,Juan Rios,691***.***-06,872503641,y***@example.net,***-****-2830,"Pátio Freitas
+Vitoria
+57953676 Cirino do Oeste / PA",da Luz do Campo,Minas Gerais,49300759,1979-07-19,46,Catador de carangueijos,das Neves Marques Ltda.,41356,1.95,96.9,25.5,60739,3501386323358474,404,4,2022-02-16 06:21:54
+457,Luna Campos,803***.***-03,143576082,a***@example.net,***-****-3075,"Estação de Porto, 99
+Ipe
+38969-094 da Costa de Jesus / TO",Lopes do Sul,Sergipe,68315189,1973-09-09,52,Marcador de luz,Carvalho,22016,1.51,56.9,25.0,49355,3593082309056047,485,17,2024-05-12 10:01:58
+458,Daniel Fogaça,023***.***-70,564018326,b***@example.net,***-****-3211,"Estação de Macedo
+Milionario
+88067614 Carvalho de Goiás / MA",Azevedo,Pernambuco,47060215,1970-08-12,55,Massoterapeuta,da Costa,34113,1.89,66.8,18.7,29711,3596920993162166,775,13,2022-06-22 17:01:37
+459,Sra. Maria Vitória Mendes,214***.***-07,421057361,a***@example.net,***-****-0721,"Favela de Sousa, 3
+Califórnia
+78158458 Costa do Galho / GO",Machado,Paraíba,51478-058,1982-07-28,43,Ginasta artística,Albuquerque da Conceição - EI,4351,1.7,104.1,36.0,18536,3502135744922601,794,3,2023-05-14 22:41:34
+460,Gustavo Alves,920***.***-87,043168723,c***@example.com,***-****-0252,"Trevo de da Rosa, 507
+Monsenhor Messias
+12000191 Aragão de Minas / AM",Leão do Oeste,Amazonas,81030948,1981-12-31,43,Parteira tradicional,Rocha,30930,1.67,58.2,20.9,83488,2246726120926449,775,7,2024-11-01 15:23:11
+461,Mariana Aragão,641***.***-48,815307627,m***@example.net,***-****-8984,"Viela de Melo
+Aparecida
+38790-461 Ribeiro da Serra / SE",Marques das Flores,Ceará,13552-583,1997-12-31,27,Ilustrador,Albuquerque Cardoso - ME,29948,1.55,100.2,41.7,19535,371002627600502,325,0,2023-12-08 02:15:29
+462,João Guilherme da Mota,074***.***-71,051237647,l***@example.net,***-****-1408,"Quadra Rodrigues
+Aeroporto
+59822-103 da Conceição / MG",Mendes,Pará,10412-550,1957-10-20,68,Turismólogo,Rodrigues,11749,1.94,76.5,20.3,66636,4292723107190387,500,10,2025-09-08 20:59:06
+463,Benicio da Costa,031***.***-80,280165432,b***@example.com,***-****-9294,"Campo Aylla Montenegro, 30
+Mirtes
+76104663 da Cruz / RR",Marques da Mata,Ceará,34102-741,1975-08-21,50,Cobrador de pedágio,Rezende,42749,1.54,89.5,37.7,40526,4638271604241248925,779,0,2022-01-27 01:40:58
+464,Dra. Ana Luiza Cavalcanti,861***.***-00,231875046,e***@example.org,***-****-3330,"Estrada Machado, 73
+São José
+26390-272 Dias da Mata / CE",Alves de Farias,Rio Grande do Sul,39980078,1990-06-20,35,Profissional de educação física,Dias Ltda.,34809,1.5,102.8,45.7,83785,5569849105190963,787,1,2021-06-21 17:25:58
+465,Cauã da Conceição,206***.***-15,270861348,s***@example.com,***-****-3817,"Sítio de Moraes, 507
+Novo Ouro Preto
+07886-030 Nascimento / RN",Ferreira,Tocantins,30143884,1989-03-26,36,Cenotécnico,Nascimento,38545,1.92,55.3,15.0,79477,2373875192984086,401,6,2025-10-04 00:23:13
+466,Liam Leão,194***.***-22,210763486,s***@example.com,***-****-2843,"Recanto de Guerra, 96
+São Cristóvão
+75143687 Silveira do Galho / PE",Pinto,Rio Grande do Norte,62658-484,1966-12-27,58,Técnico em segurança do trabalho,Vargas,22701,2.0,67.5,16.9,53492,3594457171543554,669,10,2022-08-15 20:27:13
+467,Bruno Silva,761***.***-61,683207155,g***@example.com,***-****-0751,"Sítio Vargas
+Belvedere
+44987-031 Costa / RO",Carvalho Grande,Santa Catarina,38867093,1979-07-06,46,Jogador de hóquei,Sales Novaes e Filhos,24120,1.62,100.2,38.2,52244,4148397814447793553,526,5,2020-12-02 09:48:52
+468,Isaac Rios,435***.***-73,041378659,y***@example.org,***-****-9341,"Largo Gomes
+Vila Nova Cachoeirinha 3ª Seção
+08618760 Freitas / ES",Gonçalves,Pará,03825045,1970-03-03,55,Terapeuta ocupacional,da Rosa,46884,1.69,73.6,25.8,41749,4550725510644360,730,20,2021-10-15 11:45:14
+469,Alexia Novaes,546***.***-66,635017283,j***@example.net,***-****-3027,"Parque Campos, 82
+Lajedo
+36150492 Pires / PB",Ramos,Tocantins,80064-535,1979-01-13,46,Capelão,da Rocha Ltda.,28215,1.63,97.1,36.5,78092,2232362009859745,624,16,2024-01-07 16:56:09
+470,Srta. Maria Luiza Sales,326***.***-55,328564072,m***@example.com,***-****-8212,"Área Bento Pimenta, 26
+Saudade
+92029-411 Correia / RN",Nascimento de Goiás,Tocantins,28342015,1994-11-01,30,Tintureiro,Vargas,34238,1.58,92.0,36.9,95121,30542804190358,393,6,2021-05-12 05:43:25
+471,Stephany Rezende,172***.***-30,504368710,h***@example.com,***-****-3209,"Ladeira Teixeira, 70
+Vila Cemig
+17672387 Pinto Paulista / PB",da Mata do Norte,Santa Catarina,54583-325,1946-12-05,78,Técnico em radiologia,Monteiro,8792,1.98,100.5,25.6,52362,3536040056617403,463,17,2021-07-26 23:52:43
+472,Renan Gonçalves,659***.***-73,713605844,m***@example.org,***-****-1506,"Fazenda Sara Gonçalves, 1
+Boa Vista
+13013892 Castro Verde / AC",Farias das Pedras,Acre,20578775,2000-02-10,25,Prático,Teixeira,8422,1.7,99.9,34.6,43743,4250809046043168288,620,13,2020-11-29 04:18:41
+473,Lorenzo da Cunha,327***.***-97,854602379,r***@example.org,***-****-5536,"Trevo de Caldeira, 94
+Nossa Senhora Do Rosário
+90760055 Caldeira da Mata / TO",Novaes,Rio Grande do Norte,24405-456,1950-04-08,75,Maestro,Carvalho,3607,1.5,82.3,36.6,35635,6517059020608526,316,7,2024-10-20 22:11:50
+474,Sr. Benjamin Pacheco,476***.***-07,04165738X,c***@example.org,***-****-0124,"Parque Fonseca, 15
+Marieta 1ª Seção
+63822-850 Mendonça de Ribeiro / RS",Cassiano,Maranhão,33392817,2002-02-14,23,Encanador,Moraes,37672,1.93,82.8,22.2,51371,4895964559727,441,7,2023-09-04 22:43:05
+475,Bella Sá,640***.***-83,178053429,a***@example.com,***-****-5781,"Praça Mendonça, 3
+Novo Tupi
+19628-187 da Cruz / BA",da Rocha Alegre,Rio de Janeiro,98123295,2001-12-04,23,Gestor público,Cavalcanti,12525,1.74,65.4,21.6,33709,6011073049000343,514,11,2024-09-26 01:06:22
+476,Laís Pacheco,628***.***-29,785613420,b***@example.org,***-****-0903,"Vila de Monteiro, 1
+Ermelinda
+50708956 Borges / MS",Ramos da Serra,Sergipe,69521235,1952-02-18,73,Auxiliar administrativo,Carvalho,42728,1.85,70.6,20.6,90774,4227212611374661,360,17,2021-07-08 18:28:16
+477,Ian Castro,861***.***-24,706521833,g***@example.net,***-****-9489,"Núcleo de da Cruz, 339
+Dom Cabral
+12463-270 Caldeira de Minas / ES",Brito de Minas,Pará,51386723,2007-10-06,18,Arquiteto,Correia e Filhos,38428,1.71,93.2,31.9,92564,340727422496601,725,14,2025-03-23 17:58:55
+478,Ana Carolina Rocha,214***.***-09,725618346,n***@example.com,***-****-2404,"Estação de Vasconcelos, 81
+Madre Gertrudes
+15877-689 Campos / AP",Barros Paulista,Acre,36823-356,1953-01-10,72,Lancheiro,Cunha,45648,1.9,113.4,31.4,24335,2708311904626282,770,10,2021-10-02 20:23:18
+479,Dr. Isaque Cavalcanti,264***.***-99,186524730,a***@example.net,***-****-0511,"Condomínio de Melo, 647
+Indaiá
+64195-826 Rodrigues do Oeste / RN",Cirino da Mata,Roraima,33406-911,1960-09-28,65,Editor de mesa de corte,Macedo S.A.,38624,1.8,55.1,17.0,12589,346025887751469,550,17,2020-11-24 01:28:31
+480,Maria Sophia Ribeiro,683***.***-57,15746023X,c***@example.net,***-****-3108,"Quadra de Aparecida
+Álvaro Camargos
+39078707 Cardoso da Prata / SP",Castro do Amparo,Roraima,07877572,1990-09-21,35,Barman,Mendes S.A.,43988,1.7,98.4,34.0,91374,583327922725,693,9,2023-04-26 02:53:30
+481,Luiz Fernando Freitas,305***.***-60,046251388,j***@example.org,***-****-8323,"Área Paulo Peixoto, 690
+Ademar Maldonado
+48879509 Silveira / ES",Aparecida,Acre,23547607,1949-11-19,75,Bartender,Camargo,17454,1.95,60.3,15.9,81143,4375868400313838,710,15,2025-05-30 12:38:14
+482,Anna Liz Vieira,514***.***-80,514807635,d***@example.org,***-****-5939,"Parque de Cassiano, 7
+Maria Virgínia
+98313-914 Sá de Peixoto / TO",Cavalcante,Rio de Janeiro,59435404,1998-05-23,27,Almoxarife,das Neves,10856,1.79,86.6,27.0,16185,180097069639670,311,2,2021-10-16 19:13:28
+483,Bruna Camargo,824***.***-32,863240574,m***@example.net,***-****-5772,"Fazenda Rios
+Vila Madre Gertrudes 4ª Seção
+45065240 Alves / CE",da Cruz,Paraíba,84097-423,1967-05-13,58,Fundidor,Dias,34304,1.72,51.6,17.4,63658,30441955911995,658,7,2023-10-28 11:47:44
+484,Jade Barbosa,428***.***-98,481576034,j***@example.com,***-****-3879,"Área Sá
+Santa Rosa
+68919658 da Rosa de Cirino / RR",Abreu,Piauí,96742403,1989-04-13,36,Técnico tributarista,Borges S.A.,14077,1.65,52.1,19.1,63524,3588156143387359,720,17,2023-12-22 00:40:51
+485,Maria Vitória Alves,023***.***-79,504321766,q***@example.org,***-****-6484,"Vereda da Mata, 89
+Acaiaca
+89082991 Sales / MS",Aragão,Maranhão,40292310,1955-03-11,70,Chapeiro,Vargas e Filhos,27934,1.82,55.7,16.8,35021,2505473644236874,495,15,2022-12-20 05:57:15
+486,Antony Borges,078***.***-40,270483615,l***@example.net,***-****-9176,"Vereda Isabela Albuquerque, 75
+Cachoeirinha
+25585531 Machado da Serra / TO",Gonçalves da Mata,Rondônia,33720860,2002-11-01,22,Engenheiro químico,Melo Martins e Filhos,5304,1.85,113.1,33.0,96538,4122186925435535911,849,7,2022-02-13 10:19:03
+487,Luana Martins,021***.***-03,856432179,n***@example.net,***-****-6192,"Avenida Ana Liz Peixoto, 870
+Vale Do Jatoba
+81242-646 Teixeira / SE",Moreira,Maranhão,66408-029,1979-02-20,46,Fisiculturista,Rocha,29724,1.97,115.3,29.7,45130,4788780596124,454,1,2025-09-09 19:57:14
+488,Josué Fogaça,520***.***-68,574861324,m***@example.com,***-****-8048,"Vereda Barbosa, 121
+Lindéia
+15216-508 Pastor do Amparo / CE",das Neves de Vasconcelos,Paraíba,28690-108,1994-07-31,31,Profissional de rádio e tv,Mendonça Montenegro S/A,30075,1.67,72.3,25.9,18548,4791257652591976,536,12,2024-02-04 18:33:19
+489,Sra. Isabelly Lopes,572***.***-73,671402353,m***@example.org,***-****-0522,"Campo Henrique da Costa
+Silveira
+53539999 Borges de Goiás / RO",Lima,Amazonas,07130-741,1952-02-21,73,Consultor de moda,Pastor Vieira - ME,20893,1.91,102.8,28.2,87713,501863967433,837,17,2021-12-15 01:44:42
+490,Dr. Bruno Mendonça,784***.***-10,814632701,s***@example.org,***-****-2907,"Parque Pimenta, 4
+Vera Cruz
+71690549 Pinto de Câmara / PR",das Neves,Amapá,79492-186,1976-04-05,49,Técnico em aviação,Alves,41080,1.54,106.5,44.9,33519,213148804338192,819,8,2024-08-16 11:33:04
+491,Arthur da Costa,092***.***-11,852413075,a***@example.net,***-****-8295,"Área Josué Leão, 303
+Aparecida 7ª Seção
+45355329 Araújo / SP",da Rosa de Minas,Maranhão,52681-288,1995-08-30,30,Médico cirurgião,Novaes - EI,23486,1.68,115.8,41.0,25708,3596364277553990,526,9,2023-05-22 03:07:50
+492,Vitor Gabriel Santos,829***.***-68,16432057X,m***@example.com,***-****-0813,"Colônia de Rios, 97
+Saudade
+35576-287 Almeida de Minas / PA",Mendes,Pernambuco,73075549,1947-09-14,78,Atleta de nado sincronizado,Brito S/A,30700,1.99,116.1,29.3,17293,3542367077840512,312,3,2022-08-13 21:16:54
+493,Dr. Juan Moraes,107***.***-59,738015623,f***@example.net,***-****-4290,"Praça Aylla Pinto, 13
+Santa Monica
+89601-416 Castro / RS",Camargo,Piauí,05086-507,1950-03-09,75,Guia turistico,Sá - EI,7027,1.83,83.3,24.9,96994,2282155676733550,693,15,2023-01-07 20:16:19
+494,Clara Rodrigues,409***.***-84,824370612,m***@example.net,***-****-8797,"Morro de Jesus, 710
+Vista Do Sol
+12595-073 da Rocha / RO",Araújo,Distrito Federal,42691283,1998-11-30,26,Ceramista,Freitas S/A,24949,1.78,118.1,37.3,94112,4266758175041809,312,10,2024-08-05 23:27:54
+495,Sr. Miguel Brito,932***.***-65,256801344,c***@example.org,***-****-8273,"Chácara Caleb Pires, 47
+São Gonçalo
+34383-637 Câmara / BA",Azevedo,Amapá,62331010,1971-10-05,54,Ginecologista,Rodrigues e Filhos,6265,1.75,59.5,19.4,96261,38510015434602,475,7,2021-07-26 16:10:04
+496,Sr. Lucca Macedo,679***.***-49,168275302,a***@example.org,***-****-6522,"Praia Vitor Gabriel Moura, 668
+Fazendinha
+03121264 da Mata dos Dourados / ES",Andrade dos Dourados,Roraima,79579-142,1996-08-05,29,Personal stylist,Borges,49971,1.55,69.4,28.9,43731,3585181127645641,802,9,2022-06-23 15:25:05
+497,Sr. Igor Porto,082***.***-32,621780340,d***@example.net,***-****-1059,"Lago Yan Rodrigues
+São Luiz
+27114-907 Silva da Praia / PA",da Mota,Rio de Janeiro,51718-363,1972-11-15,52,Juiz de futebol,Andrade,3720,1.84,65.5,19.3,85600,3579192352764831,578,14,2022-03-23 07:45:32
+498,Otto Abreu,584***.***-70,530184722,m***@example.com,***-****-1724,"Vila Silva, 229
+Salgado Filho
+06001-489 Brito da Mata / MT",Porto,Paraíba,47308-161,1946-05-17,79,Transcritor,Lopes,15641,1.7,116.8,40.4,51819,4499599024940,530,14,2025-07-18 01:50:54
+499,Luísa Pires,078***.***-11,041785629,c***@example.net,***-****-3082,"Rua Fernandes, 2
+Xodo-Marize
+77978-885 Jesus de Araújo / SC",Pastor,Rio Grande do Sul,66632-083,1953-02-05,72,Tecelão,Duarte,18033,1.71,60.0,20.5,26481,501842903400,380,7,2025-02-11 23:19:15
+500,Yago Marques,253***.***-37,652013788,l***@example.com,***-****-4945,"Recanto Rios
+Coqueiros
+25484169 Nascimento de Goiás / MT",Souza,Alagoas,03000920,1998-07-15,27,Profissional de comércio exterior,Sampaio,22266,1.92,73.7,20.0,38831,6596960629963416,446,11,2022-08-11 08:28:52

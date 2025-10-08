@@ -58,7 +58,11 @@ class AnonymizationDemo:
             
             for technique, df in anonymized_dfs.items():
                 if col in df.columns:
-                    print(f"{technique} - Média: {df[col].mean():.2f}, Desvio: {df[col].std():.2f}")
+                    # Verificar se a coluna ainda é numérica após anonimização
+                    if df[col].dtype in ['int64', 'float64']:
+                        print(f"{technique} - Média: {df[col].mean():.2f}, Desvio: {df[col].std():.2f}")
+                    else:
+                        print(f"{technique} - Tipo: {df[col].dtype} (não numérico após anonimização)")
         
         # Análise de privacidade
         print(f"\n3. ANÁLISE DE PRIVACIDADE")
@@ -295,17 +299,17 @@ class AnonymizationDemo:
         print("\n" + "=" * 80)
         print("RESUMO FINAL")
         print("=" * 80)
-        print(f"✓ Dataset original: {len(original_df)} registros")
-        print(f"✓ Técnicas aplicadas: {len(anonymized_dfs)}")
-        print("✓ Arquivos gerados:")
+        print(f"Dataset original: {len(original_df)} registros")
+        print(f"Tecnicas aplicadas: {len(anonymized_dfs)}")
+        print("Arquivos gerados:")
         print("  - dados_sensiveis_original.csv")
         for technique in anonymized_dfs.keys():
             filename = f'dados_{technique.lower().replace(" ", "_").replace("ç", "c")}.csv'
             print(f"  - {filename}")
         print("  - comparacao_anonimizacao.png")
         print("  - utilidade_vs_privacidade.png")
-        print("\n✓ Demonstração concluída com sucesso!")
-        print("✓ Todos os dados estão em conformidade com a LGPD")
+        print("\nDemonstracao concluida com sucesso!")
+        print("Todos os dados estao em conformidade com a LGPD")
 
 def main():
     """

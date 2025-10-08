@@ -1,0 +1,1243 @@
+id,nome_completo,cpf,rg,email,telefone,endereco,cidade,estado,cep,data_nascimento,idade,profissao,empresa,salario,altura,peso,imc,renda_familiar,numero_cartao,score_credito,tempo_cliente,data_cadastro
+4,Davi Sales,724.085.319-50,038746219,luiz-henrique07@example.net,+55 71 4413 9174,"Vila Aparecida, 8
+Vila Petropolis
+32385-022 Casa Grande / AM",Cidade Anonimizada,Rio Grande do Sul,88744-614,1960-03-26,56-65,Policial federal,Azevedo,25836,1.55,77.0,32.0,24761,4425751266265645401,705,20,2023-01-01 15:46:42
+5,Bianca Lopes,613.472.985-09,342081767,marquespedro-lucas@example.net,0800-620-6643,"Praia Maria Isis Melo
+Mangueiras
+96531-702 Nogueira de Goiás / MA",Cidade Anonimizada,Tocantins,49339777,1951-12-31,65+,Fisiculturista,Mendonça Silva Ltda.,33482,1.85,68.0,19.9,31998,213115933673849,665,7,2023-06-03 06:58:33
+6,Samuel Pereira,283.594.016-24,310456289,rhavi52@example.com,(081) 9486-7498,"Distrito de Gonçalves, 703
+Pindorama
+83409625 Sales / MG",Cidade Anonimizada,Paraná,66729293,1972-11-03,46-55,Avalista,Pacheco - ME,13137,1.93,86.0,23.1,66711,372393978689619,649,19,2021-05-09 17:33:33
+8,Sra. Bárbara da Costa,683.041.975-10,348170257,alvesfelipe@example.com,+55 41 8659 6632,"Lago Mendonça, 2
+Vila Nova Gameleira 2ª Seção
+97894161 Rios do Amparo / PE",Cidade Anonimizada,Paraná,84093454,1949-05-01,65+,Engenheiro de transportes,Câmara Vasconcelos Ltda.,8393,1.81,93.3,28.5,12268,4776549818477606,470,19,2021-02-13 08:51:43
+10,Sophia Santos,915.783.264-19,364702813,elisaaparecida@example.com,+55 (041) 5425-1527,"Praia de Campos, 99
+Aparecida
+20219515 Cardoso / MT",Cidade Anonimizada,Mato Grosso do Sul,16331216,1993-09-01,26-35,Velejador,Mendes,36571,1.88,111.0,31.4,53687,4884346760245,783,16,2025-02-01 09:44:03
+12,Noah Porto,306.489.157-00,420671353,leonardo87@example.net,84 3341-6189,"Pátio Vitor Gabriel da Cruz, 15
+Buraco Quente
+20773989 da Mata / PA",Cidade Anonimizada,Pernambuco,97082-771,1950-01-20,65+,Luthier,Siqueira Lima S.A.,29680,1.97,92.4,23.8,84841,5513620797799347,765,20,2020-11-30 13:04:46
+13,Felipe Fernandes,195.648.237-73,582430719,ester05@example.net,+55 (021) 1369-2450,"Passarela Davi Lucas Siqueira, 79
+Novo Glória
+02939-997 Machado / AP",Cidade Anonimizada,Pará,21668-634,1949-12-28,65+,Zelador,Peixoto,28297,1.91,72.6,19.9,28481,4591871138558517452,682,10,2021-02-03 02:08:56
+14,Dr. Diogo Siqueira,830.246.715-44,058341766,lucas43@example.com,84 4759-6692,"Rodovia Silveira, 240
+Santa Efigênia
+42784530 Fonseca / MA",Cidade Anonimizada,Sergipe,50585-026,1950-07-20,65+,Técnico em taquigrafia,da Cunha S/A,19989,1.8,92.6,28.6,77593,343309218788413,589,18,2021-07-07 11:37:39
+15,Srta. Bella da Costa,071.864.523-53,450127382,rodrigopastor@example.net,+55 (031) 4908-3502,"Alameda Novais, 39
+Marieta 1ª Seção
+17987-593 Oliveira de Mendonça / PI",Cidade Anonimizada,Mato Grosso,80956830,1957-04-29,65+,Arranjador musical,Nogueira,20502,1.79,113.5,35.4,60102,4662902030672264362,347,12,2022-04-09 13:20:34
+17,Luigi Cardoso,314.506.978-01,476215389,joao-pedronascimento@example.net,+55 71 9377 3903,"Estrada Vieira, 18
+Conjunto Califórnia Ii
+27039316 Vasconcelos dos Dourados / SE",Cidade Anonimizada,Bahia,15918-067,1976-09-30,46-55,Engenheiro de controle e automação,Siqueira Alves S/A,16314,1.75,51.6,16.8,25758,2273931522932567,682,6,2021-12-03 04:07:57
+20,Dr. Anthony Gabriel da Paz,749.683.510-20,130472864,anapereira@example.com,+55 11 0985-0053,"Via de Pacheco, 4
+Mangabeiras
+86334-517 Sales / MA",Cidade Anonimizada,Goiás,67976-398,1965-07-14,56-65,Tecnólogo em silvicultura,da Conceição Moreira S/A,26100,1.57,90.2,36.6,48881,6585724272100335,755,10,2025-07-18 04:01:24
+22,Srta. Emanuella Cavalcante,529.670.413-43,82316570X,amartins@example.org,+55 (041) 3324 1158,"Fazenda Dom Freitas, 72
+Conjunto Lagoa
+39786939 da Mata / MA",Cidade Anonimizada,Alagoas,46600975,1983-09-02,36-45,Tosador,Garcia,23632,1.94,57.3,15.2,33688,3543340673069306,351,13,2024-09-20 03:10:09
+23,Ágatha Moura,694.528.031-42,302714583,carolina09@example.org,+55 11 3055 7574,"Setor de Aragão, 75
+Vila Nova Cachoeirinha 1ª Seção
+94917-743 Correia Verde / SC",Cidade Anonimizada,Rondônia,01281-789,1976-10-28,46-55,Webdesigner,Vasconcelos Almeida e Filhos,21521,1.96,79.0,20.6,55707,4211759239820912653,567,20,2021-12-21 09:55:01
+24,Theodoro Vieira,315.672.094-16,327164086,albuquerquealexia@example.net,0800-700-9541,"Pátio de Porto, 68
+Centro
+55995401 Moreira / AM",Cidade Anonimizada,Paraíba,53128-099,2002-08-13,18-25,Cardiologista,Machado Almeida S.A.,37153,1.76,92.1,29.7,79045,180019036067793,431,1,2021-12-24 19:11:04
+25,José Albuquerque,605.189.234-60,406318578,pintootavio@example.net,+55 84 4809 7278,"Avenida Montenegro, 21
+Jardim Dos Comerciarios
+26511408 Lopes dos Dourados / CE",Cidade Anonimizada,Paraíba,33503305,1949-11-12,65+,Coreógrafo,Almeida Costela - EI,19122,1.55,75.5,31.4,15378,3544196602596937,666,13,2024-10-16 13:09:14
+26,Julia Cunha,639.270.451-52,650341727,ceciliaaparecida@example.com,+55 61 0267-8183,"Chácara Fogaça, 361
+Andiroba
+50426509 Abreu / AC",Cidade Anonimizada,Minas Gerais,55088097,1957-05-01,65+,Policial civil,Macedo Barros Ltda.,18747,1.9,80.4,22.3,53452,345789056249396,415,5,2023-11-22 23:00:47
+27,Hellena Pires,468.013.795-93,258407633,pietracamargo@example.org,(061) 8332 7439,"Ladeira de da Cunha, 393
+Distrito Industrial Do Jatoba
+87445-808 Sampaio / SC",Cidade Anonimizada,Mato Grosso do Sul,25343-361,1996-04-05,26-35,Naturólogo,da Conceição,41978,1.95,74.8,19.7,73884,3591508322742801,543,12,2024-07-18 16:54:27
+28,Giovanna Vieira,941.250.387-32,70623814X,marqueslarissa@example.org,+55 51 0541 0530,"Viela Pacheco
+São Benedito
+92546-868 Moraes do Amparo / RN",Cidade Anonimizada,Ceará,02378-770,1977-02-22,46-55,Engenheiro de processos,Rezende S/A,17560,1.89,88.4,24.7,38680,6597173987458701,688,7,2025-05-15 22:16:36
+29,Ana Leão,906.328.415-24,126037486,ribeirosara@example.org,+55 41 4055 4622,"Feira Clarice Campos
+Vila Formosa
+80178-193 Pimenta da Prata / MG",Cidade Anonimizada,Piauí,85272-995,2007-06-13,18-25,Policial militar,Aparecida,29465,1.5,75.1,33.4,56682,4530659794418,777,19,2022-04-06 09:39:13
+30,Raul da Mata,751.649.320-16,476823018,isadora48@example.org,21 6986 8514,"Esplanada Mateus Costela, 725
+Virgínia
+37314-908 Brito de Sousa / AL",Cidade Anonimizada,Rio Grande do Norte,96642234,1971-07-16,46-55,Engenheiro florestal,Vasconcelos Barbosa Ltda.,49201,1.87,75.0,21.4,50913,3517256440518288,794,18,2020-10-10 02:21:36
+31,Dra. Luísa Fogaça,037.681.495-01,713865246,lunnaduarte@example.com,(021) 7416-1923,"Esplanada Carolina Alves
+Lourdes
+59591-394 Leão / MG",Cidade Anonimizada,Paraná,39497473,1984-03-16,36-45,Copeiro,Melo Almeida e Filhos,24450,1.56,109.7,45.1,35600,4822896270695157,451,12,2024-09-15 04:43:26
+32,Hadassa Câmara,405.269.187-30,465318708,lucasmelo@example.org,0500 210 5523,"Vereda Sousa, 362
+Serra
+17284-290 Caldeira / RN",Cidade Anonimizada,Rio Grande do Sul,37904641,1989-05-28,36-45,Neurocirurgião,Pacheco Cavalcante e Filhos,24660,1.81,80.5,24.6,88217,370862938338386,629,3,2023-11-18 01:02:07
+33,Davi Gonçalves,193.570.842-23,614072359,luiz-otavio36@example.net,+55 (084) 3887 6207,"Lagoa Carvalho, 50
+Penha
+89909-175 Jesus / RS",Cidade Anonimizada,São Paulo,43125715,1995-02-25,26-35,Líder comunitário,da Conceição Ltda.,14962,1.94,70.9,18.8,79273,4832120995083971,452,18,2021-07-29 08:38:39
+34,Dra. Maria Júlia da Rocha,087.129.645-49,203471568,ana-juliasampaio@example.net,21 1473-6357,"Lagoa Sá, 8
+Vila Independencia 2ª Seção
+53024781 Machado / MG",Cidade Anonimizada,Paraíba,91292-562,1971-08-26,46-55,Atleta de arremesso de peso,Azevedo Ltda.,49298,1.86,62.7,18.1,29229,6011239494568148,428,3,2024-05-13 03:05:13
+35,Matteo Câmara,371.248.650-26,806271358,luigida-mota@example.net,+55 41 6411-5513,"Setor Moreira, 3
+Maria Virgínia
+00276635 Aparecida dos Dourados / MA",Cidade Anonimizada,Rio de Janeiro,32494829,1971-08-24,46-55,Geólogo,Pacheco,5756,1.83,54.6,16.3,96362,213198258250807,539,6,2020-11-12 01:41:13
+36,Maria Clara Rezende,284.601.759-01,873016257,camposmaria-eduarda@example.com,61 3484 6646,"Residencial de Pimenta, 189
+Conjunto Paulo Vi
+42660-140 Cunha / RO",Cidade Anonimizada,Rio Grande do Sul,64621807,1996-01-27,26-35,Harpista,Dias,25947,1.79,113.2,35.3,85256,3554712479343174,431,7,2024-06-27 18:41:46
+38,Gael Henrique Albuquerque,387.526.910-12,845132672,qporto@example.org,+55 (041) 7108-1282,"Favela de Cassiano
+Vila Aeroporto
+12020-795 Jesus / MA",Cidade Anonimizada,Rio Grande do Norte,75711-215,1946-12-12,65+,Cozinheira,Freitas,19511,1.95,53.5,14.1,68822,4201244159000,774,4,2021-04-23 04:28:39
+40,Kevin da Mota,927.564.081-58,10364782X,yda-mata@example.com,71 3799 3155,"Recanto de da Mata, 1
+Jardim São José
+67458-629 Porto de Fogaça / GO",Cidade Anonimizada,Pernambuco,41927-242,1984-02-19,36-45,Mensageiro,Rezende,36730,1.75,106.2,34.7,14889,4581383482512372,691,6,2022-03-21 04:58:10
+41,Maria Luísa Siqueira,146.037.285-90,643280157,eduardasampaio@example.com,11 7942 9322,"Morro de Teixeira, 35
+Betânia
+93441717 Cassiano de Goiás / PR",Cidade Anonimizada,Pará,12726-760,2004-09-18,18-25,Arqueólogo,da Mota Azevedo S/A,18393,1.75,107.8,35.2,91557,348478703942473,628,12,2022-01-20 01:17:33
+42,Dr. Felipe Fonseca,263.509.781-02,208136757,jose01@example.com,+55 (031) 4703 6954,"Condomínio Maria Clara Albuquerque, 24
+Corumbiara
+60225-029 Câmara do Norte / SE",Cidade Anonimizada,Tocantins,46250-115,1971-04-02,46-55,Eletricista,Costela e Filhos,39313,1.91,69.1,18.9,80214,3571131765146275,380,12,2021-10-12 08:45:08
+43,Maria Cecília da Cunha,740.583.619-48,614203788,caiobarros@example.org,(051) 9164 9598,"Parque Joana Casa Grande, 5
+Boa Esperança
+15004-621 da Paz / PI",Cidade Anonimizada,Rio Grande do Norte,70054-385,2004-11-28,18-25,Geólogo,Melo S.A.,4953,1.56,117.5,48.3,91965,3565403255356492,701,16,2023-12-05 12:59:53
+44,Dr. Ravi Marques,342.187.056-07,214687351,hleao@example.net,(061) 4004-6206,"Estação de Sales
+Minas Brasil
+78235989 Nunes do Amparo / MG",Cidade Anonimizada,Rondônia,79591-809,2003-07-05,18-25,Amolador de ferramentas,Garcia,20157,1.96,95.9,25.0,41073,3502943282598844,625,11,2022-12-24 00:45:46
+45,Dr. Josué Câmara,163.720.895-21,051682473,nogueiramaria-vitoria@example.org,81 6246-9050,"Área Cavalcanti, 564
+Vila Real 2ª Seção
+03024-376 Vasconcelos / RN",Cidade Anonimizada,Minas Gerais,45344-922,1953-03-13,65+,Chapeiro,Santos,18877,1.99,51.2,12.9,48263,4950489547844180,681,7,2022-09-11 22:40:16
+46,Amanda Almeida,964.381.207-31,514762032,silvabianca@example.com,+55 31 5451-2281,"Avenida de Rodrigues, 82
+Marieta 2ª Seção
+67570130 Cavalcanti / RJ",Cidade Anonimizada,Piauí,42097-721,1987-01-20,36-45,Promotor de vendas,Souza S/A,35975,1.78,62.9,19.9,90760,6567935672224945,352,5,2024-08-20 00:19:46
+47,Luara da Paz,405.918.267-20,81567420X,lopeslucca@example.com,84 0372-9422,"Lagoa de Gonçalves, 43
+Vila Madre Gertrudes 4ª Seção
+82287-744 Dias / PR",Cidade Anonimizada,Rio Grande do Sul,41634-353,1964-11-12,56-65,Desenhista,Teixeira S/A,3715,1.65,72.3,26.6,87314,587257138509,465,4,2021-05-03 17:48:54
+48,Josué Vieira,267.951.804-76,120487639,isaque46@example.net,(011) 0926-1849,"Feira de Cavalcanti, 10
+Vila Aeroporto
+23879725 Cardoso / PA",Cidade Anonimizada,Amazonas,48419-147,1983-01-08,36-45,Profissional de relações públicas,da Conceição Fogaça Ltda.,10749,1.79,65.0,20.3,78408,6011425657482058,431,14,2022-03-30 09:17:00
+49,Pedro Lucas Viana,480.637.592-65,436850278,sampaiopietra@example.org,+55 31 6788 5032,"Alameda de Camargo, 37
+Vila Maloca
+84378541 Fogaça / PA",Cidade Anonimizada,Rio Grande do Sul,40488963,1985-04-09,36-45,Gastrônomo,Lima Siqueira S.A.,4076,1.92,90.7,24.6,89622,6549899028975928,734,15,2022-06-02 23:46:24
+50,Davi Lucca Nunes,160.327.845-17,230617852,gabriel50@example.org,71 9264 9633,"Loteamento de Pastor
+Unidas
+12189-677 Siqueira da Prata / AL",Cidade Anonimizada,Rio Grande do Norte,67859150,1960-06-21,56-65,Tecnólogo em papel e celulose,Cirino,4546,1.64,115.1,42.8,54735,3549423364151734,728,14,2023-12-02 15:54:57
+52,Maria Luiza das Neves,845.129.607-67,160247834,ceciliaporto@example.org,+55 11 2496-4101,"Estrada de Jesus, 89
+Nazare
+76120-617 Borges dos Dourados / PB",Cidade Anonimizada,Acre,99450818,1950-01-04,65+,Alpinista,Oliveira Barros Ltda.,46868,1.77,100.3,32.0,20018,346952770138480,601,0,2022-07-11 16:46:46
+54,Francisco Nunes,406.917.325-07,458327165,ana-cecilia44@example.com,41 3497 2223,"Lagoa de Mendes
+Nova Cintra
+41645737 Brito do Oeste / RJ",Cidade Anonimizada,Rio Grande do Sul,74681-338,1968-03-06,56-65,Manobrista,Rodrigues e Filhos,12853,1.89,115.9,32.4,62523,180089217789416,382,2,2023-03-07 06:44:19
+55,Luiz Henrique Costa,906.823.574-56,835271407,dantearaujo@example.org,+55 21 6525-8744,"Rua Benicio Melo, 69
+Cidade Nova
+92744-198 Lopes de Brito / RO",Cidade Anonimizada,Rondônia,05323-528,2001-08-26,18-25,Técnico em tratamento de água,Santos Teixeira - EI,13881,1.59,119.4,47.2,91363,4822602019484,424,2,2021-10-01 19:53:24
+56,Ana Cecília Ferreira,465.139.820-06,174380562,eduarda61@example.org,11 1980 2078,"Fazenda Natália Azevedo, 7
+Lagoinha
+28945-858 Mendonça / MA",Cidade Anonimizada,Amapá,85651258,1994-05-03,26-35,Radialista,Fonseca Ltda.,33129,1.59,79.1,31.3,27655,213180613997173,437,20,2025-07-11 06:06:01
+57,Luísa Monteiro,574.062.183-62,205376411,das-nevesana-livia@example.net,+55 (011) 2181-3592,"Via Carvalho, 68
+Campo Alegre
+36243-335 Machado de Nascimento / AM",Cidade Anonimizada,Goiás,97480649,1967-11-29,56-65,Odontologista preventivo e social,Leão e Filhos,37133,1.68,117.3,41.6,91898,6579698311057243,322,5,2024-03-25 00:38:30
+59,Anna Liz Dias,196.278.543-28,832716509,psales@example.net,+55 (021) 2357 7936,"Chácara de Novaes, 623
+Glória
+45129869 Vasconcelos / PI",Cidade Anonimizada,Piauí,67783647,1999-02-27,26-35,Engenheiro petroquímico,Lopes,39364,1.52,89.0,38.5,53337,4726637985066,335,10,2024-03-30 15:14:17
+60,Davi Lucca Gomes,738.942.501-60,206453784,almeidaenzo@example.org,(081) 3633-7972,"Campo da Rosa, 71
+Ribeiro De Abreu
+07510-137 Caldeira / SE",Cidade Anonimizada,Mato Grosso,64934-627,1999-09-18,26-35,Tecnólogo em processos químicos,Machado das Neves - EI,22088,1.84,63.8,18.8,32638,4837237598983513408,484,3,2022-08-14 21:36:57
+61,Nicolas das Neves,408.521.673-26,01348526X,pedro-lucas19@example.net,+55 (031) 1552-0816,"Lagoa de Viana
+Santo André
+30401156 Machado / PA",Cidade Anonimizada,Paraíba,36286412,1970-02-04,46-55,Terapeuta Holístico,da Conceição Vasconcelos S/A,38889,1.99,71.6,18.1,43757,343213920581852,357,20,2023-02-24 00:15:13
+62,Milena Cavalcanti,129.387.056-03,516483201,oliviasilveira@example.com,31 2477 4817,"Feira Lorena Sousa
+Lagoinha Leblon
+20415438 Brito / MG",Cidade Anonimizada,Minas Gerais,96403-292,2003-07-13,18-25,Pára-quedista,Albuquerque,46310,1.94,85.4,22.7,90002,4186017944151068296,641,18,2024-08-22 01:39:38
+65,Lorenzo Monteiro,582.976.310-95,564182734,urodrigues@example.org,41 3883-6262,"Vereda de da Mota, 7
+Araguaia
+13274286 das Neves de Goiás / RR",Cidade Anonimizada,Ceará,90621-055,1948-04-17,65+,Administrador público,Mendonça S.A.,41191,1.95,65.0,17.1,18367,3565241550661707,486,20,2022-02-10 08:56:39
+66,Vitória Costa,369.748.120-78,182436056,jpeixoto@example.org,(041) 5195-1457,"Chácara Carvalho, 21
+São Francisco Das Chagas
+95699121 Costela / RS",Cidade Anonimizada,Roraima,35499266,1971-05-30,46-55,Engenheiro metalúrgico,Teixeira da Rocha e Filhos,36945,1.96,82.0,21.3,83242,2583313380369890,794,14,2023-07-12 23:15:35
+67,Gustavo Castro,175.249.806-20,028657317,pietra36@example.com,0500 081 4220,"Fazenda de Fonseca, 833
+Santo Antônio
+46347357 Ribeiro Paulista / SE",Cidade Anonimizada,Rio Grande do Norte,65665972,2000-03-04,18-25,Patinador,Porto,19689,1.92,54.7,14.8,94294,6011273603239143,713,7,2023-06-10 17:47:46
+68,Matheus da Mota,514.306.729-43,782416354,marianejesus@example.com,(031) 9714-5259,"Viaduto Maria Flor Vargas
+Silveira
+46593-883 Mendes / SP",Cidade Anonimizada,Sergipe,71895568,1968-11-23,56-65,Engenheiro de transportes,Vieira,19836,1.98,112.9,28.8,13876,4946203168307899,695,0,2022-09-23 12:17:03
+69,Sabrina Casa Grande,802.796.345-10,453782061,henrycassiano@example.net,21 0512 5562,"Estrada Aragão, 40
+Nova Cachoeirinha
+07720475 Pacheco / AL",Cidade Anonimizada,Paraná,54330-599,1955-08-29,65+,Jornaleiro,Câmara,11997,1.94,116.4,30.9,20432,4303381295444459,585,20,2023-06-01 01:11:14
+70,Ísis Moreira,704.298.316-50,815346207,marcela37@example.org,+55 21 3544 0095,"Estrada Rafaela Ramos, 27
+Nova Esperança
+23544-873 Melo / SC",Cidade Anonimizada,Roraima,53268-278,1967-01-10,56-65,Tecnólogo em tecnologia da madeira,Cirino,10463,1.72,80.7,27.3,77419,4052555193027903,844,5,2024-06-12 18:18:59
+71,Sra. Eloá Cavalcante,903.562.871-30,301864275,leonardocaldeira@example.net,0300 211 0163,"Praça Ribeiro
+Chácara Leonina
+76087-348 Duarte da Serra / AP",Cidade Anonimizada,Amazonas,89031-507,1986-08-20,36-45,Administrador,Dias Ltda.,16662,1.9,90.3,25.0,60076,371913477834779,565,18,2022-10-31 06:38:49
+72,Paulo da Mata,132.960.587-02,205817348,yago34@example.net,+55 84 5826 9189,"Avenida Souza, 70
+Camponesa 2ª Seção
+17681-247 Albuquerque do Norte / SC",Cidade Anonimizada,Pernambuco,76743-781,2000-10-06,18-25,Sonoplasta,Monteiro Gonçalves - EI,40417,1.97,97.7,25.2,18516,213153967031782,309,0,2023-08-17 15:37:05
+73,Diogo Leão,279.036.451-61,047865325,ucasa-grande@example.net,+55 84 3820 9344,"Favela João Felipe Sampaio, 549
+Urca
+61390-478 Pimenta do Sul / SE",Cidade Anonimizada,Rio Grande do Norte,97777-070,1974-09-30,46-55,Assistente de direção,Cirino,23612,1.95,111.3,29.3,56242,676281070331,585,1,2023-05-05 00:23:48
+74,Otávio Gomes,147.539.062-99,021843752,cpeixoto@example.org,41 4616 6236,"Viela Freitas, 47
+Camponesa 2ª Seção
+39821-720 Mendonça Grande / GO",Cidade Anonimizada,Santa Catarina,70673-901,1959-02-27,65+,Tecnólogo em esporte e lazer,Pastor,46759,1.88,116.6,33.0,40395,561736498099,820,9,2024-02-09 05:44:41
+75,Emanuel Cassiano,843.279.560-74,376810543,nda-paz@example.net,+55 (011) 8953 5063,"Quadra Silveira, 1
+Acaba Mundo
+88118-654 Costela de Ferreira / MS",Cidade Anonimizada,Paraíba,35698550,1961-02-14,56-65,Fiscal,Araújo da Cunha - ME,12806,1.94,96.1,25.5,60164,4368956437137970,608,12,2023-05-21 07:55:11
+77,Davi Lucca Vieira,342.658.791-28,407218361,limaisadora@example.org,(011) 8711-7209,"Praia Josué Farias, 15
+Cruzeiro
+64444549 Silva da Prata / MG",Cidade Anonimizada,Roraima,92477-047,1959-02-21,65+,Dançarino,Lopes,30769,1.69,110.4,38.7,89684,180046078756959,370,0,2025-02-19 19:11:43
+78,Eloá Gomes,326.095.847-92,816037243,ana48@example.org,0800-361-9216,"Setor Moraes
+Braúnas
+63677272 Silveira de Moreira / SP",Cidade Anonimizada,Ceará,05880-382,1998-12-06,26-35,Mecanógrafo,Ribeiro Jesus Ltda.,12611,1.61,112.0,43.2,48932,6563618031933349,483,1,2023-01-08 23:47:37
+79,João Vitor Leão,760.584.193-01,157603428,helena07@example.com,84 8324-6467,"Chácara João Gabriel Peixoto, 65
+Lourdes
+89851853 Souza do Galho / MS",Cidade Anonimizada,Santa Catarina,64870207,1959-05-07,65+,Escritor,Farias,41629,1.76,90.4,29.2,17980,501800660521,440,6,2021-09-15 14:37:56
+80,Sra. Zoe Peixoto,054.876.392-56,085721360,zoefernandes@example.com,+55 (061) 6530-4460,"Rua Aparecida, 2
+Vila Rica
+05622-331 Ferreira de Goiás / AM",Cidade Anonimizada,Rondônia,73857190,1973-05-31,46-55,Assistente administrativo,Dias - EI,15326,1.8,82.3,25.4,32305,5200301828252030,325,6,2024-03-12 22:25:49
+81,Caleb Cavalcante,023.897.456-10,416275308,danilocassiano@example.org,0500-532-7642,"Estrada Davi Lucas Fonseca, 37
+Vila Aeroporto Jaraguá
+72722-861 Castro do Campo / RO",Cidade Anonimizada,Amapá,39126-173,1974-08-10,46-55,Brigadeiro,Camargo - ME,30317,1.62,108.0,41.2,39513,4825128770603755,629,6,2023-02-20 10:50:00
+82,Davi Lucas Albuquerque,507.129.683-77,152047384,theo63@example.net,41 2542-5624,"Colônia Zoe Mendonça, 1
+São Benedito
+16874995 Machado de Siqueira / GO",Cidade Anonimizada,Ceará,25125-223,1957-06-20,65+,Engenheiro de minas,da Cruz Silva Ltda.,49730,1.84,51.8,15.3,16083,6011294296455960,840,7,2021-02-13 02:24:43
+83,Brayan Cassiano,690.134.258-60,785346028,davi-lucasaparecida@example.com,(081) 0343 8979,"Rodovia Pacheco, 30
+Universitário
+13340337 Casa Grande / RN",Cidade Anonimizada,Tocantins,05810-868,1959-05-06,65+,Repórter,Pastor,17876,1.51,99.8,43.8,16331,213192234191342,729,17,2025-03-20 07:39:13
+84,Isadora Sales,426.791.803-13,304861753,liz84@example.org,+55 41 8081-8190,"Viela Luísa Lima, 978
+Lagoinha Leblon
+55423-535 Ramos de Cardoso / ES",Cidade Anonimizada,Rio Grande do Sul,02199579,1947-02-21,65+,Geriatra,Montenegro,39906,1.85,80.6,23.6,6626,4206228028253004,796,7,2022-05-23 01:19:54
+85,Lívia Albuquerque,861.340.257-71,380261571,anthony-gabrielrodrigues@example.com,+55 (011) 3991 8959,"Ladeira de Carvalho, 9
+Horto
+45862-130 Cavalcanti / AM",Cidade Anonimizada,Roraima,16148-087,1996-12-14,26-35,Agente de defesa sanitária,Sales S/A,48476,1.97,55.0,14.2,64658,4178655483446256725,313,0,2022-10-15 12:24:58
+87,Eduardo Almeida,701.462.893-31,435108621,cassianosophie@example.org,+55 (021) 9404-5750,"Área Viana, 181
+Granja De Freitas
+31119037 Cunha / AM",Cidade Anonimizada,Alagoas,60078-273,2000-06-20,18-25,Ministro,Abreu S/A,42881,1.67,61.8,22.2,13491,4381776242252266,838,12,2025-07-27 18:01:11
+88,Dr. Renan Silveira,859.362.017-59,853267406,mgarcia@example.com,21 2922 9900,"Colônia de Rocha, 96
+Lagoa
+15181-750 Fonseca / PE",Cidade Anonimizada,Paraná,56479483,1981-08-11,36-45,Artesão,Machado,49382,1.61,114.7,44.2,56657,4364863505269822,794,2,2024-11-23 14:54:44
+89,Valentim Borges,917.680.325-21,753461080,mcardoso@example.com,(084) 9983-4841,"Aeroporto de Fonseca, 9
+Nossa Senhora Do Rosário
+79153-483 Martins Paulista / SC",Cidade Anonimizada,Paraíba,76624-812,1985-05-06,36-45,Ministro,Fonseca,16963,1.7,95.7,33.1,22599,4231390109018828,360,15,2022-12-05 23:27:37
+90,Sra. Clara Oliveira,381.592.407-32,182504670,lucas07@example.org,(061) 7037-0599,"Loteamento de Rios, 4
+Prado
+37531733 Sales / SE",Cidade Anonimizada,São Paulo,99263017,1966-11-14,56-65,Ginasta artística,Marques,15023,1.75,81.8,26.7,37147,4771944782374498,735,7,2023-02-04 00:56:39
+91,Luana Machado,493.172.650-06,062317854,fogacamarcos-vinicius@example.net,(011) 4728-6774,"Estrada Azevedo, 3
+Alípio De Melo
+69494-695 da Rocha / PA",Cidade Anonimizada,Paraíba,54968229,1971-08-29,46-55,Cientista de alimentos,Rocha Araújo Ltda.,27938,1.83,62.3,18.6,11282,4709073196238663629,728,6,2024-01-01 14:29:00
+94,Levi Mendes,132.589.704-32,624701359,jgarcia@example.net,51 7964 3314,"Vereda de Castro
+Vila Sumaré
+17212-327 Sousa / ES",Cidade Anonimizada,Pernambuco,30888-135,1998-04-03,26-35,Tecnólogo em desenvolvimento social,Silveira da Mota e Filhos,26218,1.75,81.6,26.6,20923,30450992437989,693,3,2024-11-21 18:23:17
+95,Julia Pastor,284.607.319-87,142687303,nandrade@example.org,81 8927 3114,"Vale Fogaça
+Jaqueline
+59007-718 Nogueira de Lima / SC",Cidade Anonimizada,Rio Grande do Norte,04552208,1950-05-17,65+,Patologista oral,Siqueira Pires S/A,36219,1.54,119.6,50.4,23692,3514289196776779,387,7,2021-08-03 02:32:07
+96,Kevin Lima,875.310.946-57,418560730,alicia89@example.com,+55 (051) 2639-5018,"Vale de Albuquerque, 58
+Nova Cachoeirinha
+34422127 Garcia dos Dourados / PI",Cidade Anonimizada,Rio de Janeiro,78866-900,1965-11-25,56-65,Sonoplasta,Correia,32179,1.56,88.7,36.4,56110,6583639710065670,330,9,2021-03-28 01:45:28
+98,Helena Almeida,948.172.065-94,83145720X,upastor@example.net,+55 (081) 5101-9612,"Campo Casa Grande, 81
+Vila Madre Gertrudes 4ª Seção
+45760715 Sousa / DF",Cidade Anonimizada,Ceará,49873511,1998-03-16,26-35,Empacotador,Borges,12550,1.8,115.5,35.6,64868,2668058609591281,828,7,2025-09-06 05:55:19
+99,Agatha Marques,029.637.145-99,762308515,jesusana-clara@example.com,+55 21 9620 1140,"Avenida de Rezende, 46
+Vila Bandeirantes
+84402300 Sales / PA",Cidade Anonimizada,Pernambuco,96204-864,1987-02-16,36-45,Hostess,Oliveira,5799,1.61,80.8,31.2,85088,4768319283717,592,11,2022-09-29 12:45:34
+101,João Lucas Nogueira,026.749.315-07,425803168,maria-vitoria62@example.net,(084) 4593 4323,"Ladeira de Leão, 94
+Vila Da Paz
+55773-978 Silva / RR",Cidade Anonimizada,São Paulo,28659285,1987-09-07,36-45,Lubrificador de máquinas,Cavalcanti Freitas - ME,48047,1.96,69.9,18.2,55291,30017367503305,827,5,2025-08-05 08:04:15
+102,Bianca Pimenta,072.618.594-94,810375266,barbaradias@example.com,0800-335-5168,"Quadra de Rocha, 275
+Colégio Batista
+12532-808 Azevedo / RN",Cidade Anonimizada,Rio Grande do Norte,14248-973,2000-01-06,18-25,Engenheiro agrícola,da Cunha,11780,1.97,104.2,26.8,7719,4213130886996008,463,17,2021-02-08 14:19:26
+103,Allana Rodrigues,890.721.563-40,81342706X,da-cunhafernando@example.net,+55 51 7438 5271,"Chácara de Camargo, 44
+Canadá
+65789763 Albuquerque / AM",Cidade Anonimizada,Piauí,30645301,1994-01-24,26-35,Sexólogo,da Conceição Garcia e Filhos,49926,1.52,71.2,30.8,40640,3590264006483749,734,19,2020-10-30 00:29:03
+104,Yasmin Aragão,926.708.413-50,170458325,joao-pedronunes@example.com,+55 (031) 6206-8807,"Campo de Mendes, 52
+Mangabeiras
+64334452 Ribeiro de Moraes / RJ",Cidade Anonimizada,Alagoas,60454294,2005-07-25,18-25,Biomédico,Ribeiro,47010,1.72,50.3,17.0,19687,676311527466,628,16,2023-03-06 12:00:07
+107,Ágatha Cirino,103.892.476-69,371042860,danielnovaes@example.net,+55 (084) 0392 4107,"Lagoa Lucca Almeida, 458
+Castanheira
+71098000 Macedo de Rezende / SC",Cidade Anonimizada,Piauí,28498654,1991-11-12,26-35,Agrônomo,Andrade Ltda.,3010,1.61,87.1,33.6,52678,4891282096989,682,17,2021-11-03 14:57:18
+108,Ana Liz Leão,289.760.451-49,723546083,hadassa37@example.com,+55 (084) 0007 5436,"Avenida Alves, 86
+Vila Canto Do Sabiá
+08791-385 Gomes do Campo / MS",Cidade Anonimizada,Mato Grosso do Sul,72192467,1951-10-02,65+,Assistente de direção,Gomes,22486,1.82,50.7,15.3,86333,36780668378933,697,9,2023-08-10 11:44:47
+109,Sarah Moreira,952.346.087-00,418502377,danilo17@example.net,+55 (061) 5493-2315,"Praça de Aparecida, 93
+São Tomaz
+26165-718 Machado Paulista / AM",Cidade Anonimizada,Maranhão,67815511,1974-07-22,46-55,Agrônomo,Monteiro,10984,1.86,81.4,23.5,6634,6011032602293224,416,20,2023-12-12 03:24:29
+110,Antônio Novaes,930.786.124-22,586174023,nunesjoao-guilherme@example.org,+55 (081) 0346 4467,"Distrito Costa, 65
+Conjunto Santa Maria
+75737-961 Vasconcelos de Dias / CE",Cidade Anonimizada,Pernambuco,09600-430,1977-11-08,46-55,Técnico em agropecuária,Costa,27001,1.7,50.5,17.5,16009,4009008045943723,486,0,2025-04-16 00:43:55
+111,Sr. Thiago Rocha,697.834.501-66,670418328,ian09@example.net,(041) 5726 5635,"Residencial Pereira, 3
+Goiania
+10553-717 Barbosa de da Luz / GO",Cidade Anonimizada,Sergipe,23874109,1957-02-04,65+,Médico geneticista,Garcia Ltda.,10715,1.99,78.0,19.7,7673,180068062318315,643,10,2022-01-17 01:10:04
+112,Gustavo Martins,379.685.140-10,276130480,azevedoliam@example.com,+55 (051) 1392 8798,"Fazenda de Albuquerque, 22
+Pindura Saia
+78723-373 Fernandes / PR",Cidade Anonimizada,Distrito Federal,23038-330,1993-10-30,26-35,Bedel,da Cunha,35788,1.59,112.0,44.3,46491,180040790764342,365,0,2025-09-05 21:53:25
+113,Rodrigo Araújo,436.987.051-84,154786032,pintoolivia@example.net,+55 31 1916 7430,"Feira Juliana Souza, 26
+Bairro Das Indústrias Ii
+32163-281 Pinto / SP",Cidade Anonimizada,Paraná,66010664,1970-10-30,46-55,Clap loader,Moura Cirino S.A.,8102,1.76,98.0,31.6,78796,2231953674465544,303,17,2025-08-07 22:15:30
+114,Melina Cardoso,351.029.768-77,70314652X,gael-henriquecavalcanti@example.org,(071) 6705-3747,"Viela de Moraes, 44
+Vila Calafate
+52138-730 Teixeira da Mata / DF",Cidade Anonimizada,Pernambuco,76454-104,1979-04-19,46-55,Instalador de painéis,Siqueira,23367,1.82,58.3,17.6,87728,4598587594441700400,482,12,2023-06-11 01:54:39
+115,Benicio Macedo,879.260.514-11,580312768,marcelada-conceicao@example.org,+55 (051) 2679 4529,"Recanto Nunes, 33
+Vila Nova Gameleira 1ª Seção
+42880-786 Abreu Verde / RN",Cidade Anonimizada,Paraná,51219-738,1987-10-01,36-45,Karateca,Moraes - EI,36732,1.52,65.0,28.1,60440,340274297814980,470,12,2023-03-06 07:43:19
+116,Luiz Otávio Sousa,509.328.461-06,410236573,maria-julia21@example.org,0800-680-7708,"Travessa Farias
+Conjunto Serra Verde
+42671-686 Costa de Brito / CE",Cidade Anonimizada,Rio Grande do Sul,69135510,1981-04-11,36-45,Empregado doméstico,Barros,12420,1.66,71.3,25.9,78372,3546440342848093,554,17,2024-03-27 23:12:30
+117,Ana Liz Ramos,821.590.746-67,734850165,rbarbosa@example.net,+55 51 7155 3134,"Praça da Cruz, 44
+Frei Leopoldo
+72584362 Vieira / RR",Cidade Anonimizada,Acre,58456101,1955-09-11,65+,Nadador,Pires,29700,1.53,61.7,26.4,77764,4564090668909568,627,8,2022-06-28 22:51:56
+118,Kevin Sá,810.496.253-15,052834761,luarada-cunha@example.org,+55 (031) 0771 0191,"Recanto Sá, 40
+Santa Terezinha
+48700901 Monteiro de Goiás / SC",Cidade Anonimizada,Mato Grosso,72469008,1988-04-26,36-45,Pediatra,da Mota,48320,1.66,101.3,36.8,15410,3596068896823821,744,4,2024-07-22 20:38:36
+120,Brenda Montenegro,607.814.239-96,453801729,larissa69@example.org,(051) 5040-8312,"Feira Otto da Cruz, 224
+Vila Ouro Minas
+87489498 Guerra Alegre / SP",Cidade Anonimizada,Distrito Federal,13629446,1993-06-27,26-35,Tecnólogo em recursos pesqueiros,Cavalcante,20756,1.91,55.5,15.2,31001,4609511143947,524,1,2023-03-10 17:40:21
+121,Oliver Santos,413.265.078-26,640231755,bernardoaragao@example.org,41 3241-2329,"Feira Anna Liz Freitas
+Primeiro De Maio
+26823-982 Novais de Marques / MA",Cidade Anonimizada,Rio Grande do Sul,56339-474,1991-08-29,26-35,Ginasta artística,Gomes,12021,1.64,54.3,20.2,55672,6011133789405746,501,14,2025-10-03 00:47:39
+123,Diogo Barbosa,496.802.715-01,726508147,ravi05@example.net,+55 (011) 2656 0467,"Esplanada de Peixoto, 29
+Fazendinha
+41013838 Pimenta de Goiás / RR",Cidade Anonimizada,Rio Grande do Sul,25317-352,1983-12-24,36-45,Imunologista,da Costa - EI,6087,1.7,88.8,30.7,42651,501810801800,479,19,2023-07-09 17:37:57
+124,Alícia Vieira,790.126.854-94,385024769,andre75@example.com,21 1976 3932,"Vila Nunes, 73
+Vila Mangueiras
+21149-228 Câmara de Minas / AL",Cidade Anonimizada,Roraima,02989213,1949-08-23,65+,Timoneiro,Aparecida Novais - ME,8592,1.76,87.7,28.3,59977,4683063254519,639,17,2025-05-29 01:03:02
+125,Luiz Otávio Nunes,520.376.149-34,82175046X,stephanyaraujo@example.org,71 6025 0203,"Esplanada Mariana Aparecida, 24
+Mirtes
+97838-091 da Rocha / DF",Cidade Anonimizada,Piauí,59072-962,2001-05-18,18-25,Compositor,Duarte,22387,1.97,92.7,23.9,79039,501857288002,556,0,2024-12-20 07:06:21
+126,Isabella da Costa,371.254.869-91,250637418,joao-felipeviana@example.org,71 6669 5498,"Colônia de Duarte, 85
+Tupi B
+00083420 da Rosa de Minas / SP",Cidade Anonimizada,Amazonas,65997024,1958-01-28,65+,Ortopedista,da Costa Gomes S/A,29640,1.77,69.4,22.2,15128,378680687234438,487,0,2024-08-28 10:57:04
+127,Beatriz Andrade,917.258.046-11,328714069,theodoro18@example.net,(011) 3042 9513,"Distrito Melo, 37
+Vila Formosa
+81706-403 Pinto de Minas / SP",Cidade Anonimizada,Minas Gerais,92128-026,1952-09-22,65+,Profissional de relacionamento com investidores RI,Fonseca,32213,1.57,99.6,40.4,89113,3536953792041664,462,14,2024-06-26 18:18:30
+128,Arthur Miguel Casa Grande,639.052.147-25,720413655,usiqueira@example.com,84 8924 5575,"Estação Ayla Vieira, 514
+Santa Branca
+60230-903 Viana do Norte / MA",Cidade Anonimizada,Goiás,04979717,1952-03-17,65+,Turismólogo,Farias Ltda.,4324,1.83,110.4,33.0,84091,4918709512112052,599,14,2024-01-02 20:11:34
+129,Bella Vasconcelos,847.513.206-53,245876303,pborges@example.net,+55 84 8647-7805,"Aeroporto Maria Teixeira, 8
+Céu Azul
+77199327 Siqueira do Norte / RN",Cidade Anonimizada,Ceará,20210984,1968-02-20,56-65,Harpista,Fonseca da Luz S/A,9501,1.93,118.6,31.8,49039,4007783048304784393,429,4,2023-05-08 12:35:45
+130,Gael Henrique Correia,031.492.867-78,610253785,livia54@example.org,+55 (031) 2913-6524,"Travessa Silveira, 593
+Vila Nova Gameleira 1ª Seção
+67113-114 Mendes de Câmara / MG",Cidade Anonimizada,Pernambuco,80456-672,1948-08-03,65+,Angiologista,Silveira Rezende e Filhos,13109,1.96,75.6,19.7,51927,30409543848714,684,3,2024-12-30 11:00:18
+131,Dr. Thomas Siqueira,169.387.052-59,652703410,apolloalves@example.com,21 7766 5578,"Núcleo Leandro Caldeira
+Jardim São José
+28878-219 da Cunha do Amparo / AL",Cidade Anonimizada,Rio Grande do Norte,25031852,1975-07-31,46-55,Profissional de informática,Azevedo,42072,1.75,64.5,21.1,12145,630477426211,301,0,2024-03-17 20:47:28
+132,Thales da Paz,360.749.258-10,516082437,mcunha@example.com,11 4989-7595,"Estação Matteo da Mota, 79
+Mineirão
+67218310 Pereira / AC",Cidade Anonimizada,Piauí,22496-886,1993-12-01,26-35,Vereador,Moreira Teixeira - ME,14283,1.53,70.6,30.2,31723,375006515315558,805,11,2025-07-16 21:13:40
+133,Clarice Caldeira,580.934.617-01,823045614,xcamargo@example.net,21 1255-8514,"Distrito de Novais, 69
+Braúnas
+94174-618 Cavalcanti Verde / PA",Cidade Anonimizada,Pernambuco,54629-336,1975-07-09,46-55,Chaveiro,Ramos Ltda.,29653,1.66,53.2,19.3,15750,3538269296947688,481,0,2024-01-29 16:16:13
+134,Sra. Valentina Castro,931.267.085-95,350672489,cassianofernanda@example.com,+55 (031) 2305 9106,"Conjunto de Novais, 770
+Camponesa 1ª Seção
+65159-708 Novais do Norte / MG",Cidade Anonimizada,Santa Catarina,21171-048,1956-08-09,65+,Forneiro,Caldeira Sá S.A.,42524,1.91,115.3,31.6,80249,6551300773769793,766,19,2021-07-05 13:23:25
+135,Rael Leão,835.614.709-39,054167280,ian43@example.net,(051) 0253-0336,"Jardim João Vitor Sampaio, 14
+Granja De Freitas
+57236-083 Moraes das Pedras / ES",Cidade Anonimizada,Rondônia,44211664,2007-08-30,18-25,Classificador contábil,Peixoto S.A.,6178,1.78,84.3,26.6,51998,4727681828139508109,474,14,2024-05-28 14:28:30
+136,José Rodrigues,127.053.498-04,683025144,jda-rocha@example.net,51 0922 3570,"Esplanada de Gonçalves, 15
+Palmares
+01149-288 Mendes das Flores / AC",Cidade Anonimizada,Acre,53966-870,2001-09-12,18-25,Alergologista,da Costa,39615,1.53,86.9,37.1,66378,3571278785091187,461,10,2021-01-08 21:11:23
+137,Agatha Novais,147.862.593-73,460751232,natalia58@example.com,+55 (081) 4744-1870,"Área Maria Júlia Ferreira, 27
+Vila Santa Monica 2ª Seção
+90431435 Novaes Verde / RJ",Cidade Anonimizada,Roraima,12836-519,1984-04-12,36-45,Especialista em agronegócios,Mendonça,40518,1.72,114.4,38.7,22446,4521936782533975077,541,18,2021-06-22 17:24:02
+138,Oliver Pastor,852.134.679-46,780315467,henry77@example.org,+55 (021) 8668 5629,"Fazenda Carvalho, 40
+Rio Branco
+80715907 Souza Grande / MG",Cidade Anonimizada,Pernambuco,90862-413,1953-03-23,65+,Enólogo,Pastor S.A.,36389,1.66,96.7,35.1,25569,4339802359428854,533,19,2025-05-12 02:28:16
+139,Luara Aparecida,594.703.621-52,480672519,andradekamilly@example.com,+55 (071) 4986 1459,"Avenida Almeida, 2
+Milionario
+14697-817 da Mota / MT",Cidade Anonimizada,Rondônia,24794-243,2005-04-18,18-25,Profissional de cinema,Costa Brito e Filhos,32876,1.55,82.0,34.1,19219,4715008309057082,838,19,2023-05-07 06:05:19
+140,Catarina Vargas,670.231.589-95,35071468X,qcaldeira@example.org,+55 (031) 4605 3948,"Travessa de da Luz, 65
+Vila Das Oliveiras
+60518830 Ramos de Rodrigues / SE",Cidade Anonimizada,Sergipe,19341510,2003-11-16,18-25,Conferente de expedição,Caldeira,23832,1.52,56.2,24.3,80501,4723550926495567,420,4,2020-12-14 02:05:25
+141,Alexandre Machado,649.120.785-49,064157830,dcardoso@example.org,+55 (061) 3325-4339,"Distrito Felipe Vieira, 11
+Marmiteiros
+06961505 Jesus / PI",Cidade Anonimizada,Paraná,49711216,1957-01-22,65+,Capoeirista,da Paz - ME,36841,1.87,65.1,18.6,80998,2702313772629758,782,20,2023-06-06 12:53:30
+142,Mirella Novaes,208.571.639-30,51362708X,leaomarcela@example.org,31 5227-8059,"Trevo Lima, 264
+Vila Maloca
+91026-435 Lopes / ES",Cidade Anonimizada,Santa Catarina,80102567,1997-10-15,26-35,Engraxate,Moraes S.A.,8551,1.74,54.2,17.9,44268,3586985048004491,499,7,2025-01-26 00:09:59
+143,Srta. Ana Vitória Mendonça,173.859.024-05,645832108,marianarodrigues@example.com,21 8401 6935,"Feira Pedro Borges
+Ambrosina
+88544-004 da Rosa do Amparo / AP",Cidade Anonimizada,Santa Catarina,72209782,1951-01-30,65+,Marketeiro,Castro Ltda.,29288,1.66,118.5,43.0,76690,3501002927664064,353,0,2022-01-27 01:52:35
+144,Leandro Teixeira,681.305.972-68,318560720,britocaua@example.com,84 0999 8700,"Via Siqueira, 948
+São João Batista
+04468099 Costela / RN",Cidade Anonimizada,Rio Grande do Norte,48420219,1964-07-27,56-65,Engenheiro de controle e automação,Pacheco,22975,1.56,84.4,34.7,66989,213186242374858,369,5,2022-07-18 12:38:36
+145,Mariah da Rosa,015.896.243-51,284056133,wda-mota@example.com,(071) 1618-3778,"Aeroporto de Santos, 2
+Vila Ipiranga
+14873-907 Brito das Flores / RO",Cidade Anonimizada,Rondônia,93626-841,1975-07-01,46-55,Sociólogo,Cunha,13470,1.75,108.0,35.3,43979,3557146357490616,304,20,2022-03-14 21:01:31
+146,Eloá Cardoso,462.935.018-70,278036144,cferreira@example.org,(031) 6538 2247,"Vereda Henrique Novais, 92
+São Bento
+24146-875 Pinto / MG",Cidade Anonimizada,Espírito Santo,14946196,1986-12-23,36-45,Estofador,Castro,41903,1.94,88.2,23.4,40459,180094370574498,818,7,2025-01-19 23:35:26
+147,Alice Nogueira,985.162.370-95,271036485,pribeiro@example.org,+55 (041) 6200 9913,"Recanto Isabella Castro
+Sport Club
+99965-681 Novaes do Galho / RO",Cidade Anonimizada,Rondônia,94445-188,1980-04-08,36-45,Cirurgião bucal,Novais,6440,1.79,57.0,17.8,89056,4453650091681647904,728,20,2023-11-18 05:49:03
+148,Ana Beatriz Vieira,764.819.320-50,603842756,lorenzo83@example.com,+55 61 2188 5227,"Via Vieira, 1
+São Marcos
+86661-521 Santos / MA",Cidade Anonimizada,Rio Grande do Norte,79761-629,1947-01-06,65+,Musicoterapeuta,Pimenta S.A.,34078,1.9,52.7,14.6,23298,213134588010264,690,7,2023-11-24 14:30:24
+149,Sra. Milena Borges,831.742.690-40,084721650,qviana@example.net,51 0112 2299,"Lago de Almeida, 554
+Maria Tereza
+15008-915 da Paz da Serra / PE",Cidade Anonimizada,São Paulo,08387426,1955-03-13,65+,Cerimonialista,Martins da Cruz - EI,48077,1.7,55.3,19.1,69148,3526056291002617,791,1,2025-04-03 05:38:30
+150,Maysa Brito,637.540.129-16,037451820,camargoalana@example.com,+55 61 7882 7185,"Vila Rocha, 8
+Nossa Senhora Aparecida
+28618-132 Lopes dos Dourados / AP",Cidade Anonimizada,Distrito Federal,58139-178,2003-05-29,18-25,Continuista,Campos S/A,5242,1.88,65.5,18.5,80528,4853629242826408,582,3,2021-04-27 14:05:39
+151,Pietro Costela,490.128.736-22,354782010,araujoagatha@example.net,31 9197-2011,"Condomínio Sá, 90
+Oeste
+31627353 Sousa da Praia / TO",Cidade Anonimizada,Maranhão,73412035,1999-08-11,26-35,Cambista,Moreira da Mota Ltda.,11560,1.98,89.6,22.9,49817,30000300653932,596,3,2025-02-17 15:53:59
+152,Sofia da Mota,284.769.351-37,051263749,luana57@example.com,84 1741-2620,"Condomínio João Miguel Lima, 51
+São Geraldo
+75510-559 da Rosa Paulista / CE",Cidade Anonimizada,Sergipe,79181426,1981-04-22,36-45,Produtor de eventos,Rios,27871,1.51,115.1,50.5,65462,4834978866926342866,622,2,2025-05-17 09:13:02
+153,Benicio Siqueira,931.745.026-16,708216547,rbarros@example.com,+55 (011) 8960 1748,"Jardim Sabrina Albuquerque
+Manacas
+35847107 Pacheco / RJ",Cidade Anonimizada,Pernambuco,28862-054,1991-07-22,26-35,Neurologista,Melo,18154,1.74,73.1,24.1,20094,340687879062639,691,7,2024-05-12 16:09:26
+154,Isabella Moraes,917.352.608-86,860372418,matheus69@example.net,0900 499 8916,"Viela de Novaes
+São Cristóvão
+32715949 Farias do Campo / AP",Cidade Anonimizada,Pará,46711497,1953-06-22,65+,Oftalmologista,Cavalcante Pires Ltda.,15921,1.65,79.2,29.1,97149,3522418060551782,754,9,2023-11-01 01:58:40
+155,Nina Correia,379.528.061-30,471835262,fmonteiro@example.net,+55 (081) 7585-1166,"Viela de Sampaio
+Cardoso
+38214698 Araújo / SC",Cidade Anonimizada,Alagoas,55660-367,1988-09-01,36-45,Perfumista,Correia,48650,1.8,84.4,26.0,62533,566751657354,824,19,2023-09-13 06:37:55
+156,Lunna Albuquerque,206.453.719-80,43506812X,leandrorodrigues@example.net,(081) 6866 3277,"Passarela de Rocha, 5
+Lourdes
+63349-439 da Mata do Amparo / PE",Cidade Anonimizada,Rio Grande do Sul,76858745,1969-06-23,56-65,Gerente de inovações ou novos negócios,Correia,34376,1.93,79.8,21.4,98572,3570640062090037,782,16,2025-06-20 23:08:27
+158,Lunna da Paz,246.187.359-37,048531728,da-cunhahellena@example.net,21 4044 1945,"Vila de Rios, 805
+Nova Gameleira
+71631446 Ferreira / MT",Cidade Anonimizada,Rio Grande do Norte,98700210,1948-04-21,65+,Profissional de reciclagem,Pires - EI,6213,1.9,93.0,25.8,5086,675916340747,564,13,2022-04-10 01:41:49
+159,Ana Sales,927.106.854-85,701452833,diego12@example.com,11 6944 6152,"Vale Andrade, 790
+Vila Havaí
+20396-547 Barbosa de Goiás / MG",Cidade Anonimizada,Santa Catarina,90061682,1992-03-29,26-35,Ortoptista,Ferreira - EI,5182,1.55,94.3,39.3,84109,4996793864450166,561,11,2024-11-10 20:28:58
+161,Srta. Caroline Azevedo,590.124.683-70,801542637,danielcamara@example.org,+55 (084) 2573-7424,"Vale Barbosa, 98
+Delta
+29856-580 Sá de Peixoto / RS",Cidade Anonimizada,Rio de Janeiro,77260-982,1966-07-30,56-65,Gari,da Rocha Vargas S/A,26637,1.59,61.3,24.2,90475,4774000269940553,478,16,2023-03-20 21:27:11
+162,Benicio da Luz,685.072.413-44,870356148,iduarte@example.org,(011) 2133-8601,"Jardim de Alves, 724
+Cardoso
+23990-571 da Mota de Araújo / RR",Cidade Anonimizada,Rondônia,00887-494,1971-12-03,46-55,Capitão,da Rosa da Rocha e Filhos,16352,1.53,85.9,36.7,43767,4261289602405,737,15,2021-10-29 17:30:50
+163,Eloá Pacheco,268.547.103-08,358761025,marinapinto@example.com,+55 41 8764 0480,"Colônia Ester Borges, 739
+Vila Santo Antônio Barroquinha
+03249-327 Porto dos Dourados / AP",Cidade Anonimizada,Rio Grande do Norte,92409157,1964-01-04,56-65,Engenheiro físico,Aparecida,21535,1.74,64.8,21.4,66455,343290923784550,783,3,2024-08-03 08:53:20
+164,Sra. Ana Laura Almeida,549.280.673-47,750642130,yribeiro@example.com,(061) 8101-9558,"Fazenda Fernandes, 18
+Vila Ecológica
+16641347 Nogueira Verde / MG",Cidade Anonimizada,Mato Grosso do Sul,44729728,1981-08-12,36-45,Apicultor,Mendonça,47167,1.8,101.6,31.4,92496,4760670659355814,476,20,2021-11-25 12:31:07
+166,Dr. Levi Albuquerque,195.867.340-48,642831075,isaacdias@example.org,51 9473 8866,"Fazenda Cardoso, 36
+Delta
+91516-119 Novaes / MS",Cidade Anonimizada,Sergipe,95848-124,1986-02-25,36-45,Amolador de ferramentas,Martins,7720,1.84,107.8,31.8,51651,3545336138415645,549,10,2024-07-29 06:14:59
+167,Bento da Cruz,912.743.065-07,753142685,antonio33@example.com,84 9229-6209,"Sítio de da Cunha
+Vila São Gabriel Jacui
+11970-501 Aparecida / PR",Cidade Anonimizada,Espírito Santo,07574294,2000-09-13,18-25,Engenheiro de energia,Pires,4366,1.64,115.4,42.9,62875,180014746079501,483,14,2022-07-14 21:48:55
+169,André Sousa,190.346.285-15,583412671,rael95@example.net,21 3076 7388,"Distrito de Mendes, 14
+Vitoria Da Conquista
+91212-016 Rocha / PE",Cidade Anonimizada,Tocantins,33982968,1959-05-10,65+,Presidente da República,Gomes,35648,1.75,83.7,27.3,43939,6011135356035954,423,3,2021-06-10 23:00:49
+171,Bruna Caldeira,815.269.037-68,36045821X,yagorocha@example.com,31 1561-1429,"Setor Pietro Ramos
+Corumbiara
+87885985 Pastor / RO",Cidade Anonimizada,Distrito Federal,57474-170,1989-05-22,36-45,Representante comercial,da Mota - EI,35478,1.53,105.1,44.9,61378,4413743220734,620,13,2025-07-24 08:14:19
+172,Mirella Jesus,183.906.524-98,064587320,hmartins@example.net,(081) 1368 0328,"Viaduto Barbosa, 67
+Colégio Batista
+02846-449 Barbosa / AC",Cidade Anonimizada,Ceará,19461-390,1967-09-08,56-65,Biomédico,Teixeira - ME,35337,1.73,77.4,25.9,75516,676393118069,342,7,2022-01-04 18:04:14
+173,Paulo Montenegro,256.730.981-03,801526474,novaisyasmin@example.org,(071) 7944-7557,"Viaduto Pedro Miguel Cassiano, 39
+Jardim Guanabara
+53638-577 Alves / SP",Cidade Anonimizada,Ceará,10769793,1991-09-22,26-35,Eletricista de automóveis,Pastor,36473,1.79,72.9,22.8,22727,676358096680,730,18,2022-08-25 06:51:49
+174,Sra. Fernanda Rezende,021.365.784-80,374152809,das-nevesmelissa@example.com,21 5711-7919,"Setor de da Paz
+Vila Nova Gameleira 3ª Seção
+67179-966 Costa Grande / PR",Cidade Anonimizada,Tocantins,55098-803,1951-03-08,65+,Windsurfer,Câmara,38345,1.93,96.8,26.0,63863,30372930004970,644,16,2021-11-01 17:46:26
+175,Elisa Silva,286.175.309-95,761345206,otto94@example.com,+55 61 4902-2419,"Fazenda Isaque da Cruz, 68
+Vila Nova Dos Milionarios
+13936924 Pimenta / MT",Cidade Anonimizada,Mato Grosso do Sul,60837399,1989-01-23,36-45,Cirurgião dentista,Garcia,22737,1.75,73.1,23.9,15867,4604022439797222,726,8,2023-08-27 01:11:49
+176,Rodrigo Novais,408.569.123-60,371825404,bella81@example.org,(081) 7178-7663,"Praia de Leão, 5
+Vila Nova Gameleira 3ª Seção
+13965502 da Rosa / GO",Cidade Anonimizada,Rio Grande do Norte,96270-354,1952-07-22,65+,Capataz,Cunha,35177,1.92,73.6,20.0,27708,3537758650941767,719,1,2024-09-29 09:18:56
+177,João Felipe Silva,612.547.089-01,426508713,usales@example.net,0800-485-0351,"Estrada Silva, 168
+Vila Madre Gertrudes 4ª Seção
+44438759 Correia / GO",Cidade Anonimizada,Mato Grosso,34014-056,1952-01-30,65+,Técnico tributarista,Gonçalves Nunes - EI,25313,1.68,97.7,34.6,94683,3550980004378643,433,15,2022-09-02 15:59:39
+178,Luiz Otávio Albuquerque,386.259.074-74,528670311,gabrielramos@example.com,+55 11 2498 9783,"Colônia Maria Isis Freitas, 756
+Jaqueline
+30753920 Andrade da Mata / MA",Cidade Anonimizada,Mato Grosso,59504325,1961-07-01,56-65,Notário,da Luz Alves S/A,36620,1.53,73.0,31.2,31975,2294290258535986,409,20,2022-10-13 00:14:50
+180,Dr. Vinicius Câmara,180.246.953-24,634281707,kaique32@example.org,+55 84 8336 0008,"Residencial Vitor Gabriel Barbosa, 72
+Primeiro De Maio
+40895-102 Cardoso das Pedras / GO",Cidade Anonimizada,Pernambuco,28506-290,2004-05-12,18-25,Revisor,Caldeira,6233,1.95,92.9,24.4,16288,346730673426156,374,7,2021-05-17 14:53:53
+181,Gabriela Costela,450.316.972-61,673810549,silveiraheloisa@example.net,81 1988-5351,"Favela da Cruz, 775
+Vila Sumaré
+08615-286 Albuquerque do Oeste / MS",Cidade Anonimizada,Rondônia,01334-860,1975-06-17,46-55,Lavador,Cirino,9913,1.79,68.4,21.3,36018,4378109309787,748,9,2020-10-12 08:08:57
+182,Ian da Rocha,681.057.249-01,863124070,aylla36@example.org,+55 (081) 0520 5007,"Feira Alexia da Paz, 71
+Tirol
+42135-955 Souza / RJ",Cidade Anonimizada,Bahia,46690-724,1946-12-27,65+,Faturista,Porto - EI,31540,1.58,52.7,21.1,45455,180082913877726,616,19,2025-01-23 17:56:34
+183,Vinicius Ferreira,486.519.723-00,648725108,caionascimento@example.org,84 4129-2446,"Conjunto Leonardo Garcia, 31
+Serrano
+04075-088 Carvalho / CE",Cidade Anonimizada,Sergipe,10542-691,1962-09-05,56-65,Mecânico de vôo,Silveira Nunes Ltda.,13920,1.78,116.1,36.6,23578,4718361935334,594,9,2022-12-20 03:09:02
+184,Vitor Gabriel Gonçalves,092.753.168-21,657428139,da-luzdavi@example.com,0800 200 6996,"Travessa de Aragão, 46
+Comiteco
+82112996 Duarte de da Mata / SC",Cidade Anonimizada,Minas Gerais,93182294,2007-07-06,18-25,Conferente de carga e descarga,Moraes e Filhos,11179,1.71,63.4,21.7,37322,346011387865710,478,12,2024-08-05 07:50:07
+185,Pedro Henrique Aparecida,731.659.048-39,856032177,xvieira@example.net,+55 84 6685-2533,"Ladeira Pedro Sales, 43
+Castelo
+29588577 Freitas das Flores / RJ",Cidade Anonimizada,Amapá,34962466,1998-03-22,26-35,Governanta,Silveira Sampaio - ME,7956,1.92,114.3,31.0,66753,3571608718657490,466,18,2023-05-16 06:14:22
+186,Ana Laura da Mata,710.463.829-69,641258033,anthonymachado@example.net,(081) 1958 0070,"Residencial Carvalho, 7
+Serrano
+87118640 Castro / RN",Cidade Anonimizada,São Paulo,99199-095,1989-08-22,36-45,Lactarista hospitalar,Vieira Lopes - ME,6361,1.83,67.2,20.1,12011,4512642482654367,811,16,2025-09-26 18:02:34
+187,Dra. Jade Jesus,816.250.947-01,586032149,mayafreitas@example.net,+55 21 7849-6834,"Setor Mendonça, 43
+Nazare
+44648580 Vasconcelos / SE",Cidade Anonimizada,Tocantins,16600340,1976-07-19,46-55,Produtor fonográfico,Ferreira,27077,1.53,91.8,39.2,39689,345833110539556,550,7,2023-07-03 11:01:05
+190,Clara da Mota,028.416.539-51,017283565,anthony-gabriel49@example.net,+55 (051) 4796 6808,"Feira Lima
+Castelo
+19905878 Campos / SE",Cidade Anonimizada,Paraná,34041-779,1986-02-12,36-45,Engenheiro de iluminação,Nunes,41350,1.81,50.5,15.4,82933,344020776853429,720,7,2020-10-30 04:07:41
+191,Sra. Stephany Costela,723.601.984-40,170358628,mateus75@example.org,0900-097-9044,"Rua Ribeiro, 6
+São Paulo
+19104561 Nogueira / PB",Cidade Anonimizada,Amazonas,75408552,1975-01-31,46-55,Bioquímico,Costela,23359,1.87,108.6,31.1,66387,4876135923783465,453,2,2020-10-09 23:56:32
+192,Catarina Vieira,418.532.069-89,627453107,carvalhonicolas@example.com,+55 (041) 5102 8651,"Largo Kevin Nunes, 62
+Vila São João Batista
+78239812 Carvalho / RJ",Cidade Anonimizada,Pernambuco,03195-282,1975-02-13,46-55,Engenheiro têxtil,Fonseca,24933,1.59,64.5,25.5,55631,503826416904,569,4,2020-10-19 19:41:05
+193,Lunna Sales,480.316.927-69,05486172X,brendapereira@example.org,0800 093 0779,"Lago de Costela, 77
+Funcionários
+04196410 da Conceição de Pimenta / AP",Cidade Anonimizada,Sergipe,96228-244,1974-04-13,46-55,Quitandeiro,Cunha,41426,1.77,97.9,31.2,75898,4495997812886,648,13,2022-04-30 05:47:02
+194,Luiz Fernando da Cunha,493.720.516-16,473206183,qoliveira@example.net,(011) 6220-9030,"Viaduto de Correia, 48
+Baleia
+58316758 da Conceição das Flores / RS",Cidade Anonimizada,Paraíba,58242345,2006-08-20,18-25,Oculista,da Cruz,49872,1.88,83.2,23.5,87743,586657849400,775,18,2025-09-14 07:27:23
+195,Maria Júlia Peixoto,308.967.412-22,653712807,aylla03@example.com,81 6275 6665,"Vereda Bruna da Luz, 48
+Dom Bosco
+96459-941 Teixeira / DF",Cidade Anonimizada,Rio de Janeiro,32664613,1959-03-02,65+,Coach,Dias,34176,1.66,85.3,31.0,81687,675954718309,817,15,2021-04-24 01:45:05
+197,Sra. Marina Barros,187.623.904-22,462573813,aliceazevedo@example.org,71 5995-2949,"Viela Theodoro Vasconcelos, 63
+Confisco
+26702257 Freitas de Pinto / PE",Cidade Anonimizada,Mato Grosso do Sul,74725-340,1950-05-14,65+,Musicoterapeuta,Pinto Ltda.,4286,1.7,87.1,30.1,84205,4229322342859,520,1,2022-03-18 09:12:59
+200,Pedro Oliveira,758.213.640-35,53128704X,lrios@example.net,(041) 1327-4431,"Ladeira de Duarte, 81
+Parque São Pedro
+43548-345 Fonseca do Norte / RN",Cidade Anonimizada,Paraíba,95910316,2000-06-09,18-25,General,Fernandes,42770,1.65,99.0,36.4,16113,344672558768959,814,6,2025-06-25 15:00:20
+201,Dra. Stella Silveira,106.859.734-84,21048763X,anna-lizaraujo@example.com,+55 (081) 6310 7890,"Jardim Yago Cunha, 22
+Esplanada
+47429756 Cassiano Grande / SE",Cidade Anonimizada,Paraíba,91393053,1952-11-30,65+,Carteiro,Cardoso S/A,41416,1.72,55.6,18.8,58188,38294467316498,428,3,2022-04-22 14:56:37
+202,Maria Fernanda Porto,568.734.291-55,460382573,costelamaria-vitoria@example.net,(011) 4641-5715,"Quadra Vieira, 52
+Diamante
+31403-378 Costa de Machado / PB",Cidade Anonimizada,Mato Grosso,73640162,1984-12-31,36-45,Numerólogo,Macedo S.A.,35320,1.9,77.0,21.3,11366,4228988212007318,674,18,2025-06-23 12:45:43
+204,Maria Isis da Cruz,415.802.367-07,24618730X,lorenavargas@example.org,0500 043 4166,"Feira Isadora Almeida, 18
+Brasil Industrial
+35596-718 Moura / PA",Cidade Anonimizada,Paraná,35459363,1946-05-29,65+,Farmacêutico,da Cruz Ltda.,16259,1.62,86.3,32.9,7259,3546861050882828,772,12,2023-11-09 17:10:26
+205,Giovanna da Costa,975.410.236-80,712384509,afonseca@example.org,51 0433 9085,"Esplanada Isabela Albuquerque
+Cachoeirinha
+22421-586 Silveira do Norte / ES",Cidade Anonimizada,Goiás,40993-300,1965-05-29,56-65,Lapidário,da Paz,30725,1.64,108.6,40.4,75369,501820023221,848,0,2023-11-06 09:03:33
+206,Caroline Ribeiro,620.549.317-99,603128476,luiza14@example.org,61 8143-6520,"Vale de Cunha, 42
+Santa Tereza
+32320-417 Lopes Grande / SE",Cidade Anonimizada,Roraima,54062857,1968-04-17,56-65,Lutador de luta livre,Guerra,25221,1.66,117.1,42.5,48843,213148052535077,665,13,2022-02-01 01:11:37
+207,Emanuelly Cavalcante,798.154.023-23,438072510,agathavargas@example.net,+55 (081) 0771 5157,"Sítio Luísa Sousa, 69
+Centro
+01002336 da Conceição / MA",Cidade Anonimizada,Roraima,70934-864,1956-06-03,65+,Militar do Exército,Rodrigues - ME,6389,1.6,52.9,20.7,21105,5403305565320269,516,17,2022-10-08 02:36:57
+209,Cauê da Rosa,194.865.723-64,314056282,sampaioluiz-otavio@example.net,0900-310-0793,"Vereda de Santos, 47
+Flamengo
+62161989 Pastor / AL",Cidade Anonimizada,Amazonas,91419825,1971-04-04,46-55,Separador,Martins Cirino S/A,25514,1.72,117.2,39.6,63845,3596254228309610,790,6,2025-04-15 01:30:47
+210,Diego Castro,152.983.746-46,062371484,milenaabreu@example.com,71 3448 8758,"Condomínio Camargo, 9
+São João
+30291757 Vargas de Goiás / SC",Cidade Anonimizada,Ceará,20570786,1971-08-13,46-55,Bartender,Gonçalves S/A,25717,1.82,96.3,29.1,26371,4406637844960686035,342,8,2022-06-17 21:22:21
+212,Maria Fernanda Costa,089.465.273-74,165237843,ana-vitoriasantos@example.net,0500 627 5248,"Vereda Eloá da Costa, 10
+Xodo-Marize
+38622-394 Moreira dos Dourados / MG",Cidade Anonimizada,Tocantins,82599-603,1975-01-26,46-55,Gerente de riscos em seguros,Rocha,35600,1.93,72.0,19.3,70351,5175393934928109,691,4,2024-11-09 04:07:24
+213,Sr. Samuel Pastor,850.426.739-38,418562076,calebecamargo@example.com,(061) 6521 8963,"Lago Gael Henrique Farias, 61
+Vila Cloris
+82524161 Machado de Dias / PI",Cidade Anonimizada,Pernambuco,50724-374,2000-11-17,18-25,Lanterneiro,Moraes Fernandes Ltda.,45672,1.74,74.9,24.7,18396,349102619570587,832,15,2023-06-05 12:29:11
+214,Maria Liz Correia,510.382.769-77,701485322,wcampos@example.net,+55 (081) 1828 1588,"Estação José Machado, 25
+Vila Rica
+11729-070 Fernandes / PB",Cidade Anonimizada,Sergipe,60145-524,1980-08-01,36-45,Mergulhador,da Rocha,46362,1.83,56.2,16.8,81368,501850449866,450,16,2024-10-24 17:12:23
+215,Antonella Sales,076.159.243-16,205478360,fpacheco@example.com,+55 11 5446-9113,"Praia Clara Cunha, 94
+Novo São Lucas
+14388724 Costa Alegre / SE",Cidade Anonimizada,Mato Grosso do Sul,41757-020,1953-11-24,65+,Engenheiro de horticultura,Lima,14968,1.59,54.7,21.6,36629,3517626761018607,685,11,2021-10-05 15:11:22
+217,Maria Isis Farias,263.987.415-28,630217841,maria-vitoriacavalcanti@example.com,31 8379 4616,"Viela Ester Souza, 40
+Granja De Freitas
+55273011 Sampaio / SP",Cidade Anonimizada,São Paulo,28986-268,1961-06-14,56-65,Afiador de ferramentas,Teixeira Jesus - EI,37813,1.52,54.5,23.6,59779,4553280111961976,826,17,2025-06-18 01:18:16
+218,Sr. Mathias Moraes,193.546.702-61,587032613,jade47@example.net,+55 (084) 1925 3301,"Aeroporto de Costela, 1
+Aarão Reis
+23545-138 da Mota de Dias / SC",Cidade Anonimizada,Distrito Federal,47772-285,1981-03-30,36-45,Cobrador de ônibus,Silveira Moreira Ltda.,21163,1.67,66.2,23.7,50406,213165050400237,477,18,2022-04-30 05:57:56
+219,Vinicius Pinto,824.701.569-20,840375268,emanuelly41@example.org,0800-599-0716,"Travessa de Castro, 63
+Vila Santa Monica 1ª Seção
+03471-716 Monteiro de Goiás / PR",Cidade Anonimizada,Amazonas,09515547,1978-06-26,46-55,Promotor público/de justiça,Costa - EI,12480,1.78,97.0,30.6,95706,6514357182945022,475,11,2021-07-30 13:46:57
+220,Luigi Caldeira,970.538.261-12,57268034X,vieiraester@example.com,+55 11 0447 3871,"Campo Carolina Freitas, 825
+Pindura Saia
+23725832 Santos de Minas / AL",Cidade Anonimizada,Rio Grande do Norte,40351-984,1964-06-10,56-65,Eletricista,da Costa Cassiano Ltda.,22514,1.75,73.8,24.1,54670,5532163528467386,598,15,2023-07-10 01:26:14
+222,Dr. Vitor Camargo,285.497.103-50,483256109,das-nevesdante@example.com,+55 41 5691-5541,"Viela Lívia Guerra, 91
+Marieta 1ª Seção
+00831-712 Castro de da Costa / AM",Cidade Anonimizada,Rondônia,96863959,1965-05-10,56-65,Tecnólogo em navegação fluvial,da Cruz,18699,1.97,79.4,20.5,34519,4446190240671753,310,9,2022-05-25 04:18:21
+224,Benjamin Sampaio,190.723.548-50,561380478,nogueiramurilo@example.net,(051) 9021-6677,"Vale de Caldeira, 74
+Califórnia
+64864782 Siqueira / SP",Cidade Anonimizada,Distrito Federal,69061018,2002-05-21,18-25,Biólogo,Vieira,21102,1.88,61.0,17.3,34057,213136772170663,337,7,2025-06-16 20:56:27
+225,Srta. Maitê Lima,625.390.148-60,360428514,lorena71@example.org,+55 (071) 7856-4881,"Colônia Clara Silveira, 58
+Marçola
+68845831 Sá de Aragão / SP",Cidade Anonimizada,Pará,51979-692,1994-11-21,26-35,Coveiro/Sepultador,da Rosa,14860,1.74,93.2,30.8,50289,30377555742895,359,19,2025-07-26 06:39:33
+227,Sr. Samuel Gomes,305.629.471-16,351084678,sophie79@example.org,(021) 8753-9221,"Esplanada de Leão, 76
+Aparecida 7ª Seção
+10530592 Lopes de Nunes / PI",Cidade Anonimizada,Tocantins,19076-753,1953-12-09,65+,Enólogo,Peixoto Araújo e Filhos,3949,1.85,105.9,30.9,89363,501866659334,343,18,2024-04-06 09:32:42
+228,Agatha Ferreira,312.659.408-51,017238651,enzo23@example.net,(031) 5196-1705,"Condomínio Davi Lucca Camargo
+Paraíso
+83461873 Barros das Pedras / MG",Cidade Anonimizada,Sergipe,95234176,2003-09-22,18-25,Profissional de linguística,Rios - EI,33818,1.97,94.2,24.3,37778,5496515286532517,657,14,2022-11-23 19:46:57
+229,Júlia Pimenta,513.468.920-24,130456780,augusto00@example.org,+55 (081) 7713 1185,"Pátio Fernanda Monteiro, 86
+Andiroba
+95501660 Cardoso / ES",Cidade Anonimizada,Rondônia,00120-991,1960-12-15,56-65,Naturólogo,Melo,44273,1.67,90.3,32.4,87456,213125348827039,721,8,2023-06-19 23:54:55
+230,Beatriz Sousa,269.350.714-61,308427154,da-rosaana-sophia@example.org,+55 (084) 7080-2935,"Quadra Isaque Teixeira
+Leticia
+75185-420 Santos dos Dourados / RS",Cidade Anonimizada,Maranhão,33233-847,1992-06-25,26-35,Maquiador,Nunes,46463,1.94,84.6,22.5,8280,3554255428562593,431,11,2023-01-15 04:54:27
+231,Pedro Lucas da Costa,475.923.801-88,852610439,yago83@example.org,11 3148-2592,"Passarela Stephany Caldeira, 324
+São Jorge 3ª Seção
+96521768 Duarte / BA",Cidade Anonimizada,São Paulo,48909563,1985-10-21,36-45,Jóquei,da Rocha,29438,1.94,95.0,25.2,73927,5281624162746636,499,8,2024-08-28 08:53:19
+232,Kamilly Teixeira,904.871.352-88,813705629,beniciopereira@example.org,+55 (071) 6105 6629,"Lago Duarte, 9
+Vila Petropolis
+51529313 Cavalcanti de Minas / AM",Cidade Anonimizada,Maranhão,21152325,1971-07-26,46-55,Patinador,Casa Grande,48994,1.94,66.3,17.6,27107,060488485396,566,11,2022-08-19 01:08:41
+233,Caleb da Paz,098.153.476-75,328175602,maria-lizsiqueira@example.org,+55 (041) 5934-4700,"Ladeira Ana Lívia da Costa, 27
+Alta Tensão 2ª Seção
+85705839 Silveira Grande / RO",Cidade Anonimizada,Alagoas,44020-163,1952-01-14,65+,Diretor de fotografia,Teixeira,17585,1.66,59.8,21.7,24019,38412571044828,446,5,2022-04-04 00:34:43
+234,Juliana Duarte,294.750.863-74,275684015,maria82@example.net,0300 110 5816,"Morro de Pinto, 9
+Lindéia
+05135-243 Câmara / TO",Cidade Anonimizada,Santa Catarina,87297-995,1973-11-02,46-55,Assessor de imprensa,Aragão - ME,43460,1.93,73.0,19.6,46144,676295801408,486,3,2022-02-27 22:25:06
+236,Joaquim Mendonça,569.304.178-66,47613285X,evieira@example.net,0900 217 8445,"Fazenda Montenegro, 49
+Savassi
+16213274 Nogueira Verde / PI",Cidade Anonimizada,Pernambuco,44098214,1990-12-19,26-35,Astrônomo,Pereira S.A.,23537,1.78,117.0,36.9,13005,377266769607666,665,14,2024-02-25 05:33:03
+237,Natália Aparecida,375.401.862-08,031756426,rafaela07@example.org,(084) 6799 8429,"Largo Bianca Montenegro, 5
+Chácara Leonina
+77908-081 Guerra da Praia / PI",Cidade Anonimizada,Amapá,13106159,2005-11-18,18-25,Clínico geral,Albuquerque,8594,1.87,98.8,28.3,94897,4272190391446223731,816,2,2024-05-04 11:15:31
+238,Arthur da Conceição,749.316.520-34,17082634X,salesravi@example.net,51 8782 0902,"Trevo Aragão, 84
+Sion
+93884387 Aragão de Silva / RN",Cidade Anonimizada,Rondônia,67138-822,2007-04-18,18-25,Psicomotricista,Azevedo - ME,46161,1.79,111.8,34.9,44820,4859965309342788,559,13,2023-08-22 22:37:55
+239,Hadassa da Rocha,570.692.843-65,172508435,isis68@example.org,+55 71 1015 7329,"Chácara Ísis Borges, 55
+Vitoria
+77572-950 Freitas / PB",Cidade Anonimizada,Ceará,77928-981,1976-03-11,46-55,Faxineiro,Almeida e Filhos,30297,1.51,110.1,48.3,24590,2598199970010553,539,10,2021-05-13 05:16:52
+240,Lunna Cunha,613.802.947-03,620134756,matheus47@example.org,(031) 8460-3235,"Loteamento Costela, 3
+Maria Tereza
+54354-884 Freitas de Barros / RN",Cidade Anonimizada,Paraíba,85951228,2000-02-29,18-25,Médico,Aragão,9698,1.87,80.9,23.1,79664,2244175135365429,412,3,2023-05-29 02:03:02
+241,Dra. Marcela da Cruz,371.548.906-57,538721467,ecavalcanti@example.net,+55 (021) 1522 6532,"Via Lucca Albuquerque, 67
+Tres Marias
+99116-033 Lopes do Amparo / MS",Cidade Anonimizada,Pará,61982-404,1977-05-13,46-55,Salva-vidas,Rocha Novais e Filhos,4424,1.79,109.2,34.1,63030,3585467784626754,814,1,2022-06-14 17:37:28
+242,João Pedro Oliveira,164.073.852-53,834570622,da-pazeduardo@example.com,(011) 7532 2721,"Parque Marcos Vinicius da Mata
+Caiçaras
+96014453 Ribeiro / DF",Cidade Anonimizada,Roraima,38273421,1976-01-01,46-55,Administrador de banco de dados DBA,Vieira Moreira S/A,25393,1.6,72.4,28.3,10527,4844513697883092,738,4,2020-12-29 01:07:11
+243,Dr. Thomas Araújo,490.527.836-83,340876128,da-pazmaya@example.net,(031) 5180-8269,"Aeroporto Raul Rodrigues, 796
+Baleia
+70112690 Rezende / MT",Cidade Anonimizada,Bahia,49209-687,1958-07-08,65+,Maitre,Nogueira - EI,20525,1.82,52.0,15.7,33556,6011360275710251,520,3,2024-10-11 13:45:48
+244,Mariana Oliveira,145.327.698-09,064853718,daparecida@example.org,+55 (041) 6233-4437,"Distrito de da Cruz, 4
+Novo Glória
+25150-602 Freitas de Nunes / AM",Cidade Anonimizada,Pará,81313632,1992-12-29,26-35,Educador integrado à saúde pública,Cavalcante,38091,1.75,70.3,23.0,32661,4957115464601,440,17,2022-09-08 17:50:02
+245,Enzo Rios,098.216.473-40,673125488,maria-julia42@example.org,0300 169 2482,"Vale Manuela Alves, 87
+Bernadete
+64024-455 Correia Paulista / GO",Cidade Anonimizada,Rondônia,48350-197,1978-07-13,46-55,Profissional de áudio,Gomes,45149,1.83,56.2,16.8,97748,3543618100565354,354,17,2021-11-02 21:29:42
+246,Anna Liz Novais,593.041.872-14,560241380,andradedaniela@example.com,0300-784-2840,"Viaduto de Rodrigues, 633
+Solar Do Barreiro
+71913360 Souza / TO",Cidade Anonimizada,Mato Grosso do Sul,91573-713,1979-12-12,36-45,Auditor,Fernandes Peixoto - ME,46237,1.58,88.3,35.4,19040,180098245082892,303,14,2020-12-03 17:28:24
+247,Luiz Otávio da Mota,327.658.049-74,073564825,araujoana-livia@example.net,(081) 1048 3231,"Chácara da Rocha, 4
+Bela Vitoria
+86689-397 das Neves / PI",Cidade Anonimizada,Paraná,98469791,1987-06-23,36-45,Tatuador,Gomes,34899,1.98,109.5,27.9,27358,2703098382823706,758,3,2023-02-28 14:18:48
+248,Ana Julia Peixoto,926.041.753-80,582367141,rafael22@example.net,+55 71 5996 3220,"Favela Giovanna Teixeira
+São Sebastião
+95038-529 Caldeira / PA",Cidade Anonimizada,Amazonas,40893-430,1952-06-01,65+,Engenheiro de iluminação,Santos - ME,27812,1.9,108.2,30.0,70192,584351866861,467,14,2025-09-05 17:20:05
+249,Dr. Ravy Vargas,385.496.701-20,324075613,montenegroluiza@example.com,84 5626-3418,"Área Peixoto, 3
+Vila Da Luz
+62212-661 Lima / PE",Cidade Anonimizada,Mato Grosso,98319-441,1984-04-19,36-45,Engenheiro de produto ou produção,Dias Ltda.,13362,1.99,104.8,26.5,38373,4698411205133653,472,2,2021-04-11 00:43:33
+250,Raquel Vieira,489.517.063-20,375602410,sampaiopedro@example.com,(084) 6440 6031,"Distrito de Melo
+Alta Tensão 2ª Seção
+29103711 Vasconcelos / SP",Cidade Anonimizada,Roraima,53028-039,1981-04-05,36-45,Urologista,Pereira S.A.,44507,1.82,60.1,18.1,72582,568921674616,345,5,2023-08-28 22:30:21
+251,Dr. Yuri Alves,739.812.605-03,254381674,vargasravi@example.com,+55 31 2687-1878,"Núcleo Cardoso, 97
+Bela Vitoria
+30250-897 Cavalcanti / AP",Cidade Anonimizada,Amapá,62172-347,2007-09-26,18-25,Estilista,Silveira,36227,1.93,77.3,20.8,70240,30503704726741,486,1,2024-07-17 07:36:38
+252,Evelyn Vasconcelos,632.587.409-92,817630521,leaofernanda@example.net,(051) 2096-9543,"Residencial Moreira, 3
+Vale Do Jatoba
+94716-556 Silveira de da Rosa / RR",Cidade Anonimizada,Amazonas,63058249,1959-08-24,65+,Cenógrafo,Jesus,17509,1.91,103.1,28.3,15814,213190134759168,749,5,2023-07-07 14:26:31
+253,Enrico Camargo,278.943.160-40,02583714X,ceciliabarros@example.net,+55 (071) 9206-1533,"Distrito Heloisa Azevedo, 1
+Dom Joaquim
+36104-014 Machado do Campo / MS",Cidade Anonimizada,Pará,43909-950,1970-09-05,46-55,Cenógrafo,Martins,13722,1.62,104.2,39.7,97128,4797855333986368,844,17,2023-07-01 17:24:51
+255,Brayan Macedo,380.476.219-04,148370627,valentinavieira@example.com,+55 (071) 5326-6555,"Travessa Murilo Teixeira, 77
+Lagoinha
+70439-757 Brito das Flores / TO",Cidade Anonimizada,Tocantins,40662-224,1973-10-07,46-55,Pedagogo,Albuquerque Machado - EI,20660,1.85,66.7,19.5,16870,4969345389607,563,19,2021-12-21 02:28:26
+256,Dra. Heloisa Ramos,289.607.315-95,072346516,icamargo@example.net,+55 (051) 1850 5507,"Alameda Freitas, 6
+Suzana
+61593563 Rios / RO",Cidade Anonimizada,Espírito Santo,20208539,1988-01-20,36-45,Fotógrafo,Freitas,47862,1.82,107.1,32.3,78860,4759038757363135,591,6,2024-03-22 16:24:29
+257,Davi Ribeiro,264.817.093-69,751682408,juliana17@example.org,(021) 6055-3887,"Pátio de da Rosa, 51
+Conjunto Serra Verde
+56246458 Mendonça de Caldeira / TO",Cidade Anonimizada,Mato Grosso do Sul,90727195,1980-09-08,36-45,Maestro,Sousa S/A,17126,1.66,85.9,31.2,11337,6527901163177140,329,0,2022-05-29 10:32:18
+258,Anthony Gabriel Cavalcanti,821.907.365-95,517064388,leticiaduarte@example.com,+55 (051) 2909 8077,"Rua Rael da Mota, 29
+Granja Werneck
+50607723 Cirino / MT",Cidade Anonimizada,Amapá,79130338,1994-01-04,26-35,Odontologista estético,Novaes Cunha - ME,33146,1.5,94.0,41.8,48285,30367958683960,368,8,2025-02-07 23:04:52
+259,Lucca Vasconcelos,328.975.401-41,108324576,gpeixoto@example.net,+55 (084) 4901 2977,"Condomínio Miguel Cunha, 2
+Chácara Leonina
+96624-911 da Paz / SC",Cidade Anonimizada,Minas Gerais,20523-406,2004-01-14,18-25,Geólogo,Cavalcanti,40281,1.7,79.0,27.3,32595,6011120093715407,794,3,2024-09-27 09:11:42
+261,Davi Luiz Farias,706.234.518-08,261740830,gcardoso@example.com,+55 (081) 2546-2420,"Vale Isabela Pimenta, 82
+Cônego Pinheiro 1ª Seção
+74304-596 Cavalcanti de Costela / RO",Cidade Anonimizada,Distrito Federal,14948316,2006-02-14,18-25,Empacotador,Pimenta,41359,1.96,57.8,15.0,84101,30450237552196,624,13,2023-02-17 01:21:01
+263,Ravy Silveira,614.235.798-28,781034620,monteirolivia@example.net,0300-430-0862,"Área Vitor Hugo da Rocha, 717
+Dom Cabral
+38208659 Freitas / MT",Cidade Anonimizada,Rio Grande do Norte,40380822,1969-11-29,46-55,Controller,Novais,3550,1.63,91.9,34.6,60382,6011578305234345,421,8,2022-01-11 06:55:46
+264,Thiago Duarte,021.798.346-40,742056314,pimentaalicia@example.com,+55 21 5460-7401,"Viaduto da Rocha, 119
+Vila Sesc
+64591671 Pacheco / RO",Cidade Anonimizada,Santa Catarina,52985-908,1962-05-06,56-65,Técnico em agropecuária,Moreira S.A.,9477,1.96,50.3,13.1,35994,3501711778999284,836,2,2024-02-18 23:43:34
+265,Srta. Liz Albuquerque,096.582.471-30,438650219,pachecoliz@example.org,+55 (051) 9964 0553,"Chácara Pereira, 2
+Jardinópolis
+65352872 Fogaça das Pedras / RS",Cidade Anonimizada,Distrito Federal,94629-084,2004-01-14,18-25,Reumatologista,da Cruz,35490,1.53,75.8,32.4,54030,376707342573579,605,20,2024-03-06 19:49:17
+266,Anthony Gomes,562.190.437-07,386457219,ramosfernanda@example.com,+55 31 2804-6839,"Avenida de Costa, 51
+Novo São Lucas
+19011-707 Peixoto de Minas / PI",Cidade Anonimizada,Mato Grosso,75335-134,1953-12-17,65+,Engenheiro agrimensor,da Conceição,20444,1.88,89.4,25.3,48971,4197608684997239832,541,11,2020-11-17 22:39:28
+267,Emanuelly Aragão,590.432.817-60,265781048,joao-pedronovais@example.com,41 5708-0582,"Morro Cavalcante, 31
+São Bento
+88424385 Silveira da Serra / BA",Cidade Anonimizada,Mato Grosso do Sul,94986-688,1991-02-21,26-35,Empresário,Casa Grande,6562,1.57,59.4,24.1,38678,4461711738299763,572,4,2024-01-11 17:06:05
+268,Bento Brito,025.847.169-76,074328153,maria-flor49@example.org,+55 41 8675 3150,"Chácara de Cavalcante
+Colégio Batista
+79207022 Pimenta / DF",Cidade Anonimizada,Roraima,31337-319,1981-09-14,36-45,Promotor público/de justiça,Caldeira Cavalcanti e Filhos,21165,1.75,53.7,17.5,26820,344189214648301,556,10,2021-05-04 18:38:20
+269,Srta. Eloah Marques,851.297.304-88,473518065,xguerra@example.com,0300 907 3029,"Núcleo Alves, 47
+Vila Nova
+56699974 Cassiano de Barros / SC",Cidade Anonimizada,Sergipe,67343314,1964-03-08,56-65,Empresário,Nogueira,42671,1.75,106.2,34.7,52485,3561781828537621,708,14,2021-08-26 18:54:12
+270,Gael Guerra,348.916.520-98,52687031X,costagael@example.com,0800 922 8422,"Núcleo Pastor, 62
+Aparecida 7ª Seção
+76116-177 Teixeira do Amparo / MS",Cidade Anonimizada,São Paulo,69987-962,1982-01-27,36-45,Neurologista,Leão,14466,1.62,66.4,25.3,94224,4501874188520,525,13,2022-09-26 01:19:37
+271,Dra. Hellena das Neves,163.954.802-51,28546307X,henry-gabrielcamara@example.net,(061) 4522-0008,"Ladeira Davi Pereira
+Vila Pinho
+88851570 da Luz / SP",Cidade Anonimizada,Santa Catarina,84955209,1991-10-11,26-35,Gerente de riscos em seguros,Sá,19997,1.91,57.0,15.6,39211,3543015327887291,655,6,2020-10-27 03:18:49
+273,Hellena Novais,025.617.843-71,76120345X,cirinoaylla@example.com,+55 51 4120 3549,"Vila de Aparecida
+Santa Tereza
+12524-572 Silveira de Goiás / RO",Cidade Anonimizada,Rio Grande do Norte,47388429,1960-05-03,56-65,Encarregado de manutenção predial,Fernandes,13878,1.8,73.1,22.6,22704,213119915126495,451,9,2024-11-06 22:40:23
+275,Dr. Mateus Costa,970.516.834-20,504781364,da-cruzayla@example.org,0800-736-8670,"Jardim Cassiano, 85
+Vila Betânia
+56763250 Viana do Oeste / PB",Cidade Anonimizada,Acre,87028215,2004-06-29,18-25,Promotor de vendas,Teixeira S.A.,14487,1.81,88.2,26.9,57810,2652975548478809,791,7,2023-10-22 20:59:54
+277,Cecilia Moura,381.290.475-60,305746121,ebarbosa@example.net,0800-626-8633,"Estação Marcelo Barros, 64
+Jardim Do Vale
+56565877 Pimenta do Oeste / MA",Cidade Anonimizada,Rio de Janeiro,87618568,1968-12-04,56-65,Taxista,Santos S.A.,23277,1.62,92.1,35.1,83288,6520959555005672,418,2,2023-11-23 21:58:21
+278,Maria Helena Abreu,958.307.216-86,768135205,camposemilly@example.org,41 5011 5615,"Rua Freitas, 5
+Belvedere
+29449-959 Vasconcelos / ES",Cidade Anonimizada,Pará,55828924,1997-04-04,26-35,Geriatra,Silva Siqueira e Filhos,30859,1.84,83.6,24.7,9713,563265646825,650,19,2022-07-07 12:05:52
+279,Felipe Brito,192.650.483-60,540831621,davi-lucas38@example.net,71 2902 8897,"Viela Nascimento, 11
+Vila Maria
+47623675 Oliveira de Goiás / PR",Cidade Anonimizada,Tocantins,50665062,1993-11-28,26-35,Físico,Andrade Marques Ltda.,43333,1.65,113.2,41.6,54119,343549650135199,636,6,2024-07-19 18:24:07
+280,Felipe Lopes,375.896.024-00,820153679,mendesana-beatriz@example.net,(084) 9351 8521,"Residencial Campos, 54
+Vale Do Jatoba
+81987-490 da Rosa das Flores / RO",Cidade Anonimizada,Tocantins,22502-827,1989-10-31,26-35,Laboratorista,Jesus,36529,1.5,65.5,29.1,49226,4172767307765742213,758,2,2021-03-23 06:47:46
+281,Elisa Pimenta,136.420.975-61,276853040,luanda-mata@example.net,+55 71 7830-5998,"Via Leandro Pereira, 98
+Virgínia
+49953-761 da Costa Alegre / RR",Cidade Anonimizada,Rio de Janeiro,76655-039,2006-01-08,18-25,Endocrinologista,Porto S.A.,25133,1.72,113.1,38.2,26264,4065867372536140,506,18,2024-02-01 21:53:33
+282,Maria Isis Ramos,921.053.874-97,810563241,lmontenegro@example.net,(011) 4717-9055,"Vereda Cecília Pastor, 7
+Jardinópolis
+12501-521 Costa da Serra / AP",Cidade Anonimizada,Paraná,37830-337,1952-01-16,65+,Lamboteiro,Cardoso Caldeira Ltda.,12521,1.92,92.2,25.0,98523,4123346518530986,612,5,2021-06-13 16:37:40
+283,João Vitor Costa,689.245.301-51,751806249,cardosokamilly@example.com,+55 (051) 7643-7689,"Pátio Vicente da Luz, 82
+Vila Jardim Leblon
+85588-785 Ferreira do Oeste / SE",Cidade Anonimizada,Rio Grande do Norte,41255-529,1979-03-19,46-55,Motofrete,Azevedo Rios Ltda.,4761,1.8,75.2,23.2,86441,3568629025980008,763,13,2023-05-06 04:19:19
+284,Sr. Diogo Araújo,953.748.201-41,285041678,yabreu@example.net,+55 84 1369 6475,"Distrito Garcia
+Santa Monica
+44938-151 Rodrigues do Campo / PI",Cidade Anonimizada,Pernambuco,83531565,1976-10-19,46-55,Cartunista,Rios,38897,1.92,57.1,15.5,48786,2286168150554034,746,13,2021-10-24 19:26:05
+285,Sarah Novaes,507.831.426-17,23605174X,laraujo@example.org,+55 11 1727 5621,"Passarela Vinícius da Cruz, 156
+Vila Santo Antônio Barroquinha
+40729-831 da Luz / TO",Cidade Anonimizada,Mato Grosso,83203-069,1999-02-23,26-35,Consultor,Peixoto,14705,1.79,71.9,22.4,72368,213173218258794,375,9,2022-07-22 20:13:51
+287,Emanuella Mendes,216.903.478-13,504768219,maria-alice61@example.com,61 9803-4156,"Viaduto de Pires
+Guaratã
+50238253 Rocha da Prata / MG",Cidade Anonimizada,São Paulo,05312-539,1962-05-22,56-65,Geólogo,Peixoto,29781,1.98,58.2,14.8,43839,348047111016103,605,11,2025-05-14 07:19:49
+288,Ana Júlia Peixoto,974.018.523-14,015784368,marcela54@example.org,0900 245 8025,"Vila de Gomes
+Jardim Leblon
+60430945 Nunes / MT",Cidade Anonimizada,Minas Gerais,92334-178,2004-04-07,18-25,Ecólogo,Martins,25329,1.52,109.5,47.4,37803,30220738141033,591,15,2023-05-05 03:51:13
+289,Ayla Fernandes,208.536.719-40,156704286,da-luzanthony@example.org,+55 (071) 0322 2277,"Área de Marques, 48
+Novo Aarão Reis
+44372-707 Machado do Oeste / PR",Cidade Anonimizada,Santa Catarina,79087-290,1995-06-02,26-35,Prensista,Caldeira Porto - ME,8170,1.81,109.7,33.5,40799,213148671602464,585,0,2023-02-01 17:56:53
+291,Dra. Ana Cecília Cardoso,731.954.806-20,567148026,rochabenicio@example.com,+55 61 8618-2687,"Condomínio Henry Gabriel Sousa, 76
+Vila Santa Monica 1ª Seção
+47668-020 Barros / TO",Cidade Anonimizada,Alagoas,96516-899,2005-11-09,18-25,Dublador,Rios,28830,1.97,55.5,14.3,50186,3596793846211179,324,8,2021-07-26 09:27:09
+292,Luiz Henrique Ribeiro,489.152.706-49,315870643,moreiralivia@example.org,+55 (051) 4193-4425,"Vale Gustavo Henrique Cardoso, 866
+Pirineus
+86427104 Rodrigues do Galho / RO",Cidade Anonimizada,Rondônia,45281465,2005-05-23,18-25,Tenista,Martins Porto Ltda.,11495,1.76,105.6,34.1,88009,30044393465028,444,6,2023-05-26 05:25:45
+293,Murilo Teixeira,985.604.237-29,87320654X,heitor86@example.com,(051) 4878-9143,"Rodovia de Cirino, 531
+São João Batista
+19300-029 da Cunha de Nogueira / PB",Cidade Anonimizada,Paraíba,59127-695,1985-12-09,36-45,Ortopedista,Correia e Filhos,10470,1.91,65.1,17.8,42405,4660832697178,466,18,2022-10-05 11:05:51
+295,Ana Beatriz Barbosa,109.253.678-77,814075320,raquelmendes@example.com,+55 84 4668-3868,"Avenida de Fernandes, 4
+Vila Satélite
+83403760 Machado / MT",Cidade Anonimizada,Pernambuco,78235511,2005-05-15,18-25,Produtor musical,Pires Freitas Ltda.,35056,1.64,79.3,29.5,92425,4894677171714,424,5,2025-05-11 03:28:35
+296,Ayla Rios,754.328.069-83,156704389,sousarhavi@example.net,(041) 8278 6313,"Morro da Cunha, 98
+Estrela Do Oriente
+61171680 Nogueira / AL",Cidade Anonimizada,Minas Gerais,97688-657,1946-03-06,65+,Ginasta artística,Dias Azevedo S.A.,45631,1.7,65.9,22.8,5361,3535263624739662,489,2,2023-05-27 19:45:04
+297,Sr. Ian Rocha,092.187.345-04,560731826,aurora83@example.org,+55 31 2895 9302,"Feira Almeida, 39
+Caiçaras
+37604-115 Lopes de Goiás / PI",Cidade Anonimizada,Paraná,39080460,1986-09-26,36-45,Gestor de tecnologia da informação,Aparecida Santos - EI,32542,1.67,89.3,32.0,20975,6597570962136279,367,2,2021-01-18 17:25:04
+298,Clarice Garcia,678.951.403-10,807163521,trezende@example.com,(041) 8691-0419,"Setor de Lima, 87
+Solar Do Barreiro
+09963913 da Mota / SE",Cidade Anonimizada,Paraná,20460008,1947-01-26,65+,Encanador,Andrade Dias S/A,44362,1.66,88.4,32.1,59828,4979501783998,748,4,2023-07-06 19:34:23
+299,Srta. Vitória Nunes,389.617.054-66,728546309,gustavo-henriquemachado@example.org,+55 (031) 9889 6172,"Feira Guilherme Andrade, 682
+Madri
+00214351 Pires Grande / RN",Cidade Anonimizada,Ceará,71108-607,1953-05-19,65+,Peixeiro,Sá Oliveira e Filhos,28165,1.52,78.6,34.0,86594,3536333297473896,353,4,2022-08-24 16:33:06
+300,Sr. Luiz Miguel Farias,094.357.128-60,172346058,pedrocostela@example.org,+55 11 5396-9213,"Praia de Fonseca, 673
+Túnel De Ibirité
+72781-411 da Paz do Oeste / MS",Cidade Anonimizada,Distrito Federal,42601866,1994-01-05,26-35,Marketeiro,da Cunha e Filhos,42607,1.88,80.5,22.8,81883,2235404873566829,636,8,2022-06-16 17:06:44
+301,Isaac Sales,940.837.216-69,658132404,davi-lucascassiano@example.net,(031) 9947-1727,"Favela de Pereira
+Vila Batik
+40625-062 Vargas / PB",Cidade Anonimizada,Pará,17315368,1955-07-24,65+,Violonista,Silva Cavalcante e Filhos,13158,1.83,60.7,18.1,70423,342683502545510,679,5,2020-11-11 14:56:50
+303,Diego Camargo,810.476.395-48,276534013,barbosalarissa@example.com,(051) 9200 1963,"Viela Pastor, 44
+Vila Trinta E Um De Março
+67325-089 Duarte Grande / ES",Cidade Anonimizada,Alagoas,75479657,2002-02-19,18-25,Entalhador,Ferreira,14354,1.54,119.6,50.4,20113,2695564734226245,664,3,2022-09-12 00:57:15
+304,Renan Marques,416.352.897-00,025734684,thalesmarques@example.org,0900 627 9868,"Loteamento Siqueira, 233
+Jatobá
+76216-471 Cavalcante / AC",Cidade Anonimizada,Alagoas,92031-490,1991-04-16,26-35,Paginador,Correia Lopes e Filhos,31801,1.79,111.6,34.8,59071,213191217258813,461,4,2022-12-09 15:31:28
+306,Emanuel Gonçalves,094.875.216-58,18534267X,rioslorena@example.net,+55 (061) 0338-3033,"Recanto de Vargas
+Saudade
+00273960 Mendes / PI",Cidade Anonimizada,Amazonas,71936-138,1984-06-07,36-45,Terapeuta Holístico,Rezende,16806,1.84,82.5,24.4,71087,213192991854272,349,8,2021-07-10 00:28:06
+307,Yasmin Barbosa,904.351.762-34,461852032,sousahenry@example.org,+55 (081) 1216 1101,"Estação de Vieira
+Vila Bandeirantes
+24491-228 Jesus de Correia / AC",Cidade Anonimizada,Distrito Federal,66338574,1982-11-14,36-45,Pianista,Rezende da Conceição S.A.,25361,1.7,73.1,25.3,34186,630406424683,744,8,2022-02-26 15:13:44
+309,Manuella Campos,041.365.879-10,04258176X,fpacheco@example.org,+55 84 9740 4679,"Fazenda Porto, 6
+Dom Cabral
+18703203 Camargo / AP",Cidade Anonimizada,Mato Grosso,55571738,1985-08-10,36-45,Soldador,Costela Abreu - ME,49829,1.84,83.1,24.5,22314,4912509486097586,806,16,2023-06-17 06:16:31
+310,Bárbara Fonseca,216.590.843-42,58174620X,qrocha@example.org,+55 (071) 8442 2080,"Trecho Brito, 47
+Pindura Saia
+87400444 Borges da Prata / GO",Cidade Anonimizada,Pernambuco,42649-110,1990-03-02,26-35,Revendedor,Cunha,35541,1.96,52.9,13.8,6634,6506609389255401,728,1,2024-10-19 13:33:53
+311,Davi Luiz da Mata,971.382.405-97,472536187,fernandesalice@example.net,+55 (084) 5845-7749,"Lagoa Guerra, 25
+Vila Das Oliveiras
+19868-782 Marques / AC",Cidade Anonimizada,São Paulo,92327-479,1949-12-20,65+,Tintureiro,Abreu - ME,8944,1.63,119.6,45.0,71447,3541499538800941,614,18,2025-05-14 23:57:34
+312,Srta. Sabrina Barros,190.583.627-95,270364857,pietrojesus@example.net,(051) 6040 3034,"Pátio Cunha, 99
+Ouro Minas
+19923135 Aparecida / RR",Cidade Anonimizada,Ceará,56335172,1956-12-20,65+,Comprador,Albuquerque Rezende S/A,7878,1.71,53.4,18.3,7026,3510372454865809,834,4,2021-05-19 07:49:22
+313,Vinicius da Rosa,791.326.540-06,856714306,qmacedo@example.com,(084) 0920-0852,"Largo de Cavalcante, 537
+Lindéia
+60840392 Santos / RS",Cidade Anonimizada,Paraná,36472309,1989-03-31,36-45,Técnico em taquigrafia,Caldeira,38245,1.69,58.9,20.6,43946,376072246500370,771,18,2025-09-22 03:47:49
+314,Ana Beatriz Sampaio,241.609.738-50,075624837,qda-cruz@example.com,+55 84 7819 5603,"Alameda Ian da Rocha, 566
+Vila Das Oliveiras
+45848-383 Abreu / ES",Cidade Anonimizada,Piauí,90504636,2007-06-01,18-25,Engenheiro sanitarista,Novais,15862,1.68,103.2,36.6,73441,3554256397523913,742,6,2021-08-17 00:41:54
+315,Lucas Gabriel Vargas,412.897.035-23,546370184,pereiravalentina@example.org,+55 (061) 4259-3188,"Morro de Siqueira, 3
+Nova Cachoeirinha
+36381105 Carvalho / AL",Cidade Anonimizada,Bahia,63616183,1977-07-29,46-55,Ator,Abreu Sá Ltda.,16800,1.8,61.9,19.1,21852,3583837867211793,666,3,2021-05-13 14:56:12
+316,Vitor Hugo Borges,305.746.921-34,421578634,gabriela85@example.com,+55 (031) 6097-0118,"Área Mirella Rios, 15
+Esplanada
+28396438 Cavalcante / PR",Cidade Anonimizada,Rio Grande do Sul,52460507,1947-12-20,65+,Terapeuta floral,Macedo,10796,1.56,102.7,42.2,64056,4508598381067385013,650,1,2021-09-10 00:20:38
+317,Vitor Hugo da Rocha,631.259.874-82,234580768,raquelda-cruz@example.org,(031) 0010 5784,"Largo Abreu
+Esperança
+56799-768 Freitas / SE",Cidade Anonimizada,Mato Grosso,23121-996,1998-03-26,26-35,Meredeira,Viana,23520,1.61,74.8,28.9,45674,4246202683195786,556,4,2023-02-21 20:55:32
+318,Bento Porto,917.204.865-49,732584164,anthony-gabrielleao@example.com,(041) 4588 8211,"Praia Ryan Albuquerque, 36
+São José
+63932763 Casa Grande / PE",Cidade Anonimizada,São Paulo,98910-719,1991-05-19,26-35,Veterinário,Novais,13276,1.74,104.4,34.5,33713,4467224961043720,367,0,2024-03-28 06:42:27
+319,Bento Carvalho,476.920.538-47,031758265,ksampaio@example.net,+55 31 9694 5294,"Ladeira Ana Cecília Teixeira, 6
+Vila Califórnia
+80991503 Pimenta / PI",Cidade Anonimizada,Alagoas,69102-294,2003-11-07,18-25,Atuário,Souza S.A.,4585,1.63,79.0,29.7,39535,370595030291919,472,0,2024-01-15 11:32:51
+320,Nicolas das Neves,964.578.120-58,61532048X,ana-livia58@example.net,(061) 4201-9868,"Setor de Rezende, 33
+São Salvador
+36489-105 Pereira / SC",Cidade Anonimizada,Alagoas,45959-808,1959-10-13,65+,Marketeiro,Siqueira,6588,1.89,69.1,19.3,75774,4984052532224614719,586,1,2025-05-07 00:26:24
+321,João Miguel Alves,543.168.920-70,430687126,da-cunhaaurora@example.com,+55 71 6228 5479,"Jardim Henrique Brito, 13
+Paquetá
+41448621 Nunes de Goiás / TO",Cidade Anonimizada,Rio Grande do Norte,15743-267,1946-09-16,65+,Tecnólogo em silvicultura,Araújo,15695,1.6,93.3,36.4,6456,502078570442,508,19,2024-10-06 05:23:37
+323,Samuel Brito,271.869.345-28,463271051,ocunha@example.com,21 4371-2758,"Colônia Rodrigues, 6
+Vila Copasa
+22169-716 Rodrigues / PI",Cidade Anonimizada,Alagoas,76753-979,1946-02-08,65+,Publicitário,Moraes,8445,1.53,106.4,45.5,7108,36257245411040,480,3,2021-04-16 01:53:08
+324,Bianca Barbosa,357.041.698-48,63852071X,laura78@example.org,+55 31 5250-4864,"Estrada José Pedro Alves
+Vitoria Da Conquista
+97813-959 Azevedo Grande / PB",Cidade Anonimizada,Alagoas,72937-977,2005-10-19,18-25,Eletricista,Cavalcante,39801,1.66,78.5,28.5,90065,4611483236987161,553,3,2022-11-21 10:55:30
+325,Henry Gabriel Machado,592.406.738-65,861450371,ana-liz95@example.com,+55 (021) 7919-0817,"Distrito de Caldeira, 5
+Novo Glória
+61864-219 Barbosa / PE",Cidade Anonimizada,Santa Catarina,56057-676,1977-06-03,46-55,Gestor de qualidade,Moraes,37139,1.53,96.5,41.2,78618,4370343088213467784,818,0,2023-05-05 05:45:58
+326,Rodrigo Sales,461.893.027-69,237641586,aylla57@example.com,(021) 7616-7896,"Núcleo de Silveira, 2
+Jardim Do Vale
+80491483 Sá / PE",Cidade Anonimizada,Mato Grosso,85154-870,1980-03-17,36-45,Tecnólogo em papel e celulose,Cavalcante,49427,1.79,79.9,24.9,69931,3507368856185288,802,1,2022-06-22 19:07:30
+327,Dr. José Miguel Novaes,790.541.386-10,37062841X,yansampaio@example.net,+55 (084) 9131 3787,"Distrito de Moura, 99
+Vila Vista Alegre
+06764-377 Viana das Pedras / TO",Cidade Anonimizada,Rondônia,43238-315,1981-01-04,36-45,Dublê,Teixeira,17098,1.93,75.9,20.4,20863,30171545292891,802,18,2021-06-21 19:12:06
+328,Vicente Sampaio,173.650.849-01,730152844,olivia24@example.com,+55 61 4013 8701,"Trevo Mateus Araújo
+Conjunto Celso Machado
+92876601 Pinto do Sul / RR",Cidade Anonimizada,Sergipe,91487-917,1954-10-04,65+,Caixa,Cavalcanti,42932,1.52,56.9,24.6,70702,4986431479282,631,5,2025-03-14 05:58:14
+330,Brayan Vargas,596.437.281-37,580427614,vda-costa@example.org,51 4090 4091,"Avenida de Gomes, 4
+Vila Nova Cachoeirinha 2ª Seção
+99721537 Moraes do Campo / PB",Cidade Anonimizada,Pernambuco,24752765,1955-02-24,65+,Trilheiro ou músico de cinema,Camargo,44897,1.98,65.9,16.8,6527,4671678068925489,496,1,2024-08-11 07:31:42
+331,Sra. Beatriz Sousa,253.798.164-28,286701340,maria-claracavalcanti@example.net,31 1193-0275,"Trecho de Sousa, 31
+Garças
+52168833 Gonçalves / PA",Cidade Anonimizada,Maranhão,40191454,1973-03-04,46-55,Orientador educacional,Ramos Novaes Ltda.,40308,1.61,77.5,29.9,97188,675992812593,831,18,2025-05-22 01:15:17
+332,Sr. Antony Cirino,680.352.941-05,251637840,alvesluara@example.com,(011) 3918-6949,"Condomínio de Abreu, 3
+Garças
+96826-115 Rezende / MG",Cidade Anonimizada,Alagoas,32984833,1989-04-23,36-45,Contabilista,Fogaça S/A,35664,1.8,88.3,27.3,81283,3593798557219918,519,18,2021-02-22 22:53:57
+333,Gustavo Henrique da Mota,271.930.854-41,750268438,guerraeloah@example.net,+55 11 4141 6558,"Chácara de Garcia, 14
+Cdi Jatoba
+02136068 Cunha / RN",Cidade Anonimizada,Rio de Janeiro,72463-140,2004-05-26,18-25,Profissional de hotelaria,Rios,16050,1.75,84.0,27.4,45935,4144766854467433,538,10,2023-05-04 17:24:42
+334,Dra. Bella Costela,126.439.750-06,528746133,diego10@example.com,51 0482 9792,"Praça Dante Pires, 46
+Novo Aarão Reis
+20456-566 Peixoto / MS",Cidade Anonimizada,Rio de Janeiro,75154-161,1946-02-24,65+,Eletricista,Novais Cirino e Filhos,43293,1.56,69.0,28.4,53066,5391408993530444,559,20,2021-05-07 15:48:18
+335,Sra. Ana Julia Vieira,037.845.216-90,317802562,milena17@example.org,(041) 0190-9308,"Residencial de Farias, 9
+Belvedere
+33572015 Azevedo / AM",Cidade Anonimizada,Rio Grande do Sul,30098129,1990-06-15,26-35,Soldador,Ferreira,21755,1.82,72.5,21.9,89567,3595797215272309,624,16,2024-05-20 22:39:32
+336,Nicole Farias,793.280.651-86,675108433,heitor33@example.org,(051) 6259-2698,"Campo de Almeida, 45
+Minas Brasil
+21904-924 Moura do Sul / AC",Cidade Anonimizada,Amapá,84106521,2002-07-31,18-25,Embalador,Machado,20588,1.82,99.6,30.1,47624,213126453858157,674,5,2023-09-30 08:56:38
+337,Benjamin Pereira,431.985.260-51,508326412,pastorjuan@example.net,+55 41 5283 1682,"Rua Almeida, 38
+Cardoso
+83772633 Caldeira / RS",Cidade Anonimizada,Bahia,20727749,1948-02-03,65+,Técnico em radiologia,Campos,30950,1.57,70.9,28.8,74648,3501689991556026,747,19,2022-02-28 06:53:24
+338,Yago Albuquerque,194.673.508-66,23567140X,sarahmoraes@example.net,+55 84 0560-5073,"Parque Moreira, 37
+Jardim Vitoria
+43662799 Lopes do Galho / AL",Cidade Anonimizada,Maranhão,22677-302,1975-04-10,46-55,Barman,Jesus,48244,1.95,67.5,17.8,12900,4193154244714824,357,2,2020-12-15 13:06:41
+339,Srta. Hadassa Pinto,752.894.103-41,215483674,borgessofia@example.net,(084) 8765 9371,"Morro Mariah Leão, 1
+Nova Cintra
+22246-867 Moura do Sul / PI",Cidade Anonimizada,Rio Grande do Sul,99699-188,1973-06-24,46-55,Endocrinologista,Castro Ltda.,12825,1.91,60.9,16.7,79361,4846421602287,614,11,2024-08-06 08:06:51
+340,Dr. Joaquim Lopes,916.703.284-22,871463052,da-rochaalice@example.org,71 1676 6026,"Chácara de Costela
+São Geraldo
+77429-050 Almeida Verde / MG",Cidade Anonimizada,Pará,05722154,2003-05-01,18-25,Aeroviário,Ribeiro Cardoso S.A.,27225,1.52,113.9,49.3,95936,180087126788495,643,4,2023-06-12 00:13:49
+341,Benicio Albuquerque,294.617.530-80,412607852,ana-luiza38@example.org,31 1947 1040,"Lagoa Otávio Duarte
+Monte Azul
+30926-153 Peixoto / BA",Cidade Anonimizada,Santa Catarina,23049-111,1959-11-17,56-65,Artista de circo,Pacheco,12909,1.67,79.0,28.3,71630,378967845449705,702,6,2025-09-11 15:09:45
+344,Ian Porto,058.213.479-04,165734826,zmartins@example.com,+55 81 2145-9241,"Sítio Liz Martins, 226
+Vila São Rafael
+19650-881 Cunha / PI",Cidade Anonimizada,Rio de Janeiro,33235556,1971-02-10,46-55,Cientista de alimentos,Borges,25364,1.93,54.8,14.7,53437,6580722725644680,572,16,2021-08-25 08:02:26
+345,Lunna Pimenta,409.278.165-20,125703685,manuella66@example.org,(071) 0398-2528,"Trecho de Freitas, 84
+Vila Sesc
+71771-879 Vasconcelos / RR",Cidade Anonimizada,Alagoas,16411243,1992-10-06,26-35,Garimpeiro,Araújo,18238,1.63,84.6,31.8,24114,3504487987826769,429,5,2024-08-13 14:20:47
+346,Maria Luísa Cavalcante,730.164.859-66,458721037,sarah92@example.net,0300 459 9752,"Esplanada de Garcia, 24
+Vila Atila De Paiva
+12456-428 Sales da Prata / RS",Cidade Anonimizada,Pará,41149-245,1957-02-01,65+,Jogador de basquete,Guerra S.A.,17818,1.93,93.1,25.0,9835,213111300723119,616,12,2021-12-28 23:35:41
+347,Fernanda Souza,647.092.531-61,160328470,thomascavalcanti@example.com,(084) 1913-0050,"Avenida Casa Grande, 177
+Nova Cachoeirinha
+85992-462 Guerra do Norte / BA",Cidade Anonimizada,Goiás,87299061,1958-08-05,65+,Assessor parlamentar,Nunes Ltda.,6251,1.97,82.4,21.2,21902,4636618143199,375,5,2023-04-18 14:32:27
+348,Ana Lívia Ribeiro,850.247.169-49,641580320,bvasconcelos@example.net,61 2404 1046,"Núcleo Rezende, 57
+Estrela
+25578-988 Araújo de Leão / RS",Cidade Anonimizada,Sergipe,40637-893,1977-11-29,46-55,Hostess,Mendonça,6004,1.53,91.6,39.1,47752,3581153228947519,563,4,2021-10-25 17:44:51
+349,Jade Aparecida,176.908.324-31,462173057,elisacassiano@example.com,21 9423 7163,"Rodovia Dias
+Providencia
+66582-459 Santos de Garcia / PA",Cidade Anonimizada,Rio de Janeiro,21621840,1987-11-17,36-45,Navegador,Guerra,38906,1.77,112.7,36.0,96044,503886570780,788,19,2022-11-26 01:53:47
+350,Felipe Rios,734.106.982-13,648015233,zoe21@example.com,84 0862-7837,"Lago Eloá Ribeiro, 6
+Vila São Paulo
+00897940 Siqueira / AL",Cidade Anonimizada,Tocantins,68908-860,1972-04-05,46-55,Engenheiro elétrico,Mendonça,5519,1.71,96.5,33.0,46993,4057218891116248,465,4,2024-11-01 15:17:16
+352,Lara Rios,152.879.643-82,753082469,brunanascimento@example.com,84 3842-3747,"Trevo Luan Lima, 36
+Vila Betânia
+51126674 Sampaio / RJ",Cidade Anonimizada,Amapá,15740-878,1975-01-24,46-55,Subprefeito,Vasconcelos,18916,1.74,97.2,32.1,99077,569626405082,552,9,2025-03-24 12:00:14
+354,Isabella Viana,823.975.140-79,25807436X,sophierodrigues@example.org,+55 81 0925-5156,"Recanto Alícia das Neves, 2
+Olaria
+66691-825 Mendonça / RR",Cidade Anonimizada,Piauí,81727634,2006-12-25,18-25,Engenheiro físico,da Luz,4661,1.68,51.7,18.3,72246,6519403103354038,354,10,2021-01-19 14:08:15
+355,Juliana Cavalcanti,560.483.729-65,514062381,garciabenicio@example.com,+55 (081) 7434-4600,"Morro Vicente Rocha, 169
+Sport Club
+34205-475 Fernandes / RO",Cidade Anonimizada,Pernambuco,60007149,1989-11-18,26-35,Professor,da Mota,30270,1.97,96.1,24.8,72520,4416577300616122,488,4,2024-12-30 20:21:28
+356,Emanuel Novais,074.389.251-88,420315871,bmelo@example.com,+55 (084) 4550-9282,"Lago Sampaio, 78
+Nova Floresta
+96044415 Barbosa / DF",Cidade Anonimizada,Goiás,22194410,1963-03-23,56-65,Cartazeiro,Montenegro Moraes - ME,33230,1.7,97.3,33.7,83483,3590895267841834,318,16,2021-05-02 23:13:08
+357,Davi Lucas Cirino,286.471.059-58,30581462X,pedro-miguelmendonca@example.org,61 0609-3036,"Fazenda de Mendes, 508
+Fazendinha
+12892415 Moura / AP",Cidade Anonimizada,Bahia,49139076,1979-08-25,46-55,Karateca,Aragão,16107,1.74,83.9,27.7,62827,4375095030265929,636,9,2023-06-14 20:18:18
+358,Luísa Mendes,214.950.673-43,342067515,psantos@example.net,84 0098 1589,"Trecho Novaes, 44
+São Gonçalo
+40080-585 Caldeira / MA",Cidade Anonimizada,Distrito Federal,06786209,1980-09-03,36-45,Protético dentário,das Neves,17825,1.98,68.5,17.5,78815,30151832516970,671,19,2021-08-24 04:35:36
+359,Milena Casa Grande,763.425.190-99,632581748,fonsecarafaela@example.org,61 4982-4007,"Sítio Abreu, 68
+Penha
+01909-301 Cirino do Sul / AL",Cidade Anonimizada,Bahia,56117-630,1976-04-16,46-55,Guarda roupeiro,da Rocha,22932,1.52,74.6,32.3,81407,3516725020126796,799,12,2025-02-26 00:07:09
+360,Cauã Moreira,052.794.816-02,862317459,maria-luisa02@example.net,(084) 2541-2940,"Ladeira de da Conceição, 10
+Pompéia
+77461-555 Cardoso / MA",Cidade Anonimizada,Mato Grosso,16434273,1964-07-09,56-65,Office-boy,Pastor Sales S.A.,18981,1.54,65.3,27.5,95121,4520588698785089875,409,5,2022-01-18 04:17:23
+361,Benjamim Melo,018.697.245-85,605132847,barbaraferreira@example.com,+55 (051) 6026 1062,"Praça de da Luz, 5
+Conjunto Jardim Filadélfia
+85243439 Sales / RJ",Cidade Anonimizada,Roraima,03322-434,1984-09-15,36-45,Gerente de banco,Santos S/A,30156,1.83,92.5,27.6,93606,6011311232228648,409,15,2022-10-21 18:09:39
+362,Ana Julia Rezende,967.102.583-86,320486175,icardoso@example.org,21 1243-0704,"Lagoa Arthur Miguel Dias
+Granja Werneck
+63710-686 Guerra do Oeste / SE",Cidade Anonimizada,Santa Catarina,73251158,1968-05-11,56-65,Lapidário,Aragão,33112,1.94,54.5,14.5,31303,676303423328,650,10,2024-08-04 23:53:15
+363,Rebeca Ramos,302.946.517-99,857243615,dcardoso@example.net,+55 (011) 3611-7741,"Loteamento Melo, 90
+Vila Da Ária
+76525-929 Gomes / AP",Cidade Anonimizada,São Paulo,38171-462,1993-04-12,26-35,Profissional de logística,Rocha,17457,1.85,95.1,27.8,26159,2709984397639100,596,12,2021-03-14 09:13:09
+364,Dr. Carlos Eduardo Carvalho,639.152.708-30,136405782,vpires@example.com,84 6258-3147,"Trecho de Lopes, 94
+Oeste
+34826-031 Farias Alegre / MG",Cidade Anonimizada,Minas Gerais,47222-894,1958-10-10,65+,Tapeceiro,Souza,22429,1.72,68.2,23.1,76234,38669455305704,397,3,2024-10-24 04:36:57
+365,Bento Aparecida,725.496.180-76,517234865,evelyn59@example.net,+55 41 2649-1170,"Vila Luna Cunha, 36
+Pindura Saia
+87675843 Camargo de Monteiro / RJ",Cidade Anonimizada,Roraima,30106981,1977-02-25,46-55,Timoneiro,Gomes Jesus e Filhos,25755,1.81,89.7,27.4,57534,3522364042925332,751,8,2021-11-01 11:31:30
+366,Sarah Silveira,758.349.106-10,632745812,silveirayasmin@example.com,+55 71 3613 7703,"Aeroporto Heitor Pinto, 421
+Alto Dos Pinheiros
+56615-595 Farias / AC",Cidade Anonimizada,Paraná,17169439,1957-11-07,65+,Taifeiro,Mendonça,12894,1.86,52.6,15.2,79305,676188512856,382,16,2024-03-28 00:28:23
+367,Miguel Vasconcelos,450.397.681-84,047235184,giovanna34@example.net,(061) 8461-3467,"Jardim de Rodrigues, 567
+Casa Branca
+01799755 Caldeira / MT",Cidade Anonimizada,Amazonas,14610942,1985-06-28,36-45,Diretor de fotografia,Andrade,39539,1.62,120.0,45.7,30985,4195915896375693206,576,2,2023-07-26 01:49:49
+368,Mariane Fonseca,620.457.918-58,451380277,omontenegro@example.com,41 0846-7851,"Rua da Mata, 34
+Cidade Jardim Taquaril
+59986-143 Cardoso de Farias / AM",Cidade Anonimizada,Piauí,72731547,1962-10-26,56-65,Profissional de manutenção industrial,Dias Cassiano - ME,13228,1.85,58.7,17.2,64466,4039958724366295898,763,17,2022-10-18 03:22:46
+370,Dr. Diogo Farias,136.542.097-34,78341206X,fduarte@example.com,21 4365 8780,"Quadra de Cirino, 7
+Bernadete
+67647-143 Nogueira / DF",Cidade Anonimizada,Alagoas,98965173,2007-01-21,18-25,Coveiro/Sepultador,Ferreira,10038,1.9,114.1,31.6,30090,213176700906143,446,20,2022-11-15 07:18:23
+371,Francisco das Neves,130.678.945-10,634807158,arezende@example.com,31 5154 4030,"Lago Kevin Gomes, 3
+Vila Barragem Santa Lúcia
+19436-619 Moraes da Serra / PA",Cidade Anonimizada,Sergipe,16588-156,1944-12-03,65+,Apicultor,Brito,46363,1.86,89.1,25.8,85655,2278033196040010,471,10,2024-09-15 19:46:07
+373,Ana Laura Gomes,038.674.519-66,268405372,gmoura@example.org,81 3677-3671,"Campo Ribeiro, 799
+São Vicente
+64814163 Fonseca / RR",Cidade Anonimizada,Amapá,64245293,2006-04-23,18-25,Projetista mecânico,Cavalcanti Azevedo Ltda.,23384,1.69,87.5,30.6,32141,36598854303345,377,20,2024-11-21 00:02:07
+375,Raquel Cunha,568.234.791-91,534018622,lviana@example.org,+55 (081) 5342-1395,"Rodovia Garcia, 67
+Mantiqueira
+94400-674 Silveira da Prata / SP",Cidade Anonimizada,Amapá,61637232,1997-01-08,26-35,Juiz de direito,Caldeira,25114,1.91,55.8,15.3,6681,4533429680042594,489,6,2023-07-06 17:26:11
+376,Srta. Hadassa Pereira,123.567.940-34,763482511,nogueiralorena@example.com,11 9174 7629,"Passarela Yago Cunha, 75
+Diamante
+86616-295 Ferreira do Amparo / MT",Cidade Anonimizada,Maranhão,35540808,1972-06-10,46-55,Terapeuta Holístico,Monteiro Correia S/A,35067,1.87,62.5,17.9,62119,344419485483157,812,12,2021-04-20 04:55:37
+377,Sra. Emanuelly Pereira,913.286.704-22,45270831X,mda-mota@example.org,0800 231 7966,"Trecho Novais
+Camponesa 2ª Seção
+20132232 da Cruz Verde / DF",Cidade Anonimizada,Distrito Federal,64905-542,1988-02-27,36-45,Assistente de produção,Pastor,42493,1.6,88.2,34.5,11944,2272256185831885,778,16,2021-02-11 03:34:36
+378,Juan Casa Grande,750.683.914-84,38567014X,barrosjulia@example.net,+55 (041) 3793-4330,"Esplanada de Azevedo, 72
+Chácara Leonina
+40067-439 Costa / TO",Cidade Anonimizada,Ceará,07767044,1990-11-16,26-35,Técnico em documentação,Pereira - ME,8028,1.57,68.5,27.8,78340,3527827518883651,616,1,2021-11-01 07:23:03
+379,Isaac Garcia,978.634.125-28,01485627X,anovaes@example.org,+55 51 0381 3229,"Praia Sousa
+Varzea Da Palma
+83193486 Fonseca / ES",Cidade Anonimizada,Rondônia,29273-987,1983-11-14,36-45,Profissional de comércio exterior,Pereira,28936,1.53,50.6,21.6,10823,3534506684896579,353,5,2020-12-03 10:08:05
+380,Marcela da Cruz,720.416.985-94,546807318,gpacheco@example.net,0900 370 4536,"Viela Calebe Leão, 505
+Vila Minaslandia
+72812-900 Castro / SE",Cidade Anonimizada,Piauí,19209119,1990-01-01,26-35,Trompetista,Almeida,18723,1.67,53.2,19.1,53046,6599010311979648,461,15,2024-07-12 11:12:37
+381,Maria Isis Pimenta,293.786.415-55,362580741,pietromartins@example.com,+55 71 7772-1049,"Sítio de Rios, 23
+Ventosa
+81959-990 da Mata de Cavalcanti / BA",Cidade Anonimizada,Santa Catarina,50476-710,1955-03-13,65+,Meredeira,Araújo,31911,1.69,119.7,41.9,76702,4851791956354,830,18,2020-11-29 15:08:04
+382,Lucas Cavalcante,780.132.594-04,513047827,barbara47@example.org,+55 71 9630 8318,"Distrito Luiza Oliveira, 5
+Floramar
+42075159 Rocha / DF",Cidade Anonimizada,Pernambuco,55187-930,2004-10-30,18-25,Ginecologista,da Conceição Ltda.,44379,1.72,63.6,21.5,60700,4220669044903092,440,8,2025-02-27 06:34:38
+384,Sara Duarte,093.125.687-95,863547023,ipastor@example.org,+55 51 7314 9402,"Vila Borges, 68
+Álvaro Camargos
+79180060 Abreu de Brito / PR",Cidade Anonimizada,Espírito Santo,23674970,1987-11-18,36-45,Baterista,Pacheco S/A,24670,1.75,83.4,27.2,7943,676332874178,407,11,2024-10-30 17:44:36
+385,Rebeca Pires,370.294.615-25,027481566,joao-felipe18@example.org,0300 976 3939,"Condomínio de Aragão, 45
+Vila Maria
+47560-059 Caldeira de Mendes / RR",Cidade Anonimizada,Paraíba,85403-040,1957-12-14,65+,Engenheiro de energia,Cirino Ramos S/A,24329,1.92,111.6,30.3,61498,4097187257144,419,20,2022-03-07 21:07:36
+386,João Guilherme Farias,465.371.089-93,137425089,heloisa52@example.org,0900 285 2706,"Praia Pires, 12
+Tiradentes
+33402060 Silva / AC",Cidade Anonimizada,Ceará,08324-910,1966-01-14,56-65,Acupunturista,Marques,25068,2.0,108.0,27.0,62379,503887423872,639,4,2025-06-01 02:43:40
+387,Rebeca Barbosa,041.678.923-40,051386744,miguelpeixoto@example.net,(061) 7188 9696,"Avenida de Casa Grande, 85
+Vila Madre Gertrudes 4ª Seção
+11292037 da Paz / PI",Cidade Anonimizada,Rio Grande do Sul,12629648,1979-03-23,46-55,Técnico de gesso,Camargo Siqueira - ME,3517,1.51,63.5,27.8,83511,349361827793528,491,4,2025-03-25 18:42:09
+388,Josué Rocha,204.378.961-96,126054873,zduarte@example.com,51 5464 7656,"Rodovia Théo Silveira, 73
+Acaiaca
+61730-204 Fernandes Grande / RO",Cidade Anonimizada,Espírito Santo,93340372,2002-03-26,18-25,Crítico,Mendonça,7405,1.93,82.7,22.2,21624,343914767103045,538,17,2021-10-30 00:30:19
+389,Luiz Henrique Vasconcelos,852.071.436-62,560348174,aparecidadaniela@example.net,+55 (051) 8098 9579,"Aeroporto Brito
+Boa Vista
+11584-769 da Rocha da Prata / SC",Cidade Anonimizada,Rio Grande do Norte,08704-826,1957-07-15,65+,Engenheiro ambiental,Costela,9975,1.76,93.0,30.0,65546,4791108946109913330,313,17,2025-03-10 16:30:52
+390,Lunna Casa Grande,697.453.812-09,035871623,kamilly01@example.org,71 0108 9680,"Distrito Ana Luiza Nogueira, 25
+Granja De Freitas
+20529374 Lopes da Mata / TO",Cidade Anonimizada,Amazonas,25731-982,1952-11-16,65+,Taxista,Vasconcelos,32776,1.95,111.2,29.2,92311,6011388211725901,803,7,2022-06-30 14:46:40
+391,Enzo Fernandes,712.840.536-44,053742813,rebecadias@example.net,+55 84 6165-9008,"Parque Lavínia Lopes, 735
+Vila Da Ária
+46492957 Cavalcanti / SP",Cidade Anonimizada,Roraima,27239-615,1991-11-28,26-35,Investigador particular,Casa Grande,35701,1.88,88.0,24.9,68300,180011405471920,363,12,2024-08-04 08:27:31
+392,Pedro Lucas Pereira,216.790.845-85,807215363,joaquim14@example.org,+55 (081) 1602 1470,"Largo Souza, 25
+Planalto
+04160-864 Ferreira Grande / MS",Cidade Anonimizada,Roraima,52479-298,1966-01-27,56-65,Faxineiro,Gonçalves,22140,1.85,93.6,27.3,12411,6011644355616789,696,1,2022-10-18 14:12:53
+393,Manuella Moura,538.704.196-01,784326502,zpinto@example.net,(051) 8668 3936,"Distrito Gonçalves, 94
+Santa Sofia
+87175-752 Camargo Verde / MS",Cidade Anonimizada,Alagoas,34100-240,1988-04-24,36-45,Cerimonialista,Melo das Neves S.A.,7512,1.72,63.6,21.5,87005,2591797120352226,671,11,2021-12-20 14:54:29
+394,Dra. Sarah Rocha,168.920.435-42,104872639,theo14@example.net,0300 696 6716,"Largo Rodrigues
+Santa Rita De Cássia
+37554121 Castro de Cirino / PE",Cidade Anonimizada,Ceará,65381-994,1969-04-08,56-65,Percursionista,Vasconcelos da Conceição - EI,6336,1.94,118.9,31.6,33583,4818257950980144,445,1,2022-05-08 23:36:24
+395,Daniela Costela,013.468.257-26,746852101,josue25@example.org,31 8212 0344,"Fazenda Maria Liz Cassiano, 349
+Vila Antena Montanhês
+45381-633 Caldeira / MT",Cidade Anonimizada,Rio de Janeiro,43181-821,1983-09-23,36-45,Químico,Araújo,7413,1.62,77.2,29.4,51626,343821475922618,746,1,2024-11-06 16:26:39
+396,Bento Porto,035.816.749-39,067832143,leticiacavalcanti@example.org,0900-557-2617,"Feira Davi Lucca Jesus
+Outro
+31505-394 Mendes / SE",Cidade Anonimizada,Acre,32610-759,2000-11-29,18-25,Contábil,Gonçalves,5766,1.88,90.5,25.6,78426,4326630929744335,439,7,2022-07-20 02:18:51
+397,Luan da Cunha,251.394.608-15,178405267,mirellada-paz@example.com,+55 11 6185 4086,"Trevo Cauã da Luz, 89
+Vila São Gabriel
+39339747 Fogaça de Camargo / RS",Cidade Anonimizada,Sergipe,66582588,1987-06-04,36-45,Agente de defesa sanitária,Leão - EI,3160,1.77,115.6,36.9,30826,4457708044704979,453,2,2021-09-15 03:12:56
+398,Heloísa Rios,894.162.053-89,42315087X,andradegabriela@example.org,+55 81 5689 8954,"Favela de Macedo, 539
+Itapoa
+65791-403 Rocha / TO",Cidade Anonimizada,Piauí,62594875,1963-01-29,56-65,Capoeirista,Marques da Rosa e Filhos,4488,1.93,59.8,16.1,38800,4851391046747723817,646,20,2023-04-13 11:49:07
+399,Ana Liz Lopes,275.839.106-68,542173682,davi-miguelmelo@example.com,+55 51 0831 4318,"Vereda Mendonça, 1
+São Sebastião
+19437691 Macedo das Pedras / TO",Cidade Anonimizada,Espírito Santo,87548-093,2000-03-01,18-25,Embalador,Cunha S.A.,4115,1.82,74.9,22.6,44976,5586027975310784,773,3,2024-06-22 21:18:59
+400,Sr. Bryan Mendonça,461.735.890-01,236175841,ana-laura63@example.org,+55 (021) 1322 6621,"Loteamento de Barros
+Primeiro De Maio
+78917-924 Rocha / PR",Cidade Anonimizada,Mato Grosso do Sul,06057-379,1987-09-11,36-45,Radialista,Moreira,37577,1.66,111.6,40.5,34415,3534299730084578,769,18,2024-01-28 01:06:55
+401,Dra. Ana Luiza Camargo,398.052.617-86,804357213,nathan20@example.com,0500-520-0868,"Estação Paulo Vargas, 87
+Leonina
+08450-251 Alves / DF",Cidade Anonimizada,Rio Grande do Sul,00967503,1945-02-12,65+,Barman,Pimenta,20832,1.57,101.3,41.1,54578,4547954818188229,718,10,2022-08-05 16:05:18
+402,Ana Julia Moura,483.572.196-91,187325467,agatha05@example.com,+55 81 2983-8918,"Lago Giovanna Jesus, 12
+Estrela Do Oriente
+49373-536 Pereira da Prata / MT",Cidade Anonimizada,Pará,29218811,1978-02-04,46-55,Lutador de taekwondo,Sousa Câmara Ltda.,4599,1.96,101.9,26.5,15457,213180597882045,797,8,2021-10-16 09:39:09
+403,Vitória Melo,785.461.029-02,378460250,theonascimento@example.org,+55 31 5616-0715,"Via Campos, 91
+Universo
+88588-891 Peixoto / MS",Cidade Anonimizada,Distrito Federal,23144716,2003-12-08,18-25,Produtor de audio visual,Câmara,36932,1.97,51.9,13.4,94039,4247787062050155,568,20,2025-05-25 20:28:14
+405,João Pedro Pacheco,943.827.501-05,370124868,benjamimvargas@example.com,11 6461 5204,"Conjunto de da Costa, 3
+São Bernardo
+62407217 Peixoto do Galho / MA",Cidade Anonimizada,Rondônia,10547685,1967-01-03,56-65,Ourives,Souza,29548,1.73,80.8,27.0,26790,4832394996560646320,501,0,2025-05-19 02:08:25
+406,Evelyn Lima,729.450.618-30,143760828,anamonteiro@example.org,0300 620 0078,"Núcleo de Lopes, 43
+Atila De Paiva
+37816-435 Cavalcante Grande / AM",Cidade Anonimizada,São Paulo,44232-834,1949-11-06,65+,Atleta de nado sincronizado,Leão,42331,1.65,53.5,19.7,35292,2293233160129069,782,18,2023-06-05 19:09:30
+407,Sr. Marcos Vinicius Moraes,508.364.912-89,218035640,leticiacorreia@example.net,41 6083-9435,"Jardim Moraes, 21
+Conjunto Lagoa
+19916-985 Fonseca / PR",Cidade Anonimizada,São Paulo,78576-642,1955-12-04,65+,Artesão,Porto,32569,1.57,97.5,39.6,14074,6011531703700292,790,16,2021-09-17 18:09:34
+408,Mariana Correia,067.891.234-31,042873150,joao-lucasmonteiro@example.net,+55 (081) 6091-1772,"Passarela de Garcia, 90
+Alto Caiçaras
+48973829 Cassiano / AL",Cidade Anonimizada,Pará,03314-122,1975-04-09,46-55,Aviador,Pires S/A,45152,1.66,89.6,32.5,67306,30294793401699,811,17,2022-05-02 23:23:35
+409,Maya da Conceição,309.682.175-59,178502340,lauraleao@example.org,0800 846 5981,"Morro Teixeira
+Mangabeiras
+77738-307 Campos / MT",Cidade Anonimizada,Paraíba,20873770,1962-05-18,56-65,Faturista,Araújo,46192,1.72,65.2,22.0,20316,4788197085301848,709,8,2023-01-13 21:26:51
+410,Maria Clara Sousa,258.946.103-89,571820633,castrothomas@example.org,+55 (011) 0836-9093,"Condomínio Duarte, 96
+Virgínia
+55015996 Brito da Praia / RJ",Cidade Anonimizada,Piauí,25580831,2007-09-02,18-25,Engenheiro de segurança do trabalho,Pimenta Nogueira Ltda.,5049,1.78,78.8,24.9,74850,3501943062997571,644,12,2020-11-05 00:41:04
+412,Danilo Freitas,178.059.326-03,327501686,vicente49@example.net,+55 (071) 7173-6832,"Viela Rhavi Jesus, 77
+Santana Do Cafezal
+00676-843 Carvalho dos Dourados / PB",Cidade Anonimizada,Roraima,70725-200,1973-04-27,46-55,Mágico,Lima Pires e Filhos,9081,1.75,90.0,29.4,68329,4005743716342558788,751,13,2021-06-30 13:30:23
+413,Srta. Brenda Almeida,731.089.564-93,610475836,daniel04@example.org,0500 387 3775,"Fazenda de Pires, 32
+Minaslandia
+70426190 Nunes / PR",Cidade Anonimizada,Paraíba,42016926,1985-09-08,36-45,Profissional de relacionamento com investidores RI,Ferreira,31739,1.65,108.3,39.8,61157,3589812219153351,782,18,2024-12-21 07:13:04
+414,Renan Novais,408.639.251-89,301547865,wda-mota@example.net,(084) 4080 8977,"Rodovia Arthur Gabriel Siqueira, 49
+Vila Madre Gertrudes 4ª Seção
+74480-582 Vasconcelos da Prata / AP",Cidade Anonimizada,Sergipe,95238893,1965-05-16,56-65,Preparador de máquinas,Gonçalves,31746,1.53,69.3,29.6,92422,4077177878281,600,18,2025-05-19 12:41:16
+415,Enzo Gabriel Barros,032.697.814-31,734026584,esiqueira@example.org,(031) 2440 6002,"Sítio de Cardoso, 9
+Santa Terezinha
+54810-465 Leão do Oeste / SC",Cidade Anonimizada,Amapá,57668444,1994-07-24,26-35,Ginasta artística,Borges Abreu - ME,12532,1.66,70.6,25.6,88095,4940136048215,338,17,2022-10-15 11:28:06
+416,Noah Araújo,058.613.792-03,807452130,davi-miguel01@example.com,+55 41 4540-5883,"Rua Rezende, 85
+Olhos D'água
+73967851 Sousa / SC",Cidade Anonimizada,Alagoas,62372-294,1954-11-14,65+,Paparazzo,Almeida,14194,1.55,97.2,40.5,61677,6543608712247353,593,12,2022-09-09 14:01:39
+417,Gabriela Sales,962.048.157-76,438256712,qcampos@example.com,+55 (011) 7129-0361,"Condomínio Almeida, 50
+Novo Tupi
+22394161 Camargo / BA",Cidade Anonimizada,Piauí,65757702,1989-08-16,36-45,Polidor de produção,da Cruz,19398,1.63,75.1,28.3,90342,4022413342965,633,16,2023-01-18 07:57:52
+418,Raquel Martins,795.830.162-68,163728045,piresgael@example.com,+55 61 9722-6943,"Feira de Novaes, 79
+Palmeiras
+03156-592 Alves / TO",Cidade Anonimizada,Paraná,60268-090,1946-10-17,65+,Quadrinista,Azevedo,17954,1.53,102.1,43.6,60219,4088293027066461,705,12,2025-04-13 08:36:14
+419,Anthony Fogaça,920.176.453-70,520178646,wmoreira@example.org,0500 669 9279,"Campo de Sales
+Belvedere
+42356-543 Montenegro / AC",Cidade Anonimizada,Rondônia,12965-034,1988-12-17,36-45,Pedagogo,Pinto,45716,1.51,59.7,26.2,21855,3564811175515289,742,13,2023-03-25 05:27:22
+420,Thales da Costa,061.498.237-50,725608341,gabrielaramos@example.com,+55 (051) 2402-5695,"Campo Catarina Farias, 887
+Lorena
+63336780 Araújo da Prata / CE",Cidade Anonimizada,São Paulo,01875-354,1999-05-11,26-35,Corretor de seguros,Nunes e Filhos,45221,1.72,71.0,24.0,25651,4005217280875359,688,15,2023-07-01 23:38:47
+421,Anthony Gabriel Silva,051.782.369-12,743018564,juliana76@example.com,+55 81 3460-5118,"Distrito Moraes, 10
+Bonfim
+15541-980 Rios / PR",Cidade Anonimizada,Pernambuco,60094808,1984-05-03,36-45,Tecnólogo em navegação fluvial,Cavalcanti,3847,1.74,61.4,20.3,97112,676102875223,382,17,2020-12-03 22:24:35
+423,Júlia Moreira,628.593.107-03,206158749,lnogueira@example.com,0800-652-4267,"Quadra Mirella Mendes, 90
+Vila Cloris
+38866967 Cardoso / AC",Cidade Anonimizada,Rio Grande do Sul,42170-127,1993-08-07,26-35,Seguidor de compras,Silva - ME,35708,1.55,89.8,37.4,47698,2393970809182830,832,15,2021-02-28 19:46:15
+428,Vitor Hugo Azevedo,398.150.274-41,47082136X,fernanda21@example.org,+55 31 4333-4998,"Fazenda Carvalho, 7
+Caiçaras
+98314-166 Leão / CE",Cidade Anonimizada,Distrito Federal,02154-542,1988-07-31,36-45,Promotor de eventos,Nogueira Nascimento - ME,46181,1.78,57.0,18.0,49789,3555631691193630,722,11,2020-11-30 17:12:19
+429,Sr. Arthur Gabriel Câmara,850.613.792-68,527418067,duarteravi@example.net,(081) 4410 7720,"Travessa de Vieira, 66
+Floramar
+65804-316 Costa de Moreira / RR",Cidade Anonimizada,Sergipe,25833-418,2004-11-15,18-25,Sushiman,Cassiano,25729,1.77,107.8,34.4,64871,6555788998151571,795,18,2022-04-27 16:40:36
+431,Vitor Hugo Ribeiro,034.691.875-84,458620373,maria-clara17@example.net,41 2370-5091,"Trecho Alves, 34
+Laranjeiras
+96245425 Cassiano de Pires / SE",Cidade Anonimizada,Distrito Federal,15022-782,1982-07-09,36-45,Pastilheiro,Azevedo,31504,1.87,55.1,15.8,11702,4978115635472679,615,6,2021-05-30 14:45:06
+432,Srta. Beatriz Cavalcante,619.840.275-49,40672135X,melinanovaes@example.com,(041) 9701-5879,"Viela Freitas, 38
+Vila Nova
+21314-717 Lopes da Prata / GO",Cidade Anonimizada,Rio Grande do Sul,97952850,1975-04-25,46-55,Comprador,Pacheco Novais - ME,12942,1.89,55.4,15.5,87748,5499747805949529,598,13,2025-04-21 22:45:10
+433,Bruno Vargas,649.385.102-51,632758144,luiza97@example.com,81 6589 3581,"Estrada de Novais
+Frei Leopoldo
+85256-450 Cavalcanti da Serra / PA",Cidade Anonimizada,Pará,90969-979,2004-12-17,18-25,Técnico em tratamento de água,Moreira,41402,1.69,88.1,30.8,88316,36255826719435,850,8,2024-07-28 09:24:48
+434,Luiza Costa,514.076.239-07,30871524X,ssampaio@example.net,61 5309-3635,"Setor Peixoto, 84
+Conjunto Paulo Vi
+44622778 da Rocha da Mata / RN",Cidade Anonimizada,Rio Grande do Norte,30900784,1959-01-05,65+,Engenheiro metalúrgico,Mendonça da Mota e Filhos,20824,1.86,118.6,34.3,55599,4952935901556115,709,5,2021-02-20 15:06:20
+435,Asafe Santos,927.864.350-56,415763083,rodriguesmaria-alice@example.net,+55 11 5287 8814,"Trecho Guerra, 491
+Santa Rosa
+77970-830 Martins / ES",Cidade Anonimizada,Sergipe,45135017,1957-05-25,65+,Jogador de boliche,da Mata,41140,1.6,107.4,42.0,43301,30586456303603,591,11,2022-11-04 18:23:37
+436,Ana Beatriz Gomes,594.761.032-99,487305267,luigicastro@example.com,+55 21 2076 1384,"Praça de Pires
+Nova America
+35527627 Sousa / RJ",Cidade Anonimizada,Paraíba,76546442,2002-02-07,18-25,Modelista,Cavalcante,31456,1.67,55.3,19.8,98526,376618179365833,762,17,2023-10-25 21:39:05
+438,Benicio Barros,934.815.602-06,160324580,oliveiradavi-lucca@example.org,11 1275-5751,"Rua Fernando Pinto, 344
+Minas Caixa
+71644890 da Rocha dos Dourados / PI",Cidade Anonimizada,Pará,81117607,1954-02-15,65+,Ombudsman,Fogaça,4376,1.94,111.1,29.5,95805,4706938504582925,534,16,2023-11-02 15:44:29
+439,Anthony Leão,386.270.591-95,374856011,machadoeduardo@example.net,+55 31 6545 1394,"Morro de Barbosa, 48
+Vila Barragem Santa Lúcia
+30022308 Ribeiro / SP",Cidade Anonimizada,Amapá,59693-573,1972-07-01,46-55,Baixista,Garcia Cassiano e Filhos,14292,1.5,95.5,42.4,17837,675928076446,603,3,2025-06-24 05:52:52
+440,Dra. Milena Câmara,859.601.342-33,831762457,maragao@example.org,0500-235-8875,"Esplanada Azevedo
+Vera Cruz
+05726-029 Garcia do Oeste / MG",Cidade Anonimizada,Rondônia,24952441,1988-08-10,36-45,Grafologista,Leão,27174,1.52,89.2,38.6,35768,639021203737,753,15,2021-11-19 07:04:42
+441,João Felipe Pacheco,214.859.763-91,721083468,mcardoso@example.org,21 0647-6222,"Trevo Kaique Aragão, 90
+Vila Das Oliveiras
+32815107 Lopes das Pedras / AL",Cidade Anonimizada,Rio de Janeiro,64535906,1987-03-11,36-45,Ferramenteiro,Machado,22864,1.72,112.1,37.9,48178,3553209732395597,729,18,2023-11-12 11:43:35
+442,Sr. Léo Pires,783.105.294-14,285746017,fernando27@example.com,(051) 0271 4303,"Largo Brito, 370
+Grajaú
+74811-131 Rocha / PA",Cidade Anonimizada,Mato Grosso do Sul,66370-659,1984-02-20,36-45,Técnico em segurança do trabalho,Abreu,25610,1.5,109.2,48.5,18665,3506820659445906,850,3,2024-09-09 22:36:25
+444,Aylla Rezende,514.298.630-05,803145676,fernandosilva@example.net,(071) 6752-3540,"Vereda Peixoto, 12
+Dom Silverio
+55138969 Pinto / AL",Cidade Anonimizada,Piauí,40017711,1966-11-10,56-65,Médico nuclear,Teixeira,33125,1.76,84.2,27.2,83283,2671671065299168,443,1,2021-08-27 14:21:07
+445,Nicole Duarte,638.409.275-10,248170363,piresbella@example.net,+55 61 6274 2916,"Praia Davi Lucas Farias, 55
+Beija Flor
+78125963 Moraes / ES",Cidade Anonimizada,Santa Catarina,14828-691,1995-03-13,26-35,Tecnólogo em Ciências das plantas medicinais,Cardoso,23607,1.58,69.6,27.9,38366,5207806890026685,660,11,2021-07-11 01:09:19
+446,Benjamin Vieira,043.129.758-41,801723565,cavalcantedaniela@example.com,(031) 2050-2388,"Praça das Neves, 18
+Santo André
+06217734 Moura Alegre / PR",Cidade Anonimizada,São Paulo,63213670,1945-12-09,65+,Lactarista hospitalar,Lima,7879,1.8,58.6,18.1,67881,2720310586988246,563,15,2024-12-16 10:29:48
+447,Maria Luiza Ferreira,931.504.276-06,021478363,dazevedo@example.org,+55 (051) 7076-3588,"Condomínio João Lucas Correia, 44
+Vila De Sá
+67253-437 Garcia do Galho / DF",Cidade Anonimizada,Mato Grosso,42525-424,1967-10-25,56-65,Técnico em edificações,Cirino Ltda.,14471,1.87,58.0,16.6,21611,3526890155663571,768,16,2023-05-24 15:50:48
+448,Camila Caldeira,027.384.965-47,803246754,cdas-neves@example.com,+55 (081) 9285 4384,"Chácara Casa Grande, 804
+Mirante
+64141-587 Jesus / RJ",Cidade Anonimizada,Sergipe,79861-441,1985-11-23,36-45,Perito criminal,Brito S/A,26639,1.59,79.8,31.6,54371,4531230820009564,427,7,2021-11-16 07:46:52
+449,Elisa Melo,407.136.852-71,176582307,lucas-gabrielabreu@example.com,+55 (041) 9025-9348,"Praça Ramos
+Luxemburgo
+15096-848 Cunha / AL",Cidade Anonimizada,São Paulo,32874392,1981-12-26,36-45,Cadeirinha,Rios - ME,7121,1.6,98.6,38.5,22623,4459825255627,471,19,2025-04-13 16:47:23
+450,Ana Julia Guerra,120.879.436-13,65471082X,marcos-vinicius50@example.com,+55 31 0400 6521,"Estação Rezende, 471
+Vila Fumec
+22288-653 Guerra das Flores / MT",Cidade Anonimizada,Rio de Janeiro,70731-584,1951-10-23,65+,Engenheiro de telecomunicações,Pinto,36334,1.58,114.6,45.9,61552,6011226897352972,489,4,2022-09-22 06:41:29
+451,Eloah Montenegro,308.159.726-95,567413020,kpereira@example.org,+55 (084) 1870-2344,"Avenida de Gomes, 64
+Vila Havaí
+33456-098 Barbosa da Praia / MG",Cidade Anonimizada,Goiás,20333-943,1952-07-16,65+,Ilustrador,Souza,24208,1.84,63.9,18.9,44418,4022640822048293,390,0,2020-12-09 12:33:28
+453,Hellena Marques,053.476.912-80,258704639,yrios@example.org,(021) 8689 2567,"Praça de Dias, 580
+Bandeirantes
+76713951 Teixeira / SC",Cidade Anonimizada,Piauí,31815-973,1960-04-24,56-65,Regente,Lima da Cunha e Filhos,36859,1.63,110.7,41.7,40795,376447750157777,498,7,2024-10-24 19:40:02
+454,Dr. Matteo Teixeira,417.093.628-04,506472139,isaque98@example.net,11 4332 4423,"Lago Ribeiro, 93
+Planalto
+09328712 Duarte / PI",Cidade Anonimizada,Pará,65028-729,1995-01-13,26-35,Jornalista,Garcia,15220,1.84,53.5,15.8,68364,630484752922,421,10,2024-09-10 20:25:41
+455,Vitor Gabriel Garcia,086.175.394-10,652710839,eloada-conceicao@example.org,+55 (021) 8698-7029,"Recanto Luiza Pimenta, 93
+Barroca
+57669-165 Cassiano do Amparo / MS",Cidade Anonimizada,Paraná,16599-693,1970-10-14,46-55,Estatístico,Almeida,25441,1.81,92.1,28.1,55780,3575508582150562,775,15,2025-07-10 18:59:47
+457,Luna Campos,803.965.217-03,143576082,apollopeixoto@example.net,41 3719-3075,"Estação de Porto, 99
+Ipe
+38969-094 da Costa de Jesus / TO",Cidade Anonimizada,Sergipe,68315189,1973-09-09,46-55,Marcador de luz,Carvalho,22016,1.51,56.9,25.0,49355,3593082309056047,485,17,2024-05-12 10:01:58
+458,Daniel Fogaça,023.196.475-70,564018326,brayansantos@example.net,+55 (071) 1074-3211,"Estação de Macedo
+Milionario
+88067614 Carvalho de Goiás / MA",Cidade Anonimizada,Pernambuco,47060215,1970-08-12,46-55,Massoterapeuta,da Costa,34113,1.89,66.8,18.7,29711,3596920993162166,775,13,2022-06-22 17:01:37
+459,Sra. Maria Vitória Mendes,214.568.073-07,421057361,aurora23@example.net,+55 (071) 5705 0721,"Favela de Sousa, 3
+Califórnia
+78158458 Costa do Galho / GO",Cidade Anonimizada,Paraíba,51478-058,1982-07-28,36-45,Ginasta artística,Albuquerque da Conceição - EI,4351,1.7,104.1,36.0,18536,3502135744922601,794,3,2023-05-14 22:41:34
+460,Gustavo Alves,920.873.614-87,043168723,cirinoisadora@example.com,84 1555-0252,"Trevo de da Rosa, 507
+Monsenhor Messias
+12000191 Aragão de Minas / AM",Cidade Anonimizada,Amazonas,81030948,1981-12-31,36-45,Parteira tradicional,Rocha,30930,1.67,58.2,20.9,83488,2246726120926449,775,7,2024-11-01 15:23:11
+461,Mariana Aragão,641.573.089-48,815307627,mda-mata@example.net,41 1078-8984,"Viela de Melo
+Aparecida
+38790-461 Ribeiro da Serra / SE",Cidade Anonimizada,Ceará,13552-583,1997-12-31,26-35,Ilustrador,Albuquerque Cardoso - ME,29948,1.55,100.2,41.7,19535,371002627600502,325,0,2023-12-08 02:15:29
+462,João Guilherme da Mota,074.156.382-71,051237647,ljesus@example.net,0800-648-1408,"Quadra Rodrigues
+Aeroporto
+59822-103 da Conceição / MG",Cidade Anonimizada,Pará,10412-550,1957-10-20,65+,Turismólogo,Rodrigues,11749,1.94,76.5,20.3,66636,4292723107190387,500,10,2025-09-08 20:59:06
+463,Benicio da Costa,031.472.965-80,280165432,barrosian@example.com,61 3418 9294,"Campo Aylla Montenegro, 30
+Mirtes
+76104663 da Cruz / RR",Cidade Anonimizada,Ceará,34102-741,1975-08-21,46-55,Cobrador de pedágio,Rezende,42749,1.54,89.5,37.7,40526,4638271604241248925,779,0,2022-01-27 01:40:58
+464,Dra. Ana Luiza Cavalcanti,861.534.079-00,231875046,esiqueira@example.org,61 0298-3330,"Estrada Machado, 73
+São José
+26390-272 Dias da Mata / CE",Cidade Anonimizada,Rio Grande do Sul,39980078,1990-06-20,26-35,Profissional de educação física,Dias Ltda.,34809,1.5,102.8,45.7,83785,5569849105190963,787,1,2021-06-21 17:25:58
+466,Liam Leão,194.386.270-22,210763486,santosnina@example.com,+55 (081) 9207-2843,"Recanto de Guerra, 96
+São Cristóvão
+75143687 Silveira do Galho / PE",Cidade Anonimizada,Rio Grande do Norte,62658-484,1966-12-27,56-65,Técnico em segurança do trabalho,Vargas,22701,2.0,67.5,16.9,53492,3594457171543554,669,10,2022-08-15 20:27:13
+467,Bruno Silva,761.329.405-61,683207155,garciavicente@example.com,81 4328 0751,"Sítio Vargas
+Belvedere
+44987-031 Costa / RO",Cidade Anonimizada,Santa Catarina,38867093,1979-07-06,46-55,Jogador de hóquei,Sales Novaes e Filhos,24120,1.62,100.2,38.2,52244,4148397814447793553,526,5,2020-12-02 09:48:52
+468,Isaac Rios,435.698.721-73,041378659,ycavalcanti@example.org,+55 41 1336-9341,"Largo Gomes
+Vila Nova Cachoeirinha 3ª Seção
+08618760 Freitas / ES",Cidade Anonimizada,Pará,03825045,1970-03-03,46-55,Terapeuta ocupacional,da Rosa,46884,1.69,73.6,25.8,41749,4550725510644360,730,20,2021-10-15 11:45:14
+469,Alexia Novaes,546.789.310-66,635017283,joao-gabrielandrade@example.net,(084) 4149 3027,"Parque Campos, 82
+Lajedo
+36150492 Pires / PB",Cidade Anonimizada,Tocantins,80064-535,1979-01-13,46-55,Capelão,da Rocha Ltda.,28215,1.63,97.1,36.5,78092,2232362009859745,624,16,2024-01-07 16:56:09
+470,Srta. Maria Luiza Sales,326.487.519-55,328564072,maria-aliceaparecida@example.com,51 1704 8212,"Área Bento Pimenta, 26
+Saudade
+92029-411 Correia / RN",Cidade Anonimizada,Tocantins,28342015,1994-11-01,26-35,Tintureiro,Vargas,34238,1.58,92.0,36.9,95121,30542804190358,393,6,2021-05-12 05:43:25
+471,Stephany Rezende,172.685.094-30,504368710,heloisa48@example.com,+55 (031) 6430 3209,"Ladeira Teixeira, 70
+Vila Cemig
+17672387 Pinto Paulista / PB",Cidade Anonimizada,Santa Catarina,54583-325,1946-12-05,65+,Técnico em radiologia,Monteiro,8792,1.98,100.5,25.6,52362,3536040056617403,463,17,2021-07-26 23:52:43
+472,Renan Gonçalves,659.481.327-73,713605844,manuella99@example.org,+55 (011) 5292-1506,"Fazenda Sara Gonçalves, 1
+Boa Vista
+13013892 Castro Verde / AC",Cidade Anonimizada,Acre,20578775,2000-02-10,18-25,Prático,Teixeira,8422,1.7,99.9,34.6,43743,4250809046043168288,620,13,2020-11-29 04:18:41
+473,Lorenzo da Cunha,327.581.049-97,854602379,rda-mota@example.org,+55 (071) 7979-5536,"Trevo de Caldeira, 94
+Nossa Senhora Do Rosário
+90760055 Caldeira da Mata / TO",Cidade Anonimizada,Rio Grande do Norte,24405-456,1950-04-08,65+,Maestro,Carvalho,3607,1.5,82.3,36.6,35635,6517059020608526,316,7,2024-10-20 22:11:50
+475,Bella Sá,640.592.387-83,178053429,albuquerquemaria-julia@example.com,+55 31 6620 5781,"Praça Mendonça, 3
+Novo Tupi
+19628-187 da Cruz / BA",Cidade Anonimizada,Rio de Janeiro,98123295,2001-12-04,18-25,Gestor público,Cavalcanti,12525,1.74,65.4,21.6,33709,6011073049000343,514,11,2024-09-26 01:06:22
+476,Laís Pacheco,628.450.379-29,785613420,breno57@example.org,+55 (061) 0142-0903,"Vila de Monteiro, 1
+Ermelinda
+50708956 Borges / MS",Cidade Anonimizada,Sergipe,69521235,1952-02-18,65+,Auxiliar administrativo,Carvalho,42728,1.85,70.6,20.6,90774,4227212611374661,360,17,2021-07-08 18:28:16
+477,Ian Castro,861.549.302-24,706521833,gleao@example.net,41 0035-9489,"Núcleo de da Cruz, 339
+Dom Cabral
+12463-270 Caldeira de Minas / ES",Cidade Anonimizada,Pará,51386723,2007-10-06,18-25,Arquiteto,Correia e Filhos,38428,1.71,93.2,31.9,92564,340727422496601,725,14,2025-03-23 17:58:55
+478,Ana Carolina Rocha,214.937.658-09,725618346,nogueiraana@example.com,0500 575 2404,"Estação de Vasconcelos, 81
+Madre Gertrudes
+15877-689 Campos / AP",Cidade Anonimizada,Acre,36823-356,1953-01-10,65+,Lancheiro,Cunha,45648,1.9,113.4,31.4,24335,2708311904626282,770,10,2021-10-02 20:23:18
+479,Dr. Isaque Cavalcanti,264.730.591-99,186524730,aparecidalevi@example.net,+55 (021) 0895-0511,"Condomínio de Melo, 647
+Indaiá
+64195-826 Rodrigues do Oeste / RN",Cidade Anonimizada,Roraima,33406-911,1960-09-28,56-65,Editor de mesa de corte,Macedo S.A.,38624,1.8,55.1,17.0,12589,346025887751469,550,17,2020-11-24 01:28:31
+480,Maria Sophia Ribeiro,683.104.957-57,15746023X,cirinolaura@example.net,(031) 4993-3108,"Quadra de Aparecida
+Álvaro Camargos
+39078707 Cardoso da Prata / SP",Cidade Anonimizada,Roraima,07877572,1990-09-21,26-35,Barman,Mendes S.A.,43988,1.7,98.4,34.0,91374,583327922725,693,9,2023-04-26 02:53:30
+481,Luiz Fernando Freitas,305.782.419-60,046251388,jcunha@example.org,0300 709 8323,"Área Paulo Peixoto, 690
+Ademar Maldonado
+48879509 Silveira / ES",Cidade Anonimizada,Acre,23547607,1949-11-19,65+,Bartender,Camargo,17454,1.95,60.3,15.9,81143,4375868400313838,710,15,2025-05-30 12:38:14
+483,Bruna Camargo,824.735.910-32,863240574,msilva@example.net,+55 (041) 3702 5772,"Fazenda Rios
+Vila Madre Gertrudes 4ª Seção
+45065240 Alves / CE",Cidade Anonimizada,Paraíba,84097-423,1967-05-13,56-65,Fundidor,Dias,34304,1.72,51.6,17.4,63658,30441955911995,658,7,2023-10-28 11:47:44
+484,Jade Barbosa,428.531.609-98,481576034,jose-migueloliveira@example.com,(051) 6906-3879,"Área Sá
+Santa Rosa
+68919658 da Rosa de Cirino / RR",Cidade Anonimizada,Piauí,96742403,1989-04-13,36-45,Técnico tributarista,Borges S.A.,14077,1.65,52.1,19.1,63524,3588156143387359,720,17,2023-12-22 00:40:51
+486,Antony Borges,078.932.416-40,270483615,laura90@example.net,+55 51 4516 9176,"Vereda Isabela Albuquerque, 75
+Cachoeirinha
+25585531 Machado da Serra / TO",Cidade Anonimizada,Rondônia,33720860,2002-11-01,18-25,Engenheiro químico,Melo Martins e Filhos,5304,1.85,113.1,33.0,96538,4122186925435535911,849,7,2022-02-13 10:19:03
+487,Luana Martins,021.938.746-03,856432179,natalialeao@example.net,84 5494-6192,"Avenida Ana Liz Peixoto, 870
+Vale Do Jatoba
+81242-646 Teixeira / SE",Cidade Anonimizada,Maranhão,66408-029,1979-02-20,46-55,Fisiculturista,Rocha,29724,1.97,115.3,29.7,45130,4788780596124,454,1,2025-09-09 19:57:14
+489,Sra. Isabelly Lopes,572.893.461-73,671402353,maria-ceciliacarvalho@example.org,+55 11 9763-0522,"Campo Henrique da Costa
+Silveira
+53539999 Borges de Goiás / RO",Cidade Anonimizada,Amazonas,07130-741,1952-02-21,65+,Consultor de moda,Pastor Vieira - ME,20893,1.91,102.8,28.2,87713,501863967433,837,17,2021-12-15 01:44:42
+490,Dr. Bruno Mendonça,784.059.623-10,814632701,silvamaria-laura@example.org,(031) 8576 2907,"Parque Pimenta, 4
+Vera Cruz
+71690549 Pinto de Câmara / PR",Cidade Anonimizada,Amapá,79492-186,1976-04-05,46-55,Técnico em aviação,Alves,41080,1.54,106.5,44.9,33519,213148804338192,819,8,2024-08-16 11:33:04
+491,Arthur da Costa,092.147.586-11,852413075,augusto74@example.net,0500 646 8295,"Área Josué Leão, 303
+Aparecida 7ª Seção
+45355329 Araújo / SP",Cidade Anonimizada,Maranhão,52681-288,1995-08-30,26-35,Médico cirurgião,Novaes - EI,23486,1.68,115.8,41.0,25708,3596364277553990,526,9,2023-05-22 03:07:50
+492,Vitor Gabriel Santos,829.730.165-68,16432057X,mathias84@example.com,(081) 7436-0813,"Colônia de Rios, 97
+Saudade
+35576-287 Almeida de Minas / PA",Cidade Anonimizada,Pernambuco,73075549,1947-09-14,65+,Atleta de nado sincronizado,Brito S/A,30700,1.99,116.1,29.3,17293,3542367077840512,312,3,2022-08-13 21:16:54
+494,Clara Rodrigues,409.386.751-84,824370612,mendoncaasafe@example.net,+55 (084) 7997 8797,"Morro de Jesus, 710
+Vista Do Sol
+12595-073 da Rocha / RO",Cidade Anonimizada,Distrito Federal,42691283,1998-11-30,26-35,Ceramista,Freitas S/A,24949,1.78,118.1,37.3,94112,4266758175041809,312,10,2024-08-05 23:27:54
+495,Sr. Miguel Brito,932.067.845-65,256801344,camargosabrina@example.org,+55 31 3210-8273,"Chácara Caleb Pires, 47
+São Gonçalo
+34383-637 Câmara / BA",Cidade Anonimizada,Amapá,62331010,1971-10-05,46-55,Ginecologista,Rodrigues e Filhos,6265,1.75,59.5,19.4,96261,38510015434602,475,7,2021-07-26 16:10:04
+496,Sr. Lucca Macedo,679.510.824-49,168275302,antonella70@example.org,+55 21 8920-6522,"Praia Vitor Gabriel Moura, 668
+Fazendinha
+03121264 da Mata dos Dourados / ES",Cidade Anonimizada,Roraima,79579-142,1996-08-05,26-35,Personal stylist,Borges,49971,1.55,69.4,28.9,43731,3585181127645641,802,9,2022-06-23 15:25:05
+497,Sr. Igor Porto,082.143.597-32,621780340,dom06@example.net,51 0609 1059,"Lago Yan Rodrigues
+São Luiz
+27114-907 Silva da Praia / PA",Cidade Anonimizada,Rio de Janeiro,51718-363,1972-11-15,46-55,Juiz de futebol,Andrade,3720,1.84,65.5,19.3,85600,3579192352764831,578,14,2022-03-23 07:45:32
+498,Otto Abreu,584.912.306-70,530184722,mathiasda-costa@example.com,+55 (051) 5334 1724,"Vila Silva, 229
+Salgado Filho
+06001-489 Brito da Mata / MT",Cidade Anonimizada,Paraíba,47308-161,1946-05-17,65+,Transcritor,Lopes,15641,1.7,116.8,40.4,51819,4499599024940,530,14,2025-07-18 01:50:54
+499,Luísa Pires,078.526.419-11,041785629,camilacamargo@example.net,(031) 0487 3082,"Rua Fernandes, 2
+Xodo-Marize
+77978-885 Jesus de Araújo / SC",Cidade Anonimizada,Rio Grande do Sul,66632-083,1953-02-05,65+,Tecelão,Duarte,18033,1.71,60.0,20.5,26481,501842903400,380,7,2025-02-11 23:19:15
+500,Yago Marques,253.741.986-37,652013788,luna90@example.com,+55 (071) 8872-4945,"Recanto Rios
+Coqueiros
+25484169 Nascimento de Goiás / MT",Cidade Anonimizada,Alagoas,03000920,1998-07-15,26-35,Profissional de comércio exterior,Sampaio,22266,1.92,73.7,20.0,38831,6596960629963416,446,11,2022-08-11 08:28:52

@@ -88,8 +88,8 @@ dmypy.json
 Thumbs.db
 
 # Dados gerados
-*.csv
-*.png
+# *.csv
+# *.png
 *.jpg
 *.jpeg
 *.gif
